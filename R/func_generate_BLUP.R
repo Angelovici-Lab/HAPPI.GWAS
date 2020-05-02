@@ -41,7 +41,7 @@ generate_BLUP <- function(dat = NULL, by_column = c(1, 2), start_column = 3){
   # Find outlier
   outliers_residuals <- list()
   for(i in start_column:ncol(dat)){
-    lme <- lmer(formula = reformulate(termlabels = termlabels, response = colnames(dat)[i]), data = dat, REML=TRUE)
+    lme <- lme4::lmer(formula = reformulate(termlabels = termlabels, response = colnames(dat)[i]), data = dat, REML=TRUE)
 
     res <- residuals(lme)
     H <- hatvalues(lme)
@@ -106,7 +106,7 @@ generate_BLUP <- function(dat = NULL, by_column = c(1, 2), start_column = 3){
   # run transformation for each trait
   transformed_out <- list()
   for(i in start_column:ncol(dat)){
-    lme <- lmer(formula = reformulate(termlabels = termlabels, response = colnames(dat)[i]), data = dat, REML=TRUE)
+    lme <- lme4::lmer(formula = reformulate(termlabels = termlabels, response = colnames(dat)[i]), data = dat, REML=TRUE)
     transformed_out[[colnames(dat)[i]]] <- car::powerTransform(lme, family="bcnPower", lambda=c(-2, 2))
   }
 
@@ -159,7 +159,7 @@ generate_BLUP <- function(dat = NULL, by_column = c(1, 2), start_column = 3){
     dat[is.infinite(dat[,i]),i] = NA
     dat[is.nan(dat[,i]),i] = NA
 
-    lme <- lmer(formula = reformulate(termlabels = termlabels, response = colnames(dat)[i]), data = dat, REML=TRUE)
+    lme <- lme4::lmer(formula = reformulate(termlabels = termlabels, response = colnames(dat)[i]), data = dat, REML=TRUE)
 
     # estimate BLUP
     modelblup <- lme4::ranef(lme)
@@ -218,4 +218,3 @@ generate_BLUP <- function(dat = NULL, by_column = c(1, 2), start_column = 3){
   }
   
 }
-

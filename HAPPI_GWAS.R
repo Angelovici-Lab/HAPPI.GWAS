@@ -1,3 +1,5 @@
+#!/usr/bin/env Rscript
+
 #######################################################################
 ## Argument Parser
 #######################################################################
@@ -27,8 +29,8 @@ cores <- args$cores
 generateBLUP <- args$generateBLUP
 generateBLUE <- args$generateBLUE
 GAPIT <- args$GAPIT
-extractHaplotype <- args$extractHaplotype
-searchGenes <- args$searchGenes
+extractHaplotype <- ifelse(GAPIT == FALSE, FALSE, args$extractHaplotype)
+searchGenes <- ifelse(GAPIT == FALSE, FALSE, args$searchGenes)
 
 
 #######################################################################
