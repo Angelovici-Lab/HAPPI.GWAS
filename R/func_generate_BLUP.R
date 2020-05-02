@@ -3,7 +3,6 @@
 #' @description The goal of generate_BLUP is to run Best Linear Unbiased Predictions.
 #' @importFrom foreach %dopar%
 #' @importFrom magrittr %>%
-#' @importFrom data.table as.data.table
 #' @param dat An input dataset.
 #' @param by_column The accession column.
 #' @param start_column The start column index for traits.
@@ -186,7 +185,7 @@ generate_BLUP <- function(dat = NULL, by_column = c(1, 2), start_column = 3){
       }
     }
 
-    blup <- maditr::dcast(BLUP_out_df, Line ~ id, value.var="Intercept")
+    blup <- data.table::dcast(BLUP_out_df, Line ~ id, value.var="Intercept")
 
     colnames(blup)[1] <- colnames(dat)[1]
     blup <- blup[order(as.numeric(gsub("[[:alpha:]]", "", blup[,1]))),]
@@ -209,9 +208,13 @@ generate_BLUP <- function(dat = NULL, by_column = c(1, 2), start_column = 3){
   if(exists("blup")){
     return(
       list(
-        "Outlier_removed_data" = outlier_removed_dat, "Outlier_data" = outlier_dat, "Outliers_residuals" = outliers_residuals,
-        "Lambda_values" = lambda, "Boxcox_transformed_data" = boxcox_transformed_dat,
-        "BLUP" = blup, "Not_converge_columns" = not_converge_columns
+        "Outlier_removed_data" = outlier_removed_dat,
+        "Outlier_data" = outlier_dat,
+        "Outliers_residuals" = outliers_residuals,
+        "Lambda_values" = lambda,
+        "Boxcox_transformed_data" = boxcox_transformed_dat,
+        "BLUP" = blup,
+        "Not_converge_columns" = not_converge_columns
       )
     )
   } else{

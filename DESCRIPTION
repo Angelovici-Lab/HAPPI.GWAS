@@ -46,7 +46,6 @@ Imports:
     snpStats,
     multtest,
     zlibbioc,
-    maditr,
     MASS,
     plotly
 Remotes:
