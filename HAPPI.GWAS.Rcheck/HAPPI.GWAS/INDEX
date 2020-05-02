@@ -1,0 +1,5 @@
+extract_haplotype       Extract haplotype using Haploview
+farming_with_GAPIT      Farming with GAPIT
+generate_BLUE           generate BLUE function
+generate_BLUP           generate BLUP function
+search_genes            Search genes from gff files

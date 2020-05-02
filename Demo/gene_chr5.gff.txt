@@ -1,0 +1,1228 @@
+5	gramene	gene	32368	35621	.	-	.	Zm00001d012794	tRNA (guanine-N-7) methyltransferase
+5	gramene	gene	35783	42435	.	-	.	Zm00001d012795	SH2 domain protein B
+5	gramene	gene	119556	122098	.	-	.	Zm00001d012800	RNA-binding ASCH domain protein
+5	gramene	gene	241989	254837	.	-	.	Zm00001d012801	TRF-like 10
+5	gramene	gene	254977	268446	.	-	.	Zm00001d012803	Replication protein-like
+5	gramene	gene	259971	260697	.	+	.	Zm00001d012802	Regulator of nonsense transcripts 1 homolog
+5	gramene	gene	376334	379023	.	+	.	Zm00001d012805	Protein SIEL
+5	gramene	gene	380336	389692	.	-	.	Zm00001d012806	10A19I.15
+5	gramene	gene	472727	484777	.	-	.	Zm00001d012807	Kinesin-like protein KIN-12E
+5	gramene	gene	635965	639349	.	+	.	Zm00001d012809	Cysteine-type peptidase  
+5	gramene	gene	684894	687528	.	+	.	Zm00001d012810	protein_coding
+5	gramene	gene	688154	696271	.	+	.	Zm00001d012811	La-related protein 1C
+5	gramene	gene	696779	701482	.	+	.	Zm00001d012812	Pentatricopeptide repeat-containing protein 
+5	gramene	gene	703106	704530	.	+	.	Zm00001d012813	DUF3475 domain protein
+5	gramene	gene	776419	787466	.	+	.	Zm00001d012815	Protein EXPORTIN 1A
+5	gramene	gene	789953	792448	.	+	.	Zm00001d012816	Probable carbohydrate esterase 
+5	gramene	gene	834692	841621	.	-	.	Zm00001d012817	Sucrose nonfermenting 4-like protein
+5	gramene	gene	845040	846051	.	+	.	Zm00001d012818	Acyl carrier protein 3  
+5	gramene	gene	846193	847287	.	-	.	Zm00001d012819	Protein SRG1
+5	gramene	gene	848901	851867	.	-	.	Zm00001d012820	Outer envelope pore protein 24A chloroplastic
+5	gramene	gene	898964	904115	.	+	.	Zm00001d012821	Probable inactive poly [ADP-ribose] polymerase SRO1
+5	gramene	gene	919123	924671	.	+	.	Zm00001d012822	TRF-like 10
+5	gramene	gene	925235	928518	.	-	.	Zm00001d012823	protein_coding
+5	gramene	gene	928945	929484	.	+	.	Zm00001d012824	RNA binding protein  
+5	gramene	gene	930687	933796	.	-	.	Zm00001d012825	RNA-binding (RRM/RBD/RNP motifs) family protein
+5	gramene	gene	933935	937151	.	+	.	Zm00001d012826	Exosome complex exonuclease RRP46 homolog
+5	gramene	gene	939545	943194	.	+	.	Zm00001d012827	ADP-ribosylation factor GTPase-activating protein AGD10
+5	gramene	gene	945584	946022	.	-	.	Zm00001d012829	Probable nicotianamine synthase 4
+5	gramene	gene	949750	951996	.	+	.	Zm00001d012830	Protein BCCIP homolog
+5	gramene	gene	953000	956110	.	+	.	Zm00001d012831	Cleavage and polyadenylation specificity factor subunit 3-I
+5	gramene	gene	956683	958210	.	-	.	Zm00001d012832	Ycf20-like protein
+5	gramene	gene	958297	964764	.	+	.	Zm00001d012834	protein_coding
+5	gramene	gene	969717	971009	.	+	.	Zm00001d012836	hydroxyproline-rich glycoprotein family protein
+5	gramene	gene	975110	975562	.	+	.	Zm00001d012837	Histone H2A  
+5	gramene	gene	980443	982656	.	+	.	Zm00001d012838	DCD (Development and Cell Death) domain protein
+5	gramene	gene	983375	990618	.	-	.	Zm00001d012839	transducin family protein / WD-40 repeat family protein
+5	gramene	gene	990110	994697	.	-	.	Zm00001d012840	transducin family protein / WD-40 repeat family protein
+5	gramene	gene	1060873	1065790	.	+	.	Zm00001d012844	26S proteasome non-ATPase regulatory subunit 12 homolog B
+5	gramene	gene	1066531	1071306	.	-	.	Zm00001d012845	Monothiol glutaredoxin-S14 chloroplastic
+5	gramene	gene	1071426	1076029	.	+	.	Zm00001d012846	Elongation factor Tu mitochondrial
+5	gramene	gene	1077775	1079269	.	+	.	Zm00001d012847	Sec14p-like phosphatidylinositol transfer family protein
+5	gramene	gene	1080944	1081672	.	+	.	Zm00001d012848	SAM domain family protein  
+5	gramene	gene	1082609	1084730	.	+	.	Zm00001d012849	NAD(P)-binding Rossmann-fold superfamily protein
+5	gramene	gene	1084640	1087652	.	-	.	Zm00001d012850	Nucleotide-diphospho-sugar transferase family protein
+5	gramene	gene	1092746	1099057	.	+	.	Zm00001d012851	Oligomeric Golgi complex subunit 2
+5	gramene	gene	1099259	1101829	.	-	.	Zm00001d012852	RPM1-interacting protein 4
+5	gramene	gene	1115868	1118754	.	+	.	Zm00001d012853	B-cell receptor-associated protein 31-like
+5	gramene	gene	1119957	1122587	.	-	.	Zm00001d012854	Actin-related protein 2/3 complex subunit 4
+5	gramene	gene	1124569	1127670	.	-	.	Zm00001d012855	SWIM zinc finger family protein
+5	gramene	gene	1129423	1135486	.	-	.	Zm00001d012856	DNA binding protein
+5	gramene	gene	1163084	1165592	.	+	.	Zm00001d012857	DNA-directed RNA polymerases II IV and V subunit 8B
+5	gramene	gene	1169589	1180180	.	+	.	Zm00001d012858	Protein prenylyltransferase superfamily protein
+5	gramene	gene	1221504	1223598	.	+	.	Zm00001d012859	Hyaluronan / mRNA binding family
+5	gramene	gene	1269106	1283069	.	+	.	Zm00001d012861	ALBINO3-like protein 1 chloroplastic
+5	gramene	gene	1289643	1291724	.	-	.	Zm00001d012862	Pentatricopeptide repeat-containing protein  chloroplastic
+5	gramene	gene	1291937	1298884	.	-	.	Zm00001d012863	Putative ion channel protein CASTOR  
+5	gramene	gene	1349308	1357093	.	+	.	Zm00001d012865	LUC7 related protein
+5	gramene	gene	1358353	1362950	.	+	.	Zm00001d012866	translocation protein-related
+5	gramene	gene	1369611	1375366	.	+	.	Zm00001d012868	protein_coding
+5	gramene	gene	1375911	1397930	.	+	.	Zm00001d012869	Shaggy-related protein kinase kappa
+5	gramene	gene	1530846	1531472	.	+	.	Zm00001d012877	Retrovirus-related Pol polyprotein LINE-1
+5	gramene	gene	1531936	1534668	.	+	.	Zm00001d012878	protein_coding
+5	gramene	gene	1564032	1566921	.	+	.	Zm00001d012880	BTB/POZ domain-containing protein 
+5	gramene	gene	1566875	1569101	.	-	.	Zm00001d012881	DPP6 N-terminal domain-like protein
+5	gramene	gene	1573806	1578947	.	+	.	Zm00001d012882	Protein kinase protein with adenine nucleotide alpha hydrolases-like domain
+5	gramene	gene	1584315	1587019	.	-	.	Zm00001d012883	protein_coding
+5	gramene	gene	1587906	1593592	.	+	.	Zm00001d012884	FAD/NAD(P)-binding oxidoreductase family protein
+5	gramene	gene	1594063	1594988	.	-	.	Zm00001d012885	Pi starvation-induced protein  
+5	gramene	gene	1605087	1607673	.	-	.	Zm00001d012886	40S ribosomal protein S21  
+5	gramene	gene	1609222	1611862	.	-	.	Zm00001d012887	IAA-amino acid hydrolase ILR1
+5	gramene	gene	1618038	1622184	.	-	.	Zm00001d012890	Mitochondrial ribosomal protein L27
+5	gramene	gene	1622705	1631341	.	-	.	Zm00001d012891	Biotin/lipoate A/B protein ligase family
+5	gramene	gene	1642983	1653530	.	+	.	Zm00001d012892	Acyl-CoA-binding domain-containing protein 4
+5	gramene	gene	1661518	1666868	.	-	.	Zm00001d012893	Translocase of chloroplast 159 chloroplastic
+5	gramene	gene	1713093	1718062	.	-	.	Zm00001d012895	DUF4378 domain protein
+5	gramene	gene	1719447	1724144	.	-	.	Zm00001d012896	Expressed protein%3B  protein
+5	gramene	gene	1754456	1759018	.	+	.	Zm00001d012897	Clathrin heavy chain 2
+5	gramene	gene	1759263	1764689	.	+	.	Zm00001d012898	Mono-/di-acylglycerol lipase N-terminal%3BLipase class 3
+5	gramene	gene	1765131	1766168	.	+	.	Zm00001d012899	protein_coding
+5	gramene	gene	1768374	1778661	.	+	.	Zm00001d012900	protein_coding
+5	gramene	gene	1831586	1831960	.	-	.	Zm00001d012904	Glutaredoxin family protein
+5	gramene	gene	1836103	1837130	.	+	.	Zm00001d012906	protein_coding
+5	gramene	gene	1842636	1843127	.	-	.	Zm00001d012907	soluble epoxide hydrolase
+5	gramene	gene	1876137	1876529	.	-	.	Zm00001d012908	soluble epoxide hydrolase
+5	gramene	gene	1879412	1882859	.	-	.	Zm00001d012909	soluble epoxide hydrolase
+5	gramene	gene	1884199	1891050	.	-	.	Zm00001d012911	Huntingtin interacting protein K  
+5	gramene	gene	1891852	1900865	.	-	.	Zm00001d012913	Chaperone DnaJ-domain superfamily protein
+5	gramene	gene	1905304	1908332	.	+	.	Zm00001d012915	methyltransferases
+5	gramene	gene	1908305	1915026	.	-	.	Zm00001d012916	protein_coding
+5	gramene	gene	1934208	1936982	.	+	.	Zm00001d012917	Carbohydrate-binding X8 domain superfamily protein
+5	gramene	gene	1940928	1956957	.	+	.	Zm00001d012918	Flap endonuclease 1
+5	gramene	gene	1958516	1959313	.	-	.	Zm00001d012920	ST225
+5	gramene	gene	1959713	1963560	.	-	.	Zm00001d012921	Protein LAZ1
+5	gramene	gene	1978763	1993142	.	+	.	Zm00001d012922	protein_coding
+5	gramene	gene	1993895	2003080	.	-	.	Zm00001d012923	RMUA
+5	gramene	gene	2004892	2007704	.	-	.	Zm00001d012924	Non-specific phospholipase C1
+5	gramene	gene	2065025	2068818	.	+	.	Zm00001d012925	Anthranilate synthase alpha subunit 2 chloroplastic
+5	gramene	gene	2162733	2165262	.	+	.	Zm00001d012928	AT-rich interactive domain-containing protein 2
+5	gramene	gene	2166712	2169144	.	+	.	Zm00001d012929	Receptor protein kinase TMK1  
+5	gramene	gene	2169425	2171887	.	+	.	Zm00001d012930	Mitochondrial import inner membrane translocase subunit Tim10  
+5	gramene	gene	2173189	2178440	.	-	.	Zm00001d012931	Protein kinase protein with tetratricopeptide repeat domain
+5	gramene	gene	2183943	2186302	.	-	.	Zm00001d012932	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein
+5	gramene	gene	2194975	2197929	.	+	.	Zm00001d012933	Mitotic-spindle organizing protein 1A
+5	gramene	gene	2198176	2201920	.	+	.	Zm00001d012934	Calmodulin binding protein  
+5	gramene	gene	2204320	2225211	.	+	.	Zm00001d012935	Nucleobase-ascorbate transporter 6
+5	gramene	gene	2225609	2227382	.	+	.	Zm00001d012936	ribosomal protein L30 family protein
+5	gramene	gene	2228453	2229426	.	+	.	Zm00001d012937	Thioesterase superfamily protein
+5	gramene	gene	2230365	2235259	.	-	.	Zm00001d012938	D-xylose-proton symporter-like 3 chloroplastic
+5	gramene	gene	2237403	2238414	.	-	.	Zm00001d012939	Bowman-Birk type trypsin inhibitor
+5	gramene	gene	2276614	2278673	.	+	.	Zm00001d012941	Transcription initiation factor TFIID subunit 7
+5	gramene	gene	2286794	2296592	.	-	.	Zm00001d012943	E3 ubiquitin-protein ligase HOS1
+5	gramene	gene	2303449	2309070	.	-	.	Zm00001d012947	E3 ubiquitin-protein ligase HOS1
+5	gramene	gene	2326249	2328532	.	+	.	Zm00001d012952	Protein VAC14 homolog
+5	gramene	gene	2330281	2333027	.	-	.	Zm00001d012953	Protein NRT1/ PTR FAMILY 5.6
+5	gramene	gene	2343012	2343815	.	-	.	Zm00001d012954	protein_coding
+5	gramene	gene	2345664	2348616	.	-	.	Zm00001d012955	Fes1A
+5	gramene	gene	2355513	2357943	.	+	.	Zm00001d012957	Expansin-A6
+5	gramene	gene	2364388	2370531	.	-	.	Zm00001d012958	Protein kinase APK1A chloroplastic
+5	gramene	gene	2379741	2380346	.	+	.	Zm00001d012960	Nucleotide-diphospho-sugar transferases superfamily protein
+5	gramene	gene	2387556	2389415	.	+	.	Zm00001d012961	Pentatricopeptide repeat-containing protein 
+5	gramene	gene	2395497	2399273	.	+	.	Zm00001d012962	Probable protein phosphatase 2C 4
+5	gramene	gene	2416250	2425046	.	-	.	Zm00001d012963	protein_coding
+5	gramene	gene	2431015	2437696	.	+	.	Zm00001d012964	SEC14 cytosolic factor family protein / phosphoglyceride transfer family protein
+5	gramene	gene	2439260	2442023	.	+	.	Zm00001d012965	zinc knuckle (CCHC-type) family protein
+5	gramene	gene	2443185	2445279	.	-	.	Zm00001d012966	Actin-depolymerizing factor 10
+5	gramene	gene	2446801	2447181	.	-	.	Zm00001d012967	Zinc finger DNA-binding protein  
+5	gramene	gene	2459657	2460184	.	-	.	Zm00001d012968	ZFP16-2  
+5	gramene	gene	2467426	2481571	.	-	.	Zm00001d012969	NEDD8-activating enzyme E1 regulatory subunit AXR1
+5	gramene	gene	2554674	2558207	.	+	.	Zm00001d012970	Phosphatidylinositol N-acetyglucosaminlytransferase subunit P-related
+5	gramene	gene	2560596	2569361	.	+	.	Zm00001d012971	Aspartic proteinase A1
+5	gramene	gene	2582304	2584012	.	+	.	Zm00001d012972	protein_coding
+5	gramene	gene	2608395	2610069	.	+	.	Zm00001d012973	Metal ion binding protein  
+5	gramene	gene	2610660	2624658	.	+	.	Zm00001d012974	Transducin/WD40 repeat-like superfamily protein
+5	gramene	gene	2624940	2626072	.	-	.	Zm00001d012975	Glycine-rich protein A3  
+5	gramene	gene	2663422	2665225	.	+	.	Zm00001d012978	40S ribosomal protein S23-2
+5	gramene	gene	2666357	2681120	.	+	.	Zm00001d012979	protein_coding
+5	gramene	gene	2680365	2689832	.	-	.	Zm00001d012980	NAD(P)-binding Rossmann-fold superfamily protein
+5	gramene	gene	2680388	2692291	.	-	.	Zm00001d012981	NAD(P)-binding Rossmann-fold superfamily protein
+5	gramene	gene	2772181	2774600	.	-	.	Zm00001d012982	NAD(P)-binding Rossmann-fold superfamily protein
+5	gramene	gene	2774829	2777025	.	-	.	Zm00001d012983	Protein trichome birefringence-like 34
+5	gramene	gene	2827981	2833133	.	+	.	Zm00001d012984	Protein FLC EXPRESSOR
+5	gramene	gene	2835587	2837088	.	-	.	Zm00001d012985	Glutamate--tRNA ligase chloroplastic/mitochondrial
+5	gramene	gene	2849021	2850279	.	+	.	Zm00001d012988	CASP-like protein 4B1
+5	gramene	gene	2854063	2855040	.	-	.	Zm00001d012990	Probable inactive purple acid phosphatase 1
+5	gramene	gene	2857770	2867371	.	-	.	Zm00001d012991	2-oxoglutarate-dependent dioxygenase family protein
+5	gramene	gene	2871120	2873693	.	-	.	Zm00001d012992	40S ribosomal protein S26-3
+5	gramene	gene	2874875	2878453	.	+	.	Zm00001d012993	protein_coding
+5	gramene	gene	2879546	2882574	.	+	.	Zm00001d012994	Histidine kinase CKI1
+5	gramene	gene	2886366	2890377	.	-	.	Zm00001d012996	KH domain-containing protein SPIN1
+5	gramene	gene	2893965	2896910	.	-	.	Zm00001d012998	50S ribosomal protein L17 chloroplastic
+5	gramene	gene	2930870	2933511	.	+	.	Zm00001d012999	Methylenetetrahydrofolate reductase 2
+5	gramene	gene	2973947	2975342	.	+	.	Zm00001d013002	Methylenetetrahydrofolate reductase 2
+5	gramene	gene	2977575	2979101	.	-	.	Zm00001d013003	protein_coding
+5	gramene	gene	2995849	2996508	.	-	.	Zm00001d013004	Calcium-binding allergen Ole e 8  
+5	gramene	gene	2997319	3000825	.	-	.	Zm00001d013005	RING/U-box superfamily protein
+5	gramene	gene	3132563	3148461	.	+	.	Zm00001d013006	DNA gyrase subunit A chloroplastic/mitochondrial
+5	gramene	gene	3149161	3151741	.	-	.	Zm00001d013007	protein_coding
+5	gramene	gene	3153649	3159513	.	+	.	Zm00001d013008	Ribosomal protein  
+5	gramene	gene	3161899	3162291	.	-	.	Zm00001d013009	Splicing factor 3B subunit 6-like protein
+5	gramene	gene	3162431	3171017	.	+	.	Zm00001d013010	Peptidyl-prolyl cis-trans isomerase  
+5	gramene	gene	3194850	3195767	.	+	.	Zm00001d013011	Protein MIZU-KUSSEI 1
+5	gramene	gene	3197352	3202002	.	+	.	Zm00001d013012	HIT zinc finger %3BPAPA-1-like conserved region
+5	gramene	gene	3206170	3213965	.	-	.	Zm00001d013013	protein_coding
+5	gramene	gene	3228063	3233201	.	+	.	Zm00001d013014	Triacylglycerol lipase SDP1
+5	gramene	gene	3231369	3233042	.	-	.	Zm00001d013015	protein_coding
+5	gramene	gene	3241405	3242531	.	+	.	Zm00001d013018	Structural maintenance of chromosomes protein 4
+5	gramene	gene	3281413	3292822	.	+	.	Zm00001d013019	Mitochondrial Rho GTPase  
+5	gramene	gene	3283568	3286317	.	-	.	Zm00001d013020	hAT transposon superfamily protein
+5	gramene	gene	3407648	3408661	.	-	.	Zm00001d013021	protein_coding
+5	gramene	gene	3410175	3412752	.	-	.	Zm00001d013022	(+)-neomenthol dehydrogenase
+5	gramene	gene	3417817	3427573	.	+	.	Zm00001d013023	Protein GLE1
+5	gramene	gene	3430063	3432771	.	+	.	Zm00001d013025	RING/U-box superfamily protein
+5	gramene	gene	3457051	3461537	.	+	.	Zm00001d013027	Probable protein phosphatase 2C 55
+5	gramene	gene	3464279	3465049	.	-	.	Zm00001d013028	DNA-binding storekeeper protein-related
+5	gramene	gene	3467417	3471866	.	+	.	Zm00001d013029	Ubiquitin carboxyl-terminal hydrolase family protein
+5	gramene	gene	3472230	3476498	.	-	.	Zm00001d013030	Calcium-dependent protein kinase 7
+5	gramene	gene	3489366	3491526	.	+	.	Zm00001d013032	Polygalacturonase QRT2
+5	gramene	gene	3492135	3493834	.	-	.	Zm00001d013033	Chaperonin-like RbcX protein
+5	gramene	gene	3494823	3496592	.	-	.	Zm00001d013034	40S ribosomal protein S2-1
+5	gramene	gene	3537738	3542307	.	+	.	Zm00001d013035	Cycloartenol-C-24-methyltransferase
+5	gramene	gene	3549293	3553774	.	-	.	Zm00001d013036	40S ribosomal protein S4-3
+5	gramene	gene	3579930	3583194	.	+	.	Zm00001d013037	Cycloartenol-C-24-methyltransferase 1  
+5	gramene	gene	3586891	3587917	.	-	.	Zm00001d013038	Cupredoxin superfamily protein
+5	gramene	gene	3603517	3604227	.	-	.	Zm00001d013039	 photosystem I subunit d1
+5	gramene	gene	3606324	3612670	.	+	.	Zm00001d013040	Cysteine proteinases superfamily protein
+5	gramene	gene	3613357	3618413	.	-	.	Zm00001d013041	Cytochrome b-c1 complex subunit 7  
+5	gramene	gene	3626153	3629045	.	-	.	Zm00001d013043	protein_coding
+5	gramene	gene	3682866	3686323	.	+	.	Zm00001d013045	Brain protein 44-like protein  
+5	gramene	gene	3732917	3736177	.	+	.	Zm00001d013046	Lipid phosphate phosphatase delta
+5	gramene	gene	3751294	3758135	.	-	.	Zm00001d013047	Serine/threonine-protein phosphatase  
+5	gramene	gene	3760185	3771088	.	-	.	Zm00001d013048	protein_coding
+5	gramene	gene	3819243	3825110	.	-	.	Zm00001d013049	Exocyst complex component EXO84B
+5	gramene	gene	3881567	3886173	.	+	.	Zm00001d013052	Hydroxyproline O-galactosyltransferase GALT4
+5	gramene	gene	3891202	3893064	.	+	.	Zm00001d013053	Probable prolyl 4-hydroxylase 12
+5	gramene	gene	3895207	3898568	.	+	.	Zm00001d013054	protein_coding
+5	gramene	gene	3900060	3902473	.	-	.	Zm00001d013055	Vesicle-associated membrane protein 722
+5	gramene	gene	3926636	3931723	.	+	.	Zm00001d013056	DEAD-box ATP-dependent RNA helicase 51
+5	gramene	gene	3946993	3950428	.	-	.	Zm00001d013057	Actin cross-linking protein
+5	gramene	gene	3952446	3967070	.	-	.	Zm00001d013058	RNA-binding (RRM/RBD/RNP motifs) family protein
+5	gramene	gene	3972809	3981361	.	-	.	Zm00001d013059	Vacuolar protein sorting-associated protein 35B
+5	gramene	gene	4053398	4061564	.	+	.	Zm00001d013060	protein_coding
+5	gramene	gene	4062403	4065804	.	+	.	Zm00001d013061	Thioredoxin  
+5	gramene	gene	4109487	4117972	.	+	.	Zm00001d013063	protein_coding
+5	gramene	gene	4123406	4128589	.	-	.	Zm00001d013065	Protein WVD2-like 3
+5	gramene	gene	4147202	4148651	.	+	.	Zm00001d013066	Histone H1  
+5	gramene	gene	4209561	4210878	.	-	.	Zm00001d013067	Histone H1  
+5	gramene	gene	4260910	4261590	.	+	.	Zm00001d013069	Prenylated Rab receptor 2  
+5	gramene	gene	4264331	4269310	.	+	.	Zm00001d013070	protein_coding
+5	gramene	gene	4310449	4311941	.	+	.	Zm00001d013071	protein_coding
+5	gramene	gene	4313552	4316490	.	-	.	Zm00001d013072	DUF2361 family protein
+5	gramene	gene	4321102	4333658	.	-	.	Zm00001d013073	protein_coding
+5	gramene	gene	4364088	4367769	.	+	.	Zm00001d013074	protein_coding
+5	gramene	gene	4368506	4377766	.	-	.	Zm00001d013075	Guanylate-binding family protein
+5	gramene	gene	4379338	4381854	.	+	.	Zm00001d013076	60S ribosomal protein L4-1
+5	gramene	gene	4384816	4389625	.	+	.	Zm00001d013077	Plant Tudor-like RNA-binding protein
+5	gramene	gene	4419199	4421924	.	+	.	Zm00001d013078	Bax inhibitor-1 family protein
+5	gramene	gene	4422306	4427048	.	-	.	Zm00001d013079	Thioredoxin-like protein 1  
+5	gramene	gene	4432208	4433838	.	+	.	Zm00001d013080	Leucine-rich repeat extensin-like protein 6
+5	gramene	gene	4445501	4447321	.	-	.	Zm00001d013081	Pentatricopeptide repeat-containing protein  chloroplastic
+5	gramene	gene	4461282	4476568	.	-	.	Zm00001d013083	5-3 exoribonuclease 4
+5	gramene	gene	4479886	4480765	.	-	.	Zm00001d013084	GTP-binding protein-related
+5	gramene	gene	4528425	4530419	.	+	.	Zm00001d013086	40S ribosomal protein S18
+5	gramene	gene	4531531	4532118	.	-	.	Zm00001d013087	protein_coding
+5	gramene	gene	4535409	4536527	.	+	.	Zm00001d013089	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein
+5	gramene	gene	4574326	4579214	.	-	.	Zm00001d013090	Type IV inositol polyphosphate 5-phosphatase 7
+5	gramene	gene	4586216	4587199	.	-	.	Zm00001d013091	Cyclin-dependent kinase G-1
+5	gramene	gene	4601112	4605969	.	-	.	Zm00001d013092	Ubiquitin-conjugating enzyme E2 2
+5	gramene	gene	4608646	4623764	.	+	.	Zm00001d013093	Probable zinc metalloprotease EGY1 chloroplastic
+5	gramene	gene	4676461	4680208	.	+	.	Zm00001d013094	protein_coding
+5	gramene	gene	4680234	4684555	.	-	.	Zm00001d013095	Replication factor C subunit 3
+5	gramene	gene	4688274	4690690	.	+	.	Zm00001d013097	O-Glycosyl hydrolases family 17 protein
+5	gramene	gene	4694181	4700885	.	+	.	Zm00001d013098	protein_coding
+5	gramene	gene	4703800	4704819	.	+	.	Zm00001d013099	Probable carboxylesterase 15
+5	gramene	gene	4705906	4709535	.	+	.	Zm00001d013100	Myosin-binding protein 7
+5	gramene	gene	4762654	4766640	.	+	.	Zm00001d013105	Calcium-dependent protein kinase 20
+5	gramene	gene	4767909	4771878	.	+	.	Zm00001d013107	E3 ubiquitin-protein ligase RHF2A
+5	gramene	gene	4781512	4784720	.	-	.	Zm00001d013109	 calcium-dependent protein kinase 10
+5	gramene	gene	4788839	4789393	.	-	.	Zm00001d013110	RING-H2 finger protein ATL70
+5	gramene	gene	4796152	4799203	.	-	.	Zm00001d013111	DnaJ protein  
+5	gramene	gene	4870603	4876553	.	+	.	Zm00001d013112	IQ-domain 5
+5	gramene	gene	4876757	4878827	.	+	.	Zm00001d013113	Expp1 protein  
+5	gramene	gene	4879308	4880263	.	-	.	Zm00001d013114	Syntaxin-121
+5	gramene	gene	4888300	4898134	.	-	.	Zm00001d013116	Cullin-4
+5	gramene	gene	5048884	5049726	.	+	.	Zm00001d013118	Drought and salt tolerance protein%3B Expressed protein
+5	gramene	gene	5078404	5079549	.	-	.	Zm00001d013119	protein_coding
+5	gramene	gene	5101330	5122110	.	+	.	Zm00001d013120	Cell differentiation Rcd1-like protein
+5	gramene	gene	5127492	5146259	.	+	.	Zm00001d013122	Ycf20-like protein
+5	gramene	gene	5155184	5157905	.	+	.	Zm00001d013126	 protein%3B Tyrosine specific protein phosphatase-like
+5	gramene	gene	5181668	5187630	.	+	.	Zm00001d013127	Zinc transporter ZTP29
+5	gramene	gene	5189195	5192215	.	+	.	Zm00001d013128	AP-1 complex subunit sigma-2
+5	gramene	gene	5228815	5231062	.	-	.	Zm00001d013130	protein_coding
+5	gramene	gene	5239316	5245504	.	-	.	Zm00001d013131	Cell division protein FtsZ homolog 1 chloroplastic
+5	gramene	gene	5314706	5314963	.	-	.	Zm00001d013133	Verprolin  
+5	gramene	gene	5325997	5328420	.	+	.	Zm00001d013135	Ribose-5-phosphate isomerase  
+5	gramene	gene	5332065	5334626	.	-	.	Zm00001d013136	protein_coding
+5	gramene	gene	5339098	5339871	.	-	.	Zm00001d013138	protein_coding
+5	gramene	gene	5342045	5344671	.	-	.	Zm00001d013139	Tubulin beta-4 chain
+5	gramene	gene	13744287	13747499	.	+	.	Zm00001d013531	p8MTCP1  
+5	gramene	gene	13749820	13753258	.	-	.	Zm00001d013532	Defense-related protein  
+5	gramene	gene	13761392	13763145	.	-	.	Zm00001d013533	tRNA/rRNA methyltransferase (SpoU) family protein
+5	gramene	gene	13763873	13782041	.	-	.	Zm00001d013534	2Fe-2S ferredoxin-like superfamily protein
+5	gramene	gene	13856319	13859702	.	+	.	Zm00001d013536	HPP  
+5	gramene	gene	13929594	13945018	.	+	.	Zm00001d013540	E3 ubiquitin-protein ligase UPL7
+5	gramene	gene	13953891	13960814	.	+	.	Zm00001d013542	protein_coding
+5	gramene	gene	13962051	13966899	.	+	.	Zm00001d013543	Glycine-rich RNA-binding protein RZ1C
+5	gramene	gene	16868199	16869025	.	-	.	Zm00001d013666	tRNA (guanine-N-7) methyltransferase
+5	gramene	gene	16891018	16894241	.	+	.	Zm00001d013667	Methyl-CpG-binding domain-containing protein 11
+5	gramene	gene	16899731	16900783	.	+	.	Zm00001d013668	Electron transporter/ thiol-disulfide exchange intermediate  
+5	gramene	gene	16901324	16905867	.	-	.	Zm00001d013669	Chaperone protein dnaJ 3
+5	gramene	gene	16990039	16990512	.	-	.	Zm00001d013671	12-dihydroxy-3-keto-5-methylthiopentene dioxygenase 4
+5	gramene	gene	17000666	17001748	.	+	.	Zm00001d013672	protein_coding
+5	gramene	gene	17020226	17027048	.	+	.	Zm00001d013673	CSL zinc finger domain-containing protein
+5	gramene	gene	17050121	17054266	.	+	.	Zm00001d013676	protein_coding
+5	gramene	gene	17092612	17093136	.	-	.	Zm00001d013677	GCK domain-containing protein
+5	gramene	gene	17206998	17218400	.	+	.	Zm00001d013680	Serine/threonine-protein phosphatase BSL3
+5	gramene	gene	17282575	17295373	.	-	.	Zm00001d013683	DNA-directed RNA polymerase II subunit 2
+5	gramene	gene	17453120	17455243	.	-	.	Zm00001d013688	Probable cyclic nucleotide-gated ion channel 5
+5	gramene	gene	17465790	17467595	.	-	.	Zm00001d013689	protein_coding
+5	gramene	gene	17661017	17667360	.	+	.	Zm00001d013692	Translation initiation factor eIF-2B delta subunit  
+5	gramene	gene	17669086	17669866	.	+	.	Zm00001d013693	Glutathione S-transferase U28
+5	gramene	gene	17707483	17723908	.	+	.	Zm00001d013694	protein_coding
+5	gramene	gene	17805119	17812508	.	+	.	Zm00001d013697	U3 snoRNP-associated protein-like EMB2271
+5	gramene	gene	17856864	17862605	.	+	.	Zm00001d013699	Homeobox-leucine zipper protein ATHB-14
+5	gramene	gene	17882005	17883379	.	+	.	Zm00001d013700	KxDL motif CG10681-like protein
+5	gramene	gene	17942846	17948363	.	+	.	Zm00001d013702	 nucleosome/chromatin assembly factor C
+5	gramene	gene	18047108	18052512	.	+	.	Zm00001d013703	Serine/threonine-protein kinase Nek1
+5	gramene	gene	18155042	18157191	.	-	.	Zm00001d013704	Trigger factor-like protein TIG Chloroplastic
+5	gramene	gene	18158101	18163389	.	+	.	Zm00001d013705	VAN3-binding protein
+5	gramene	gene	18187967	18195207	.	+	.	Zm00001d013706	protein_coding
+5	gramene	gene	18196300	18197763	.	-	.	Zm00001d013707	protein_coding
+5	gramene	gene	18220017	18222932	.	+	.	Zm00001d013708	Probable prefoldin subunit 4
+5	gramene	gene	18220021	18227041	.	+	.	Zm00001d013709	protein_coding
+5	gramene	gene	18266523	18272776	.	-	.	Zm00001d013712	Nucleic acid binding protein  
+5	gramene	gene	18274806	18283480	.	-	.	Zm00001d013713	Nucleotide-binding protein-like  
+5	gramene	gene	18304702	18308806	.	-	.	Zm00001d013716	Probable E3 ubiquitin-protein ligase ARI2
+5	gramene	gene	18392044	18393683	.	-	.	Zm00001d013717	NAC domain containing protein 58
+5	gramene	gene	18429280	18434346	.	+	.	Zm00001d013719	cytochrome P450 family 87 subfamily A polypeptide 2
+5	gramene	gene	18475533	18481231	.	+	.	Zm00001d013720	cytochrome P450 family 87 subfamily A polypeptide 2
+5	gramene	gene	18543126	18544969	.	-	.	Zm00001d013722	protein_coding
+5	gramene	gene	18591711	18594476	.	-	.	Zm00001d013723	protein_coding
+5	gramene	gene	18617764	18618771	.	+	.	Zm00001d013724	protein_coding
+5	gramene	gene	18631981	18633840	.	+	.	Zm00001d013725	protein_coding
+5	gramene	gene	18698615	18702973	.	-	.	Zm00001d013727	Histone H4
+5	gramene	gene	18755410	18756955	.	-	.	Zm00001d013728	Cyclin-D5-1
+5	gramene	gene	18758823	18767106	.	-	.	Zm00001d013729	DNA/RNA polymerases superfamily protein
+5	gramene	gene	18815334	18827255	.	+	.	Zm00001d013730	5S rRNA binding protein  
+5	gramene	gene	18855513	18856412	.	-	.	Zm00001d013732	protein_coding
+5	gramene	gene	18857635	18863870	.	+	.	Zm00001d013733	ARM repeat superfamily protein
+5	gramene	gene	18918646	18921698	.	+	.	Zm00001d013736	protein_coding
+5	gramene	gene	18922953	18925765	.	-	.	Zm00001d013737	Serpin-Z1
+5	gramene	gene	18983007	18988226	.	+	.	Zm00001d013738	Fcf2 pre-rRNA processing protein
+5	gramene	gene	19008180	19014279	.	+	.	Zm00001d013741	BTB/POZ domain-containing protein NPY2
+5	gramene	gene	19016882	19018192	.	+	.	Zm00001d013742	Probable anion transporter 5
+5	gramene	gene	19054731	19055414	.	+	.	Zm00001d013743	Zinc finger protein 1  
+5	gramene	gene	19094397	19096516	.	-	.	Zm00001d013744	Putative cyclin-A3-1
+5	gramene	gene	19178319	19179668	.	-	.	Zm00001d013747	Presenilin  
+5	gramene	gene	19222627	19225400	.	+	.	Zm00001d013750	ATPase E1
+5	gramene	gene	19237278	19239953	.	+	.	Zm00001d013751	UDP-arabinopyranose mutase 3
+5	gramene	gene	19335394	19339666	.	+	.	Zm00001d013752	26S proteasome non-ATPase regulatory subunit 14 homolog
+5	gramene	gene	19357174	19359209	.	+	.	Zm00001d013753	Cytochrome P450 CYP79A33  
+5	gramene	gene	19466386	19468979	.	-	.	Zm00001d013755	Thioredoxin superfamily protein
+5	gramene	gene	19521784	19529525	.	+	.	Zm00001d013757	DEK domain-containing chromatin associated protein
+5	gramene	gene	19597622	19600577	.	+	.	Zm00001d013758	60S ribosomal protein L24  
+5	gramene	gene	19607076	19608662	.	-	.	Zm00001d013759	Cytochrome P450 71D7
+5	gramene	gene	19616089	19637400	.	-	.	Zm00001d013761	Replication protein-like
+5	gramene	gene	19651437	19653650	.	+	.	Zm00001d013763	Defective in cullin neddylation protein
+5	gramene	gene	19660256	19664911	.	-	.	Zm00001d013765	protein_coding
+5	gramene	gene	19722698	19723327	.	-	.	Zm00001d013766	photosystem II light harvesting complex gene 2.1
+5	gramene	gene	19727228	19732921	.	+	.	Zm00001d013767	Guanine nucleotide-binding protein-like NSN1
+5	gramene	gene	19733215	19740908	.	-	.	Zm00001d013768	Expressed protein%3B  protein
+5	gramene	gene	19784142	19786769	.	-	.	Zm00001d013769	Expressed protein%3B  protein
+5	gramene	gene	19788462	19790122	.	+	.	Zm00001d013770	Phosphoinositide phosphatase SAC2
+5	gramene	gene	19857377	19859214	.	-	.	Zm00001d013771	transcription regulators
+5	gramene	gene	19902085	19903170	.	+	.	Zm00001d013776	RING/U-box superfamily protein
+5	gramene	gene	19930060	19940225	.	+	.	Zm00001d013778	Lysine--tRNA ligase  
+5	gramene	gene	19941721	19943755	.	-	.	Zm00001d013779	40S ribosomal protein S19 mitochondrial
+5	gramene	gene	19947087	19950779	.	+	.	Zm00001d013780	DNA-directed RNA polymerases I%252C II%252C and III 14.4 kDa polypeptide  
+5	gramene	gene	19950789	19952787	.	-	.	Zm00001d013781	Chloroplast post-illumination chlorophyll fluorescence increase protein  
+5	gramene	gene	20023452	20027129	.	+	.	Zm00001d013782	LRR receptor-like serine/threonine-protein kinase EFR
+5	gramene	gene	20028246	20077272	.	+	.	Zm00001d013783	protein_coding
+5	gramene	gene	20154985	20158509	.	+	.	Zm00001d013785	Whole genome shotgun sequence of line PN40024 scaffold_14.assembly12x (Fragment)
+5	gramene	gene	20161442	20163432	.	+	.	Zm00001d013786	transferases%3Bfolic acid binding
+5	gramene	gene	20163628	20166182	.	-	.	Zm00001d013787	Secretory carrier-associated membrane protein 3
+5	gramene	gene	20195474	20197200	.	-	.	Zm00001d013788	Secretory carrier-associated membrane protein 3
+5	gramene	gene	20265968	20266804	.	-	.	Zm00001d013792	protein_coding
+5	gramene	gene	20305579	20324902	.	+	.	Zm00001d013793	HD domain-containing metal-dependent phosphohydrolase family protein
+5	gramene	gene	20369757	20373797	.	+	.	Zm00001d013795	Peroxisomal membrane 22 kDa (Mpv17/PMP22) family protein
+5	gramene	gene	20375070	20392119	.	-	.	Zm00001d013796	 dicer-like 105
+5	gramene	gene	20398194	20418365	.	-	.	Zm00001d013797	Endoribonuclease Dicer homolog 2
+5	gramene	gene	20529397	20576095	.	-	.	Zm00001d013798	Cycloartenol synthase  
+5	gramene	gene	20611347	20612617	.	+	.	Zm00001d013799	Membrane metalloprotease ARASP chloroplastic
+5	gramene	gene	20673284	20676096	.	-	.	Zm00001d013801	protein_coding
+5	gramene	gene	20982259	20986759	.	+	.	Zm00001d013804	Probable beta-13-galactosyltransferase 4
+5	gramene	gene	21107445	21108326	.	-	.	Zm00001d013808	Protein REDUCED WALL ACETYLATION 2
+5	gramene	gene	21121347	21127522	.	+	.	Zm00001d013809	Protein DETOXIFICATION 40
+5	gramene	gene	21182817	21186548	.	+	.	Zm00001d013810	protein_coding
+5	gramene	gene	21190668	21201937	.	+	.	Zm00001d013811	Protein DETOXIFICATION 40
+5	gramene	gene	21282883	21293656	.	+	.	Zm00001d013812	Polyadenylate-binding protein RBP45C
+5	gramene	gene	21314537	21316474	.	-	.	Zm00001d013814	Pentatricopeptide repeat-containing protein 
+5	gramene	gene	21318116	21319994	.	+	.	Zm00001d013815	Condensin-2 complex subunit H2
+5	gramene	gene	21321965	21323464	.	-	.	Zm00001d013816	DTW domain containing protein  
+5	gramene	gene	21324434	21328244	.	+	.	Zm00001d013817	Protein FATTY ACID EXPORT 5
+5	gramene	gene	21344529	21346287	.	-	.	Zm00001d013818	Tryptophan N-monooxygenase 2
+5	gramene	gene	21424283	21431659	.	-	.	Zm00001d013819	Galactose mutarotase-like superfamily protein
+5	gramene	gene	21433206	21435893	.	+	.	Zm00001d013822	Putative disease resistance RPP13-like protein 1
+5	gramene	gene	21439333	21442116	.	-	.	Zm00001d013823	Probable L-gulonolactone oxidase 6
+5	gramene	gene	21486605	21490627	.	+	.	Zm00001d013824	F-box domain containing protein expressed
+5	gramene	gene	21505251	21508854	.	+	.	Zm00001d013827	protein_coding
+5	gramene	gene	21546382	21565664	.	+	.	Zm00001d013828	Switch 2
+5	gramene	gene	21834831	21860401	.	+	.	Zm00001d013829	embryo defective 2016
+5	gramene	gene	21883579	21886533	.	+	.	Zm00001d013830	cytochrome P450 family 76 subfamily C polypeptide 7
+5	gramene	gene	21887363	21891412	.	-	.	Zm00001d013831	Aspartokinase  
+5	gramene	gene	21906414	21908151	.	+	.	Zm00001d013834	AAA-ATPase 
+5	gramene	gene	21951740	21955196	.	+	.	Zm00001d013835	Retrovirus-related Pol polyprotein LINE-1
+5	gramene	gene	21955530	21983392	.	-	.	Zm00001d013836	Protein kinase superfamily protein
+5	gramene	gene	22093503	22101320	.	-	.	Zm00001d013838	Tetratricopeptide repeat (TPR)-like superfamily protein
+5	gramene	gene	22102307	22104869	.	+	.	Zm00001d013839	Cytochrome b5 isoform E
+5	gramene	gene	22105246	22108328	.	-	.	Zm00001d013840	Ypt/Rab-GAP domain of gyp1p superfamily protein
+5	gramene	gene	22200515	22205969	.	+	.	Zm00001d013842	Heat shock 70 kDa protein  
+5	gramene	gene	22386060	22387928	.	+	.	Zm00001d013844	Methionine gamma-lyase
+5	gramene	gene	22389218	22414978	.	-	.	Zm00001d013845	E2F transcription factor-like E2FE
+5	gramene	gene	22497734	22504273	.	+	.	Zm00001d013847	fringe-related protein
+5	gramene	gene	22609420	22613930	.	+	.	Zm00001d013849	protein_coding
+5	gramene	gene	22766950	22769790	.	-	.	Zm00001d013855	protein_coding
+5	gramene	gene	22795868	22800236	.	-	.	Zm00001d013856	TATA-box-binding protein 2
+5	gramene	gene	22863385	22865079	.	+	.	Zm00001d013858	Probable receptor-like protein kinase 
+5	gramene	gene	23081813	23094923	.	+	.	Zm00001d013859	Kinesin-like protein KIN-7D mitochondrial
+5	gramene	gene	23136709	23154188	.	+	.	Zm00001d013860	SH3 domain-containing protein 2
+5	gramene	gene	23154539	23157671	.	+	.	Zm00001d013861	RNA-binding CRS1 / YhbY (CRM) domain protein
+5	gramene	gene	23180469	23183875	.	+	.	Zm00001d013862	Cytochrome P450 84A1
+5	gramene	gene	23249179	23268700	.	-	.	Zm00001d013863	Zinc finger CCCH domain-containing protein 19
+5	gramene	gene	23264298	23265710	.	+	.	Zm00001d013864	Retrovirus-related Pol polyprotein LINE-1
+5	gramene	gene	23269894	23273970	.	-	.	Zm00001d013865	Probable serine protease EDA2
+5	gramene	gene	23306190	23307066	.	+	.	Zm00001d013867	Protein VAC14 homolog
+5	gramene	gene	23311089	23316157	.	+	.	Zm00001d013868	CDPK-related kinase 3
+5	gramene	gene	23456902	23457294	.	+	.	Zm00001d013869	Auxin-responsive protein SAUR32
+5	gramene	gene	23536538	23540265	.	+	.	Zm00001d013873	Actin-2  
+5	gramene	gene	23541889	23543271	.	+	.	Zm00001d013874	S-locus-specific glycoprotein S13
+5	gramene	gene	23769403	23776625	.	-	.	Zm00001d013885	Probable plastid-lipid-associated protein 10 chloroplastic
+5	gramene	gene	23781964	23784644	.	-	.	Zm00001d013886	CRP3 - Cysteine-rich family protein precursor expressed
+5	gramene	gene	23853143	23883054	.	-	.	Zm00001d013887	DNA mismatch repair protein MutS type 2
+5	gramene	gene	23979995	23989310	.	+	.	Zm00001d013890	Expressed protein%3B  protein
+5	gramene	gene	23992511	24008741	.	+	.	Zm00001d013891	Tubulin-folding cofactor D
+5	gramene	gene	24011444	24017871	.	-	.	Zm00001d013892	Methionine aminopeptidase  
+5	gramene	gene	24019244	24026165	.	-	.	Zm00001d013894	transducin family protein / WD-40 repeat family protein
+5	gramene	gene	24023658	24026327	.	+	.	Zm00001d013893	CAAX prenyl protease 1 homolog
+5	gramene	gene	24089489	24093556	.	+	.	Zm00001d013895	protein_coding
+5	gramene	gene	24174969	24176411	.	-	.	Zm00001d013896	DUF641 family protein
+5	gramene	gene	24238458	24239960	.	+	.	Zm00001d013898	OSJNBb0004G23.8 protein%3B OSJNBb0085F13.3 protein
+5	gramene	gene	24241506	24253709	.	-	.	Zm00001d013899	hAT transposon superfamily protein
+5	gramene	gene	24274910	24277370	.	-	.	Zm00001d013900	Expressed protein%3B  protein
+5	gramene	gene	24296342	24298799	.	-	.	Zm00001d013903	Expressed protein%3B  protein
+5	gramene	gene	24363516	24369169	.	+	.	Zm00001d013906	Protein TRANSPARENT TESTA 12
+5	gramene	gene	24372950	24373240	.	+	.	Zm00001d013907	Nonspecific lipid-transfer protein  
+5	gramene	gene	24406779	24412871	.	-	.	Zm00001d013908	Myosin heavy chain-related protein
+5	gramene	gene	24428231	24432486	.	+	.	Zm00001d013910	DEAD-box ATP-dependent RNA helicase 8
+5	gramene	gene	24430939	24437600	.	-	.	Zm00001d013911	Malic enzyme  
+5	gramene	gene	24516076	24518164	.	+	.	Zm00001d013912	Chaperonin 60 subunit beta 2 chloroplastic
+5	gramene	gene	24519440	24520129	.	+	.	Zm00001d013913	3beta-hydroxysteroid-dehydrogenase/decarboxylase isoform 2
+5	gramene	gene	24677237	24680308	.	+	.	Zm00001d013914	Membrane steroid-binding protein 1  
+5	gramene	gene	24682234	24685218	.	+	.	Zm00001d013915	Glutamyl-tRNA reductase 1 chloroplastic
+5	gramene	gene	24815087	24817536	.	+	.	Zm00001d013918	Thylakoid lumenal 17.4 kDa protein chloroplastic
+5	gramene	gene	24817151	24819264	.	-	.	Zm00001d013919	Tetratricopeptide repeat (TPR)-like superfamily protein
+5	gramene	gene	24847545	24853940	.	-	.	Zm00001d013920	Phosphatidylinositol 4-phosphate 5-kinase 9
+5	gramene	gene	24943241	24945641	.	+	.	Zm00001d013923	Pentatricopeptide repeat-containing protein  mitochondrial
+5	gramene	gene	24948366	24954210	.	-	.	Zm00001d013924	Phosphoinositide phosphatase SAC2
+5	gramene	gene	24983948	24987816	.	+	.	Zm00001d013926	Formin-like protein 6
+5	gramene	gene	25004008	25010095	.	-	.	Zm00001d013927	Monothiol glutaredoxin-S17
+5	gramene	gene	25111416	25112574	.	+	.	Zm00001d013931	protein_coding
+5	gramene	gene	25177803	25179923	.	-	.	Zm00001d013933	CBS domain-containing protein CBSX5
+5	gramene	gene	25185480	25187200	.	-	.	Zm00001d013934	soluble epoxide hydrolase
+5	gramene	gene	25228457	25241728	.	-	.	Zm00001d013935	WAPL (Wings apart-like protein regulation of heterochromatin) protein
+5	gramene	gene	25431430	25434346	.	-	.	Zm00001d013937	protein_coding
+5	gramene	gene	25518163	25523534	.	+	.	Zm00001d013940	Nucleolar complex protein 2 homolog
+5	gramene	gene	25536275	25537969	.	+	.	Zm00001d013941	Pentatricopeptide repeat-containing protein  chloroplastic
+5	gramene	gene	25539709	25540838	.	-	.	Zm00001d013943	FIP1  
+5	gramene	gene	25546118	25546714	.	-	.	Zm00001d013945	Ripening-related protein 3
+5	gramene	gene	25632561	25633358	.	-	.	Zm00001d013947	NHL25  
+5	gramene	gene	25670345	25671226	.	+	.	Zm00001d013948	Cysteine-rich receptor-like protein kinase 29
+5	gramene	gene	25847189	25847818	.	-	.	Zm00001d013949	Ripening-related protein 3
+5	gramene	gene	25864653	25865518	.	-	.	Zm00001d013950	Plant basic secretory protein (BSP) family protein
+5	gramene	gene	26015245	26022791	.	+	.	Zm00001d013951	Tetratricopeptide repeat (TPR)-like superfamily protein
+5	gramene	gene	26095480	26098512	.	+	.	Zm00001d013954	Tetratricopeptide repeat (TPR)-like superfamily protein
+5	gramene	gene	26101030	26108463	.	+	.	Zm00001d013955	Plant basic secretory protein (BSP) family protein
+5	gramene	gene	26132024	26133292	.	+	.	Zm00001d013956	protein_coding
+5	gramene	gene	26165521	26170988	.	-	.	Zm00001d013957	Ser/Thr protein phosphatase family  
+5	gramene	gene	26332091	26335998	.	+	.	Zm00001d013960	ATP-binding cassette sub-family G member 2  
+5	gramene	gene	26410069	26414233	.	+	.	Zm00001d013962	RING/U-box superfamily protein
+5	gramene	gene	26419393	26424294	.	+	.	Zm00001d013963	Flowering locus K homology domain
+5	gramene	gene	26495725	26501623	.	-	.	Zm00001d013964	ALG2-interacting protein X  
+5	gramene	gene	26539982	26542353	.	+	.	Zm00001d013966	Succinate dehydrogenase subunit 3  
+5	gramene	gene	26610074	26621214	.	-	.	Zm00001d013967	Myosin-3
+5	gramene	gene	26695076	26698413	.	+	.	Zm00001d013968	Transcription factor TFIIE alpha subunit
+5	gramene	gene	26699121	26701537	.	+	.	Zm00001d013969	PRP38 family protein
+5	gramene	gene	26721609	26722766	.	-	.	Zm00001d013971	E3 ubiquitin-protein ligase RING1-like
+5	gramene	gene	26879914	26881252	.	-	.	Zm00001d013974	Retrotransposon-like protein
+5	gramene	gene	26945788	26950335	.	-	.	Zm00001d013976	protein_coding
+5	gramene	gene	27070266	27072550	.	+	.	Zm00001d013979	Cytochrome P450 86B1
+5	gramene	gene	27222280	27223022	.	-	.	Zm00001d013981	Calcium/calmodulin-dependent serine/threonine-protein kinase 1
+5	gramene	gene	27294560	27298016	.	-	.	Zm00001d013983	LysM domain containing protein  
+5	gramene	gene	27299568	27328407	.	-	.	Zm00001d013984	Protein EXECUTER 1 chloroplastic
+5	gramene	gene	27672608	27687663	.	+	.	Zm00001d013989	Pre-mRNA-processing protein 40C
+5	gramene	gene	27690835	27692098	.	+	.	Zm00001d013990	Pentatricopeptide repeat-containing protein  mitochondrial
+5	gramene	gene	27692922	27694559	.	-	.	Zm00001d013991	Type III polyketide synthase A
+5	gramene	gene	27756853	27760173	.	+	.	Zm00001d013992	Pyridoxal phosphate (PLP)-dependent transferases superfamily protein
+5	gramene	gene	27804387	27808812	.	-	.	Zm00001d013994	Aspartic proteinase A1
+5	gramene	gene	27838641	27840581	.	-	.	Zm00001d013995	Peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase A protein
+5	gramene	gene	27841955	27848005	.	-	.	Zm00001d013996	Syntaxin-41
+5	gramene	gene	27905856	27909377	.	-	.	Zm00001d013997	Cysteine-rich receptor-like protein kinase 2
+5	gramene	gene	28086916	28089921	.	+	.	Zm00001d013999	Basic transcription factor 3
+5	gramene	gene	28090093	28092999	.	+	.	Zm00001d014000	Probable UDP-arabinopyranose mutase 5
+5	gramene	gene	28204196	28209403	.	-	.	Zm00001d014001	Flotillin-like protein 2
+5	gramene	gene	28273778	28278373	.	+	.	Zm00001d014003	RING/U-box superfamily protein
+5	gramene	gene	28477643	28478182	.	+	.	Zm00001d014007	senescence regulator
+5	gramene	gene	28545551	28551393	.	+	.	Zm00001d014011	Double-stranded RNA-binding protein 2
+5	gramene	gene	28634910	28639671	.	-	.	Zm00001d014013	protein_coding
+5	gramene	gene	28777500	28778178	.	-	.	Zm00001d014015	Nucleotide/sugar transporter family protein
+5	gramene	gene	78984402	78987766	.	-	.	Zm00001d015201	protein_coding
+5	gramene	gene	79027844	79031672	.	+	.	Zm00001d015202	Protein STRUBBELIG-RECEPTOR FAMILY 1
+5	gramene	gene	79214291	79242188	.	+	.	Zm00001d015203	Transducin family protein / WD-40 repeat family protein
+5	gramene	gene	79242210	79243503	.	-	.	Zm00001d015204	50S ribosomal protein L3-1 chloroplastic
+5	gramene	gene	79250420	79253647	.	+	.	Zm00001d015205	Pheophytinase chloroplastic
+5	gramene	gene	79254798	79255229	.	-	.	Zm00001d015206	receptor like protein 29
+5	gramene	gene	79389803	79395312	.	+	.	Zm00001d015208	Cleavage and polyadenylation specificity factor (CPSF) A subunit protein
+5	gramene	gene	79498782	79511605	.	+	.	Zm00001d015209	Histone acetyltransferase HAC1
+5	gramene	gene	79546867	79550125	.	+	.	Zm00001d015210	mraW methylase family protein
+5	gramene	gene	79551939	79555712	.	+	.	Zm00001d015211	Guanine nucleotide-binding protein subunit gamma 2
+5	gramene	gene	79554503	79570576	.	-	.	Zm00001d015212	ATP-dependent DNA helicase Q-like 4A
+5	gramene	gene	79757206	79759176	.	-	.	Zm00001d015213	leucine-rich repeat/extensin 2
+5	gramene	gene	79871178	79872762	.	+	.	Zm00001d015216	Salicylate/benzoate carboxyl methyltransferase
+5	gramene	gene	79954321	79956357	.	+	.	Zm00001d015217	Salicylate/benzoate carboxyl methyltransferase
+5	gramene	gene	79981188	79994280	.	+	.	Zm00001d015220	Salicylate/benzoate carboxyl methyltransferase
+5	gramene	gene	80021026	80021571	.	-	.	Zm00001d015223	Glycoprotein membrane precursor GPI-anchored
+5	gramene	gene	80045134	80047032	.	+	.	Zm00001d015224	Salicylate/benzoate carboxyl methyltransferase
+5	gramene	gene	80063827	80067249	.	+	.	Zm00001d015225	Vacuolar cation/proton exchanger 2  
+5	gramene	gene	80066943	80069666	.	-	.	Zm00001d015226	protein_coding
+5	gramene	gene	80071631	80074957	.	-	.	Zm00001d015227	chaperone binding%3BATPase activators
+5	gramene	gene	80071631	80077888	.	-	.	Zm00001d015228	Protein arginine N-methyltransferase 1.5
+5	gramene	gene	80099849	80104698	.	-	.	Zm00001d015229	Protein arginine N-methyltransferase 1.5
+5	gramene	gene	80210099	80215267	.	+	.	Zm00001d015231	Glucan endo-1%252C3-beta-glucosidase 6  
+5	gramene	gene	80234208	80239340	.	+	.	Zm00001d015233	protein_coding
+5	gramene	gene	80281071	80289642	.	-	.	Zm00001d015234	Cycloartenol synthase
+5	gramene	gene	80579817	80605889	.	-	.	Zm00001d015239	Camelliol C synthase
+5	gramene	gene	80675439	80680775	.	+	.	Zm00001d015242	AIG2-like protein  
+5	gramene	gene	80676960	80685239	.	-	.	Zm00001d015243	protein_coding
+5	gramene	gene	81051552	81073062	.	+	.	Zm00001d015245	SUPPRESSOR OF AUXIN RESISTANCE1
+5	gramene	gene	81096422	81106813	.	+	.	Zm00001d015246	ARM repeat superfamily protein
+5	gramene	gene	81111791	81113065	.	-	.	Zm00001d015247	DNA/RNA-binding protein Kin17 conserved region
+5	gramene	gene	81113455	81118262	.	+	.	Zm00001d015248	Splicing factor 3B subunit 1
+5	gramene	gene	81201238	81215517	.	+	.	Zm00001d015249	Dolichol kinase EVAN
+5	gramene	gene	81360857	81365974	.	+	.	Zm00001d015251	Eukaryotic initiation factor 4A-2
+5	gramene	gene	81457700	81460503	.	+	.	Zm00001d015256	Phospholipase D beta 1
+5	gramene	gene	81746880	81751111	.	+	.	Zm00001d015258	Subtilisin-like protease SBT2.6
+5	gramene	gene	81752266	81766811	.	+	.	Zm00001d015259	26S proteasome non-ATPase regulatory subunit 2 homolog A
+5	gramene	gene	81788079	81795079	.	+	.	Zm00001d015260	DNA-binding protein BIN4
+5	gramene	gene	81987671	81994006	.	+	.	Zm00001d015265	protein_coding
+5	gramene	gene	82139629	82142593	.	+	.	Zm00001d015268	Protein CHLOROPLAST IMPORT APPARATUS 2
+5	gramene	gene	82143688	82149070	.	-	.	Zm00001d015269	protein_coding
+5	gramene	gene	82401037	82406314	.	+	.	Zm00001d015274	Pyridoxamine 5-phosphate oxidase family protein  
+5	gramene	gene	82441203	82445910	.	+	.	Zm00001d015275	Protein At-4/1
+5	gramene	gene	82448530	82449295	.	-	.	Zm00001d015276	Protein PLANT CADMIUM RESISTANCE 11
+5	gramene	gene	82450869	82452881	.	-	.	Zm00001d015277	exocyst subunit exo70 family protein G1
+5	gramene	gene	82495698	82511830	.	+	.	Zm00001d015278	ADP-ribosylation factor GTPase-activating protein AGD3
+5	gramene	gene	82559260	82562792	.	+	.	Zm00001d015279	Probable protein phosphatase 2C 59
+5	gramene	gene	82594676	82596476	.	-	.	Zm00001d015280	Mini-chromosome maintenance complex-binding protein
+5	gramene	gene	82651101	82653444	.	-	.	Zm00001d015283	Zinc finger BED domain-containing protein DAYSLEEPER
+5	gramene	gene	82817951	82819987	.	+	.	Zm00001d015288	Glucose-6-phosphate 1-dehydrogenase 4 chloroplastic
+5	gramene	gene	82829898	82835405	.	+	.	Zm00001d015289	RING/U-box superfamily protein
+5	gramene	gene	82874340	82879720	.	+	.	Zm00001d015290	Adagio protein 1
+5	gramene	gene	82962152	82967217	.	-	.	Zm00001d015291	Probable LRR receptor-like serine/threonine-protein kinase 
+5	gramene	gene	82970088	82974239	.	-	.	Zm00001d015292	Endoglucanase 11
+5	gramene	gene	82992330	82999777	.	-	.	Zm00001d015293	VIN3-like protein 2
+5	gramene	gene	83085555	83112244	.	+	.	Zm00001d015294	Probable metal-nicotianamine transporter YSL6
+5	gramene	gene	83171320	83176276	.	+	.	Zm00001d015297	 protein%3B Ternary complex factor MIP1-like
+5	gramene	gene	83246555	83249934	.	-	.	Zm00001d015298	Tyrosine-sulfated glycopeptide receptor 1
+5	gramene	gene	83323891	83326591	.	-	.	Zm00001d015300	60S ribosomal protein L19  
+5	gramene	gene	83434421	83436673	.	+	.	Zm00001d015301	60S ribosomal protein L37a-2
+5	gramene	gene	83958551	83962049	.	+	.	Zm00001d015306	Probable arabinose 5-phosphate isomerase
+5	gramene	gene	83963205	83964677	.	-	.	Zm00001d015307	Protein IRX15-LIKE
+5	gramene	gene	84022368	84027756	.	+	.	Zm00001d015309	O-fucosyltransferase family protein
+5	gramene	gene	84027989	84029861	.	+	.	Zm00001d015310	Cystathionine beta-synthase (CBS) family protein
+5	gramene	gene	84116703	84121412	.	-	.	Zm00001d015313	Protein SCO1 homolog 1 mitochondrial
+5	gramene	gene	84263222	84281040	.	-	.	Zm00001d015314	DExH-box ATP-dependent RNA helicase DExH11
+5	gramene	gene	84317020	84321935	.	+	.	Zm00001d015315	Type I inositol polyphosphate 5-phosphatase 10
+5	gramene	gene	84424635	84426697	.	+	.	Zm00001d015319	Protein SRG1
+5	gramene	gene	84504239	84505734	.	-	.	Zm00001d015323	E3 ubiquitin-protein ligase MBR2
+5	gramene	gene	84611609	84613021	.	-	.	Zm00001d015325	CBL-interacting serine/threonine-protein kinase 10
+5	gramene	gene	84614161	84619449	.	+	.	Zm00001d015326	Formin-like protein 5
+5	gramene	gene	84630842	84634232	.	-	.	Zm00001d015327	protein_coding
+5	gramene	gene	84701726	84710089	.	-	.	Zm00001d015328	Pectin lyase-like superfamily protein
+5	gramene	gene	84710588	84715868	.	-	.	Zm00001d015329	FAD/NAD(P)-binding oxidoreductase family protein
+5	gramene	gene	84850528	84851307	.	-	.	Zm00001d015331	early nodulin-like protein 9
+5	gramene	gene	85045442	85046728	.	-	.	Zm00001d015334	CRIB domain-containing protein RIC10
+5	gramene	gene	85119954	85121228	.	+	.	Zm00001d015338	OSJNBa0058K23.8 protein%3B  protein
+5	gramene	gene	85459453	85460196	.	+	.	Zm00001d015342	Protein LIGHT-DEPENDENT SHORT HYPOCOTYLS 5
+5	gramene	gene	85576630	85579855	.	+	.	Zm00001d015344	Biotin--protein ligase 1 chloroplastic
+5	gramene	gene	85582446	85585318	.	-	.	Zm00001d015346	Pentatricopeptide repeat-containing protein 
+5	gramene	gene	85615252	85616362	.	-	.	Zm00001d015347	Germin-like protein subfamily 1 member 8
+5	gramene	gene	85736319	85739753	.	+	.	Zm00001d015348	Tubulin beta-4 chain
+5	gramene	gene	85946140	85946524	.	+	.	Zm00001d015354	Auxin-responsive protein SAUR71
+5	gramene	gene	86080662	86081459	.	+	.	Zm00001d015355	Urease accessory protein F
+5	gramene	gene	86084655	86086755	.	-	.	Zm00001d015356	protein_coding
+5	gramene	gene	86285396	86289986	.	+	.	Zm00001d015361	Transducin/WD40 repeat-like superfamily protein
+5	gramene	gene	86308394	86309722	.	+	.	Zm00001d015362	O-fucosyltransferase family protein
+5	gramene	gene	86325771	86329365	.	-	.	Zm00001d015364	Cysteine-type peptidase  
+5	gramene	gene	86475220	86478975	.	+	.	Zm00001d015366	protein_coding
+5	gramene	gene	86479071	86481259	.	-	.	Zm00001d015367	CONTAINS InterPro DOMAIN/s
+5	gramene	gene	86733894	86746224	.	-	.	Zm00001d015372	CONTAINS InterPro DOMAIN/s
+5	gramene	gene	87028520	87031503	.	-	.	Zm00001d015374	plant/F14G9-20 protein
+5	gramene	gene	87032284	87032724	.	-	.	Zm00001d015375	60S ribosomal protein L27a-3
+5	gramene	gene	87051940	87055648	.	+	.	Zm00001d015376	Phosphoglycerate kinase  
+5	gramene	gene	87067786	87070960	.	+	.	Zm00001d015377	Pentatricopeptide repeat-containing protein 
+5	gramene	gene	87171719	87173966	.	+	.	Zm00001d015378	Glycine cleavage system H protein 2 mitochondrial
+5	gramene	gene	87175698	87181297	.	-	.	Zm00001d015379	Splicing factor arginine/serine-rich 12
+5	gramene	gene	87397071	87399754	.	+	.	Zm00001d015381	protein_coding
+5	gramene	gene	87517860	87522764	.	+	.	Zm00001d015383	Glyceraldehyde-3-phosphate dehydrogenase%252C cytosolic  
+5	gramene	gene	87654865	87656030	.	+	.	Zm00001d015385	Chlorophyll a-b binding protein 6 chloroplastic
+5	gramene	gene	87756987	87757730	.	+	.	Zm00001d015386	E3 ubiquitin-protein ligase ATL41
+5	gramene	gene	87827481	87834404	.	+	.	Zm00001d015389	Tubulin-folding cofactor E
+5	gramene	gene	87850666	87851133	.	+	.	Zm00001d015390	Cytokinin-O-glucosyltransferase 3
+5	gramene	gene	88008824	88012844	.	-	.	Zm00001d015393	10A19I.15
+5	gramene	gene	88146164	88150303	.	+	.	Zm00001d015394	protein_coding
+5	gramene	gene	88158162	88161170	.	-	.	Zm00001d015395	Urease accessory protein D
+5	gramene	gene	88228087	88230594	.	-	.	Zm00001d015396	Probable inactive purple acid phosphatase 1
+5	gramene	gene	88306260	88306964	.	+	.	Zm00001d015397	VQ motif family protein  
+5	gramene	gene	88372291	88376274	.	+	.	Zm00001d015399	Choline-phosphate cytidylyltransferase 2
+5	gramene	gene	88443306	88448870	.	+	.	Zm00001d015400	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein
+5	gramene	gene	88448697	88451738	.	-	.	Zm00001d015401	ALA-interacting subunit 1
+5	gramene	gene	88484657	88490422	.	+	.	Zm00001d015404	Succinate-semialdehyde dehydrogenase mitochondrial
+5	gramene	gene	88491212	88497833	.	+	.	Zm00001d015405	Succinate semialdehyde dehydrogenase  
+5	gramene	gene	88518024	88520798	.	+	.	Zm00001d015406	Succinate-semialdehyde dehydrogenase mitochondrial
+5	gramene	gene	88561896	88565000	.	-	.	Zm00001d015407	protein_coding
+5	gramene	gene	88962266	88972559	.	+	.	Zm00001d015409	AT5G44030 (E%3D6e-024) CESA4 IRX5 NWS2 | CESA4 (CELLULOSE SYNTHASE A4)%3B cellulose synthase/ transferase transferring glycosyl groups 
+5	gramene	gene	89049594	89053097	.	+	.	Zm00001d015410	protein_coding
+5	gramene	gene	89059774	89060808	.	-	.	Zm00001d015411	Remorin family protein
+5	gramene	gene	89090290	89091195	.	+	.	Zm00001d015412	sequence-specific DNA binding transcription factors
+5	gramene	gene	89126963	89129557	.	+	.	Zm00001d015414	Pollen receptor-like kinase 4
+5	gramene	gene	89132049	89135337	.	-	.	Zm00001d015415	Transcription initiation factor TFIID subunit 7
+5	gramene	gene	89294499	89295622	.	-	.	Zm00001d015419	Cryptochrome-1
+5	gramene	gene	89297902	89299723	.	+	.	Zm00001d015420	DUF581 domain containing protein expressed
+5	gramene	gene	89376383	89379344	.	+	.	Zm00001d015421	protein_coding
+5	gramene	gene	89382778	89386161	.	-	.	Zm00001d015423	NudC domain-containing protein 2  
+5	gramene	gene	89567393	89571055	.	-	.	Zm00001d015425	Metal-dependent protein hydrolase
+5	gramene	gene	89574544	89579319	.	+	.	Zm00001d015426	V-type proton ATPase catalytic subunit A
+5	gramene	gene	89584539	89586791	.	+	.	Zm00001d015427	V-type proton ATPase catalytic subunit A
+5	gramene	gene	89616483	89624066	.	+	.	Zm00001d015428	Aspartic proteinase A1
+5	gramene	gene	89664725	89673748	.	+	.	Zm00001d015429	Core-2/I-branching beta-16-N-acetylglucosaminyltransferase family protein
+5	gramene	gene	89673713	89677261	.	-	.	Zm00001d015430	Putative clathrin assembly protein 
+5	gramene	gene	89677689	89677964	.	+	.	Zm00001d015431	Fiber protein Fb15  
+5	gramene	gene	89679329	89681002	.	-	.	Zm00001d015432	Retrovirus-related Pol polyprotein LINE-1
+5	gramene	gene	89796563	89800151	.	-	.	Zm00001d015433	CONTAINS InterPro DOMAIN/s
+5	gramene	gene	89924027	89924707	.	-	.	Zm00001d015434	B-box zinc finger family protein  
+5	gramene	gene	90052984	90074741	.	-	.	Zm00001d015435	Protein STRUBBELIG-RECEPTOR FAMILY 1
+5	gramene	gene	90418616	90437459	.	+	.	Zm00001d015443	hAT dimerisation domain-containing protein / transposase-related
+5	gramene	gene	90487714	90495272	.	-	.	Zm00001d015444	Gamma-aminobutyrate transaminase POP2 mitochondrial
+5	gramene	gene	90494901	90498102	.	+	.	Zm00001d015445	Gamma-aminobutyrate transaminase POP2 mitochondrial
+5	gramene	gene	90502234	90559505	.	-	.	Zm00001d015446	Calcium-transporting ATPase 9 plasma membrane-type
+5	gramene	gene	90859128	90860638	.	+	.	Zm00001d015448	OSJNBa0041A02.21 protein%3B  protein
+5	gramene	gene	90918110	90920511	.	+	.	Zm00001d015449	Dimethyladenosine transferase  
+5	gramene	gene	90962311	90968591	.	-	.	Zm00001d015450	protein_coding
+5	gramene	gene	91106167	91109100	.	+	.	Zm00001d015451	protein_coding
+5	gramene	gene	91150513	91151598	.	-	.	Zm00001d015453	RING/U-box superfamily protein
+5	gramene	gene	91172191	91173713	.	+	.	Zm00001d015456	Cyclin-dependent kinase B1-1
+5	gramene	gene	91459227	91463857	.	-	.	Zm00001d015459	protein_coding
+5	gramene	gene	91587913	91590987	.	+	.	Zm00001d015460	Probable small nuclear ribonucleoprotein F
+5	gramene	gene	91616223	91617101	.	-	.	Zm00001d015461	Fasciclin-like arabinogalactan protein 3
+5	gramene	gene	91662570	91670033	.	+	.	Zm00001d015462	CDPK-related kinase 3
+5	gramene	gene	91733849	91735353	.	-	.	Zm00001d015463	CASP-like protein 9  
+5	gramene	gene	91773562	91778847	.	-	.	Zm00001d015464	Calmodulin binding protein  
+5	gramene	gene	91970566	91972678	.	+	.	Zm00001d015468	Zinc finger protein CONSTANS-LIKE 5
+5	gramene	gene	91973542	91980501	.	+	.	Zm00001d015469	protein_coding
+5	gramene	gene	91982760	91983347	.	-	.	Zm00001d015470	GDU1  
+5	gramene	gene	92107583	92115114	.	+	.	Zm00001d015473	Protein transport protein SEC61 gamma subunit  
+5	gramene	gene	92115327	92119195	.	-	.	Zm00001d015474	Vacuolar import/degradation Vid27-related protein
+5	gramene	gene	92333359	92333901	.	-	.	Zm00001d015475	RING-H2 finger protein ATL2L  
+5	gramene	gene	92463123	92463761	.	+	.	Zm00001d015476	sequence-specific DNA binding transcription factors
+5	gramene	gene	92669605	92675745	.	+	.	Zm00001d015477	Protein ECERIFERUM 3
+5	gramene	gene	92811181	92811926	.	-	.	Zm00001d015481	40S ribosomal protein S4-3
+5	gramene	gene	92898104	92902620	.	+	.	Zm00001d015484	Metal-dependent phosphohydrolase
+5	gramene	gene	93095266	93097731	.	-	.	Zm00001d015485	protein_coding
+5	gramene	gene	93128095	93131788	.	-	.	Zm00001d015486	alpha/beta-Hydrolases superfamily protein
+5	gramene	gene	93131814	93133480	.	-	.	Zm00001d015487	Protein REVEILLE 8
+5	gramene	gene	93182325	93183174	.	+	.	Zm00001d015490	Heptahelical transmembrane protein 2
+5	gramene	gene	93191094	93191763	.	+	.	Zm00001d015491	Heptahelical transmembrane protein 2
+5	gramene	gene	93597362	93602535	.	-	.	Zm00001d015493	protein_coding
+5	gramene	gene	93673120	93695749	.	+	.	Zm00001d015495	Protein RRC1
+5	gramene	gene	93775604	93780255	.	-	.	Zm00001d015497	Aconitate hydratase 3 mitochondrial
+5	gramene	gene	93927355	93960022	.	+	.	Zm00001d015499	Protein RRC1
+5	gramene	gene	94160702	94167041	.	+	.	Zm00001d015504	Protein phosphatase 2C isoform gamma  
+5	gramene	gene	94167247	94184406	.	+	.	Zm00001d015505	Nucleoid-associated protein  chloroplastic
+5	gramene	gene	94528626	94530376	.	+	.	Zm00001d015508	protein_coding
+5	gramene	gene	94540334	94543558	.	-	.	Zm00001d015509	protein_coding
+5	gramene	gene	94710366	94713355	.	+	.	Zm00001d015513	Dihydroflavonol-4-reductase  
+5	gramene	gene	95183890	95185688	.	+	.	Zm00001d015515	protein_coding
+5	gramene	gene	95407022	95408341	.	+	.	Zm00001d015517	Protein POLAR LOCALIZATION DURING ASYMMETRIC DIVISION AND REDISTRIBUTION
+5	gramene	gene	95499574	95499894	.	+	.	Zm00001d015518	Aquaporin TIP4-1
+5	gramene	gene	95546146	95556835	.	-	.	Zm00001d015519	RNA-binding (RRM/RBD/RNP motifs) family protein
+5	gramene	gene	95614609	95620842	.	-	.	Zm00001d015520	Chaperone protein ClpB4 mitochondrial
+5	gramene	gene	95621404	95625832	.	-	.	Zm00001d015521	protein_coding
+5	gramene	gene	95943912	95945007	.	-	.	Zm00001d015525	Zinc finger protein 2
+5	gramene	gene	95945281	95948517	.	-	.	Zm00001d015526	Proteasome subunit beta type  
+5	gramene	gene	96005409	96009168	.	-	.	Zm00001d015527	Phytosulfokine receptor  
+5	gramene	gene	96042303	96045709	.	+	.	Zm00001d015529	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha 2
+5	gramene	gene	96220070	96223880	.	-	.	Zm00001d015531	NO-associated protein 1 chloroplastic/mitochondrial
+5	gramene	gene	96263096	96264074	.	-	.	Zm00001d015534	Ypt/Rab-GAP domain of gyp1p superfamily protein
+5	gramene	gene	96640723	96642773	.	-	.	Zm00001d015544	Ureide permease 5
+5	gramene	gene	96925401	96928976	.	+	.	Zm00001d015549	protein_coding
+5	gramene	gene	97408121	97408529	.	-	.	Zm00001d015555	Protein FIZZY-RELATED 1
+5	gramene	gene	97412274	97415263	.	+	.	Zm00001d015556	Protein S-acyltransferase 24
+5	gramene	gene	97437119	97444093	.	+	.	Zm00001d015557	Protein S-acyltransferase 24
+5	gramene	gene	97682870	97684322	.	+	.	Zm00001d015560	protein_coding
+5	gramene	gene	98033185	98035664	.	+	.	Zm00001d015562	DNA polymerase epsilon catalytic subunit A
+5	gramene	gene	98133557	98147630	.	+	.	Zm00001d015566	BRCA1-associated protein  
+5	gramene	gene	98401135	98404663	.	+	.	Zm00001d015568	Nucleolin  
+5	gramene	gene	98404993	98412468	.	-	.	Zm00001d015569	Vacuolar H+-translocating inorganic pyrophosphatase  
+5	gramene	gene	98828050	98835540	.	+	.	Zm00001d015570	Sucrose-phosphate synthase 1
+5	gramene	gene	98866461	98875915	.	+	.	Zm00001d015571	Ubiquitin system component Cue protein
+5	gramene	gene	98920542	98921311	.	+	.	Zm00001d015574	O-fucosyltransferase family protein
+5	gramene	gene	98921630	98923086	.	-	.	Zm00001d015575	Autophagy-related protein 11
+5	gramene	gene	99040396	99041931	.	-	.	Zm00001d015578	Cytochrome P450 71D8
+5	gramene	gene	99285143	99288586	.	-	.	Zm00001d015581	Protein kinase superfamily protein
+5	gramene	gene	99710472	99711659	.	-	.	Zm00001d015585	protein_coding
+5	gramene	gene	100023067	100024804	.	+	.	Zm00001d015589	Premnaspirodiene oxygenase
+5	gramene	gene	100034690	100036363	.	-	.	Zm00001d015590	DEAD-box ATP-dependent RNA helicase 7
+5	gramene	gene	100130720	100132782	.	+	.	Zm00001d015592	Cytochrome P450 CYP71K14  
+5	gramene	gene	100235040	100237847	.	-	.	Zm00001d015597	O-fucosyltransferase family protein
+5	gramene	gene	100240887	100242904	.	+	.	Zm00001d015599	Cyclase family protein
+5	gramene	gene	100360950	100370156	.	-	.	Zm00001d015600	Exostosin family protein
+5	gramene	gene	100721727	100723259	.	+	.	Zm00001d015603	RNA-metabolising metallo-beta-lactamase family protein
+5	gramene	gene	100769867	100773584	.	+	.	Zm00001d015605	protein_coding
+5	gramene	gene	100949055	100952879	.	-	.	Zm00001d015609	Glycerophosphodiester phosphodiesterase GDPDL3
+5	gramene	gene	100959199	100959651	.	-	.	Zm00001d015610	Probable protein phosphatase 2C 33
+5	gramene	gene	101017647	101019586	.	-	.	Zm00001d015611	Cyclin-dependent kinases regulatory subunit 1
+5	gramene	gene	101139084	101148261	.	+	.	Zm00001d015613	Protein TIC 21 chloroplastic
+5	gramene	gene	101152012	101152926	.	+	.	Zm00001d015614	protein_coding
+5	gramene	gene	101438516	101440390	.	+	.	Zm00001d015616	Leucine zipper protein-like%3B  protein
+5	gramene	gene	101493553	101498009	.	-	.	Zm00001d015618	protein_coding
+5	gramene	gene	101918442	101919917	.	-	.	Zm00001d015623	Limonoid UDP-glucosyltransferase  
+5	gramene	gene	101998758	102000754	.	+	.	Zm00001d015625	Sec14p-like phosphatidylinositol transfer family protein
+5	gramene	gene	102005711	102005920	.	+	.	Zm00001d015626	Putative uncharacterized protein [Source
+5	gramene	gene	102006271	102009335	.	-	.	Zm00001d015627	Ubiquitin-like superfamily protein
+5	gramene	gene	102015204	102017402	.	-	.	Zm00001d015628	Ribosome-like protein  
+5	gramene	gene	102250348	102252248	.	-	.	Zm00001d015635	Mediator of RNA polymerase II transcription subunit 11
+5	gramene	gene	102367242	102368549	.	+	.	Zm00001d015636	GDSL esterase/lipase 
+5	gramene	gene	102453379	102459358	.	+	.	Zm00001d015637	GDSL esterase/lipase 
+5	gramene	gene	102583546	102584181	.	-	.	Zm00001d015639	protein_coding
+5	gramene	gene	102956749	102958369	.	+	.	Zm00001d015644	Zinc finger CCCH domain-containing protein 4
+5	gramene	gene	103214832	103229223	.	+	.	Zm00001d015649	Protein STRUBBELIG-RECEPTOR FAMILY 8
+5	gramene	gene	103229657	103231129	.	-	.	Zm00001d015651	protein_coding
+5	gramene	gene	103232699	103233867	.	-	.	Zm00001d015653	Trypsin family protein
+5	gramene	gene	103458929	103463990	.	-	.	Zm00001d015656	Esterase/lipase/thioesterase  
+5	gramene	gene	103724521	103733837	.	-	.	Zm00001d015657	Phytoene dehydrogenase-like  
+5	gramene	gene	103850842	103855288	.	-	.	Zm00001d015658	Transmembrane amino acid transporter family protein
+5	gramene	gene	104161775	104162116	.	+	.	Zm00001d015661	Auxin-responsive protein SAUR61
+5	gramene	gene	104166856	104167719	.	-	.	Zm00001d015662	Probable rRNA-processing protein EBP2 homolog
+5	gramene	gene	104209488	104209994	.	-	.	Zm00001d015664	protein_coding
+5	gramene	gene	104213019	104220553	.	-	.	Zm00001d015665	Serine/threonine protein phosphatase 2A regulatory subunit Balpha
+5	gramene	gene	105092463	105093878	.	-	.	Zm00001d015671	protein_coding
+5	gramene	gene	105115254	105116002	.	+	.	Zm00001d015675	Golgin candidate 6
+5	gramene	gene	105122102	105125112	.	-	.	Zm00001d015676	Clathrin heavy chain 2
+5	gramene	gene	105126489	105127439	.	-	.	Zm00001d015677	Protein argonaute 1
+5	gramene	gene	105277524	105279166	.	-	.	Zm00001d015678	Probable UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase SEC
+5	gramene	gene	106607686	106609923	.	-	.	Zm00001d015682	transcription regulators
+5	gramene	gene	107183443	107184539	.	-	.	Zm00001d015685	12-dihydroxy-3-keto-5-methylthiopentene dioxygenase 4
+5	gramene	gene	108267184	108280967	.	-	.	Zm00001d015692	AUGMIN subunit 6
+5	gramene	gene	108281229	108299082	.	-	.	Zm00001d015693	AUGMIN subunit 6
+5	gramene	gene	108724278	108725515	.	+	.	Zm00001d015698	F-box/kelch-repeat protein OR23
+5	gramene	gene	108857827	108859222	.	+	.	Zm00001d015700	Putative chloride channel-like protein CLC-g
+5	gramene	gene	108882599	108887800	.	+	.	Zm00001d015702	Putative chloride channel-like protein CLC-g
+5	gramene	gene	109260248	109271664	.	+	.	Zm00001d015703	Apoptosis inhibitory protein 5 (API5)
+5	gramene	gene	109292429	109295549	.	+	.	Zm00001d015704	Apoptosis inhibitory protein 5 (API5)
+5	gramene	gene	110138994	110145294	.	+	.	Zm00001d015707	Nuclear pore complex protein NUP155
+5	gramene	gene	110417344	110434110	.	+	.	Zm00001d015714	Guanylate-binding family protein
+5	gramene	gene	112707895	112710811	.	+	.	Zm00001d015721	Cytochrome P450 734A1
+5	gramene	gene	113204814	113207150	.	-	.	Zm00001d015724	(6-4)DNA photolyase
+5	gramene	gene	114029491	114040449	.	+	.	Zm00001d015729	Peptidyl-prolyl cis-trans isomerase CYP95
+5	gramene	gene	114127797	114128849	.	-	.	Zm00001d015730	Putative uncharacterized protein [Source
+5	gramene	gene	114164209	114167250	.	-	.	Zm00001d015731	IAA-amino acid hydrolase ILR1  
+5	gramene	gene	114324145	114328130	.	-	.	Zm00001d015733	Rhamnogalacturonate lyase family protein
+5	gramene	gene	114786885	114788112	.	-	.	Zm00001d015737	Ran BP2/NZF zinc finger-like superfamily protein
+5	gramene	gene	115207560	115209367	.	-	.	Zm00001d015741	TPR domain containing protein  
+5	gramene	gene	115451296	115456402	.	+	.	Zm00001d015743	protein_coding
+5	gramene	gene	115568661	115571006	.	+	.	Zm00001d015744	Ring canal kelch  
+5	gramene	gene	115748852	115750963	.	-	.	Zm00001d015746	protein_coding
+5	gramene	gene	115882990	115889703	.	-	.	Zm00001d015747	Protein disulfide-isomerase like 2-1
+5	gramene	gene	115885308	115887740	.	+	.	Zm00001d015748	Embryonic flower 1-like protein%3B  protein
+5	gramene	gene	116594014	116651674	.	+	.	Zm00001d015754	Nuclear pore complex protein NUP205
+5	gramene	gene	116653359	116653961	.	-	.	Zm00001d015756	Metal-nicotianamine transporter YSL2
+5	gramene	gene	116966419	116976384	.	+	.	Zm00001d015758	DEAD-box ATP-dependent RNA helicase 41
+5	gramene	gene	116972852	116973938	.	-	.	Zm00001d015759	protein_coding
+5	gramene	gene	117619917	117651075	.	-	.	Zm00001d015765	SWR1-complex protein 4
+5	gramene	gene	118194632	118197035	.	+	.	Zm00001d015770	Pentatricopeptide repeat-containing protein 
+5	gramene	gene	118252711	118254474	.	+	.	Zm00001d015772	Putative UPF0481 protein 
+5	gramene	gene	118261593	118262790	.	-	.	Zm00001d015774	Protein transport protein SEC31 homolog B
+5	gramene	gene	118463714	118464650	.	+	.	Zm00001d015777	Chloroplast small heat shock protein  
+5	gramene	gene	118613302	118616603	.	+	.	Zm00001d015778	EIN3-binding F-box protein 1
+5	gramene	gene	118773282	118856166	.	+	.	Zm00001d015779	14-3-3-like protein GF14 omega
+5	gramene	gene	118856895	118861582	.	-	.	Zm00001d015780	Protein WVD2-like 5
+5	gramene	gene	119208644	119210852	.	+	.	Zm00001d015783	Glycosyl hydrolase superfamily protein
+5	gramene	gene	119215636	119226834	.	-	.	Zm00001d015785	Sec14p-like phosphatidylinositol transfer family protein
+5	gramene	gene	119713521	119721731	.	+	.	Zm00001d015788	protein_coding
+5	gramene	gene	119747395	119786599	.	+	.	Zm00001d015789	C2 and GRAM domain-containing protein 
+5	gramene	gene	120452482	120453852	.	+	.	Zm00001d015791	F-box domain containing protein  
+5	gramene	gene	120807267	120807845	.	+	.	Zm00001d015795	Ribosomal protein L12/ ATP-dependent Clp protease adaptor protein ClpS family protein
+5	gramene	gene	121139511	121146584	.	+	.	Zm00001d015798	Subtilisin-like protease SBT5.3
+5	gramene	gene	121268697	121268963	.	+	.	Zm00001d015799	Putative uncharacterized protein [Source
+5	gramene	gene	121512285	121515477	.	-	.	Zm00001d015804	ADP-ribosylation factor GTPase-activating protein AGD12
+5	gramene	gene	121974609	121975359	.	+	.	Zm00001d015809	CDP-diacylglycerol--serine O-phosphatidyltransferase 1
+5	gramene	gene	122524759	122545078	.	-	.	Zm00001d015810	alpha/beta-Hydrolases superfamily protein
+5	gramene	gene	122570586	122576990	.	-	.	Zm00001d015811	alpha/beta-Hydrolases superfamily protein
+5	gramene	gene	122614530	122615045	.	-	.	Zm00001d015812	Autophagy-related protein 18a
+5	gramene	gene	123354228	123355478	.	+	.	Zm00001d015815	protein_coding
+5	gramene	gene	123446941	123451403	.	+	.	Zm00001d015816	3-oxoacyl-
+5	gramene	gene	123620508	123624088	.	-	.	Zm00001d015817	40S ribosomal protein S4-3
+5	gramene	gene	123624245	123628677	.	+	.	Zm00001d015818	Phospholipase D gamma 1
+5	gramene	gene	123889597	123890257	.	-	.	Zm00001d015820	Pectin lyase-like superfamily protein
+5	gramene	gene	123917296	123923030	.	-	.	Zm00001d015821	Pectin lyase-like superfamily protein
+5	gramene	gene	124309680	124312147	.	+	.	Zm00001d015824	dentin sialophosphoprotein-related
+5	gramene	gene	124310981	124316460	.	-	.	Zm00001d015825	Pectin lyase-like superfamily protein
+5	gramene	gene	124544275	124549833	.	-	.	Zm00001d015829	Probable copper-transporting ATPase HMA5
+5	gramene	gene	124669621	124679867	.	-	.	Zm00001d015834	Probable L-gulonolactone oxidase 6
+5	gramene	gene	124870872	124878713	.	+	.	Zm00001d015837	Outer envelope protein 80 chloroplastic
+5	gramene	gene	124936314	124940355	.	-	.	Zm00001d015839	Chaperone protein dnaJ 6
+5	gramene	gene	125657037	125657552	.	+	.	Zm00001d015842	Zinc finger A20 and AN1 domain-containing stress-associated protein 2
+5	gramene	gene	125776420	125793418	.	+	.	Zm00001d015844	alpha/beta hydrolase family protein
+5	gramene	gene	125793301	125802556	.	-	.	Zm00001d015845	bZIP transcription factor family protein
+5	gramene	gene	125802400	125805852	.	-	.	Zm00001d015846	protein_coding
+5	gramene	gene	126149556	126151040	.	-	.	Zm00001d015849	Methionine aminopeptidase 1D chloroplastic/mitochondrial
+5	gramene	gene	126267825	126285618	.	+	.	Zm00001d015851	Tubulin binding cofactor C domain-containing protein
+5	gramene	gene	126372618	126376084	.	+	.	Zm00001d015852	protein_coding
+5	gramene	gene	126421597	126426765	.	+	.	Zm00001d015853	Leucine-rich repeat receptor protein kinase EMS1
+5	gramene	gene	126813401	126819662	.	+	.	Zm00001d015856	protein_coding
+5	gramene	gene	126864198	126867730	.	+	.	Zm00001d015857	40S ribosomal protein S4-3
+5	gramene	gene	127015024	127015847	.	+	.	Zm00001d015860	1-aminocyclopropane-1-carboxylate oxidase 1
+5	gramene	gene	127019644	127022192	.	-	.	Zm00001d015861	Mediator of RNA polymerase II transcription subunit 18
+5	gramene	gene	127079675	127082755	.	-	.	Zm00001d015863	Mitotic spindle checkpoint protein BUBR1
+5	gramene	gene	127438923	127439977	.	-	.	Zm00001d015868	protein_coding
+5	gramene	gene	127454319	127459503	.	-	.	Zm00001d015870	Acetamidase/Formamidase family protein
+5	gramene	gene	127459293	127465455	.	+	.	Zm00001d015871	Cyclin-dependent kinase B1-1
+5	gramene	gene	127466210	127466782	.	-	.	Zm00001d015872	Serine carboxypeptidase-like 43
+5	gramene	gene	128422137	128424633	.	+	.	Zm00001d015882	Retrovirus-related Pol polyprotein LINE-1
+5	gramene	gene	128733433	128735702	.	-	.	Zm00001d015884	Protein kinase  
+5	gramene	gene	128940472	128944793	.	-	.	Zm00001d015885	Glyceraldehyde-3-phosphate dehydrogenase GAPC1 cytosolic
+5	gramene	gene	129025903	129041194	.	+	.	Zm00001d015886	26S protease regulatory subunit 6B homolog
+5	gramene	gene	129134618	129136428	.	+	.	Zm00001d015887	40S ribosomal protein S4-3
+5	gramene	gene	129466482	129557572	.	-	.	Zm00001d015890	SNARE-interacting protein KEULE
+5	gramene	gene	129629958	129632006	.	+	.	Zm00001d015891	L-type lectin-domain containing receptor kinase S.6
+5	gramene	gene	129691571	129697192	.	+	.	Zm00001d015893	Probable pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH5
+5	gramene	gene	129806383	129807308	.	+	.	Zm00001d015895	hydroxyproline-rich glycoprotein family protein
+5	gramene	gene	129836750	129839310	.	-	.	Zm00001d015897	Inositol transporter 4
+5	gramene	gene	129904219	129905109	.	-	.	Zm00001d015899	Fasciclin-like arabinogalactan protein 3
+5	gramene	gene	129970267	129970968	.	-	.	Zm00001d015901	Fasciclin-like arabinogalactan protein 3
+5	gramene	gene	130027454	130030346	.	-	.	Zm00001d015905	protein_coding
+5	gramene	gene	130258775	130259760	.	+	.	Zm00001d015907	10A19I.15
+5	gramene	gene	130787030	130789864	.	+	.	Zm00001d015912	protein_coding
+5	gramene	gene	130947371	130950710	.	+	.	Zm00001d015914	protein_coding
+5	gramene	gene	131162542	131163113	.	-	.	Zm00001d015917	Nucleic acid-binding OB-fold-like protein
+5	gramene	gene	131469616	131471554	.	-	.	Zm00001d015921	Plasma membrane-associated cation-binding protein 1
+5	gramene	gene	131711250	131713325	.	+	.	Zm00001d015925	Serine/threonine-protein kinase AGC1-5
+5	gramene	gene	131720834	131722297	.	-	.	Zm00001d015926	Protein argonaute 5
+5	gramene	gene	131794319	131803160	.	-	.	Zm00001d015927	L-gulonolactone oxidase 3
+5	gramene	gene	132181261	132195639	.	+	.	Zm00001d015929	GTP-binding protein TypA  
+5	gramene	gene	132599003	132614556	.	+	.	Zm00001d015932	Chromatin modification-related protein EAF3  
+5	gramene	gene	132637131	132639444	.	-	.	Zm00001d015934	Pectinesterase-2  
+5	gramene	gene	132744051	132744739	.	-	.	Zm00001d015936	Defensin-like protein 6
+5	gramene	gene	132838540	132842358	.	+	.	Zm00001d015939	Pre-mRNA-processing factor 19 homolog 2
+5	gramene	gene	132982333	132982740	.	+	.	Zm00001d015941	Guanylate-binding family protein
+5	gramene	gene	132983723	132984616	.	+	.	Zm00001d015942	Guanylate-binding family protein
+5	gramene	gene	133441549	133442802	.	+	.	Zm00001d015945	Topless-related protein 2
+5	gramene	gene	133565009	133578292	.	-	.	Zm00001d015948	ATP-dependent Clp protease ATP-binding subunit clpX  
+5	gramene	gene	133617183	133618302	.	-	.	Zm00001d015950	Cytokinin dehydrogenase 6
+5	gramene	gene	133630615	133632211	.	+	.	Zm00001d015951	Serine/threonine-protein kinase Nek1
+5	gramene	gene	133821714	133825615	.	+	.	Zm00001d015952	E3 ubiquitin-protein ligase SINAT4
+5	gramene	gene	133998288	134004395	.	+	.	Zm00001d015955	Topoisomerase II-associated protein PAT1
+5	gramene	gene	134163807	134172264	.	+	.	Zm00001d015956	NAD(P)-binding Rossmann-fold superfamily protein
+5	gramene	gene	134188430	134189353	.	+	.	Zm00001d015957	Acyl-CoA-binding domain-containing protein 3
+5	gramene	gene	134287992	134290874	.	-	.	Zm00001d015960	SGNH hydrolase-type esterase superfamily protein
+5	gramene	gene	134439009	134443657	.	-	.	Zm00001d015961	Mediator of RNA polymerase II transcription subunit 33A
+5	gramene	gene	134444332	134453675	.	+	.	Zm00001d015962	prolyl oligopeptidase family protein
+5	gramene	gene	134455335	134457795	.	+	.	Zm00001d015963	Protein DETOXIFICATION 16
+5	gramene	gene	134537160	134539561	.	+	.	Zm00001d015964	Protein DETOXIFICATION 16
+5	gramene	gene	134675256	134676923	.	-	.	Zm00001d015965	 protein%3B Tyrosine specific protein phosphatase-like
+5	gramene	gene	134792393	134796665	.	+	.	Zm00001d015968	lysine ketoglutarate reductase trans-splicing protein
+5	gramene	gene	134894335	134899512	.	+	.	Zm00001d015969	IQ-domain 21
+5	gramene	gene	134952929	134957125	.	-	.	Zm00001d015970	Protein kish [Source
+5	gramene	gene	135066142	135071626	.	-	.	Zm00001d015971	Probable LRR receptor-like serine/threonine-protein kinase 
+5	gramene	gene	135675287	135687534	.	-	.	Zm00001d015974	Leucine Rich Repeat family protein  
+5	gramene	gene	135870035	135873819	.	+	.	Zm00001d015975	Probable lactoylglutathione lyase chloroplastic
+5	gramene	gene	135877976	135880055	.	+	.	Zm00001d015976	Probable lactoylglutathione lyase chloroplastic
+5	gramene	gene	135998432	136000046	.	-	.	Zm00001d015977	Xyloglucan endotransglucosylase/hydrolase protein 26  
+5	gramene	gene	136452942	136454620	.	+	.	Zm00001d015981	ADP-ribosylation factor GTPase-activating protein AGD3
+5	gramene	gene	136647323	136655750	.	+	.	Zm00001d015984	Transcription factor bHLH133
+5	gramene	gene	136805708	136822194	.	+	.	Zm00001d015985	protein_coding
+5	gramene	gene	136921862	136930137	.	+	.	Zm00001d015986	protein_coding
+5	gramene	gene	137034603	137036596	.	-	.	Zm00001d015987	Pentatricopeptide repeat-containing protein 
+5	gramene	gene	137084108	137087008	.	-	.	Zm00001d015988	Cytochrome c-type biogenesis CcmH-like mitochondrial protein
+5	gramene	gene	137384652	137389162	.	-	.	Zm00001d015989	BSD domain-containing protein
+5	gramene	gene	137506224	137522034	.	+	.	Zm00001d015990	protein_coding
+5	gramene	gene	138127458	138130706	.	-	.	Zm00001d015998	General transcription factor 2-related zinc finger protein
+5	gramene	gene	138468680	138483666	.	+	.	Zm00001d015999	drug transmembrane transporters%3Bantiporters
+5	gramene	gene	138562425	138590869	.	+	.	Zm00001d016000	protein_coding
+5	gramene	gene	138743751	138746834	.	-	.	Zm00001d016001	Rop guanine nucleotide exchange factor 9
+5	gramene	gene	138880745	138886155	.	+	.	Zm00001d016002	Gamma-secretase subunit APH1-like
+5	gramene	gene	138912225	138921418	.	+	.	Zm00001d016006	D-amino-acid transaminase chloroplastic
+5	gramene	gene	139147655	139156020	.	+	.	Zm00001d016008	VHS and GAT domain protein  
+5	gramene	gene	139188964	139191075	.	+	.	Zm00001d016009	L-type lectin-domain containing receptor kinase V.9
+5	gramene	gene	139322738	139323734	.	+	.	Zm00001d016011	60S ribosomal protein L11-1
+5	gramene	gene	139326610	139330546	.	-	.	Zm00001d016012	Imidazole glycerol phosphate synthase hisHF chloroplastic
+5	gramene	gene	139509239	139510636	.	-	.	Zm00001d016013	UDP-glycosyltransferase 88A1
+5	gramene	gene	139697094	139700302	.	+	.	Zm00001d016014	Type III polyketide synthase B
+5	gramene	gene	139737481	139737957	.	+	.	Zm00001d016016	Dynein light chain LC6%252C flagellar outer arm  
+5	gramene	gene	139852314	139856285	.	+	.	Zm00001d016017	Protein disulfide isomerase-like 1-2
+5	gramene	gene	140067179	140072205	.	+	.	Zm00001d016021	Protein LIKE COV 1
+5	gramene	gene	140073262	140074557	.	-	.	Zm00001d016022	Expansin-A22
+5	gramene	gene	140140315	140141621	.	-	.	Zm00001d016024	Expansin-A11
+5	gramene	gene	140150560	140151594	.	-	.	Zm00001d016025	Expansin-A11
+5	gramene	gene	140214744	140215966	.	-	.	Zm00001d016027	Expansin-A11
+5	gramene	gene	140469167	140472249	.	+	.	Zm00001d016031	GDSL esterase/lipase 
+5	gramene	gene	140715515	140719221	.	+	.	Zm00001d016034	protein_coding
+5	gramene	gene	140762380	140763279	.	-	.	Zm00001d016035	Expansin-A13
+5	gramene	gene	140763837	140779741	.	-	.	Zm00001d016036	Chloroplast processing peptidase
+5	gramene	gene	140889217	140917197	.	-	.	Zm00001d016037	Adenine nucleotide alpha hydrolases-like superfamily protein
+5	gramene	gene	141197279	141201287	.	-	.	Zm00001d016041	Reticulon-like protein B4
+5	gramene	gene	141438801	141445420	.	+	.	Zm00001d016045	Isoamylase 1 chloroplastic
+5	gramene	gene	141512843	141520070	.	+	.	Zm00001d016049	Vacuolar protein sorting-associated protein 29
+5	gramene	gene	141693514	141695426	.	-	.	Zm00001d016052	protein_coding
+5	gramene	gene	141752732	141753952	.	-	.	Zm00001d016054	Expansin-A13
+5	gramene	gene	141778289	141782493	.	-	.	Zm00001d016055	Meiotic recombination protein DMC1 homolog
+5	gramene	gene	141858401	141859443	.	-	.	Zm00001d016056	Expansin-A13
+5	gramene	gene	142152957	142154867	.	+	.	Zm00001d016060	B-cell receptor-associated protein 31-like containing protein  
+5	gramene	gene	142159381	142161740	.	+	.	Zm00001d016061	Plastid division protein PDV1
+5	gramene	gene	142163992	142164885	.	-	.	Zm00001d016062	Late embryogenesis abundant (LEA) hydroxyproline-rich glycoprotein family
+5	gramene	gene	142437632	142443872	.	-	.	Zm00001d016063	BTB/POZ domain-containing protein POB1
+5	gramene	gene	142583803	142585050	.	-	.	Zm00001d016066	F-box/kelch-repeat protein 
+5	gramene	gene	142677528	142681474	.	-	.	Zm00001d016068	Peptide chain release factor PrfB1 chloroplastic
+5	gramene	gene	142684388	142684923	.	+	.	Zm00001d016069	Zinc finger protein 1
+5	gramene	gene	142715769	142723741	.	-	.	Zm00001d016070	protein_coding
+5	gramene	gene	142984198	142988371	.	+	.	Zm00001d016072	50S ribosomal protein L21 chloroplastic
+5	gramene	gene	142989967	142994253	.	-	.	Zm00001d016073	Nuclear poly(A) polymerase 1
+5	gramene	gene	143196134	143205436	.	-	.	Zm00001d016077	Sec20 family protein
+5	gramene	gene	143451064	143456385	.	+	.	Zm00001d016081	Extra-large G-protein-like%3B  protein
+5	gramene	gene	143463525	143465976	.	+	.	Zm00001d016082	protein_coding
+5	gramene	gene	143688818	143693370	.	+	.	Zm00001d016084	Pre-mRNA-splicing factor 3
+5	gramene	gene	144132627	144133823	.	+	.	Zm00001d016091	UDP-glycosyltransferase 73D1
+5	gramene	gene	144342410	144347442	.	+	.	Zm00001d016095	protein_coding
+5	gramene	gene	144349994	144354078	.	-	.	Zm00001d016096	ATP/GTP binding protein-like
+5	gramene	gene	144521445	144532308	.	+	.	Zm00001d016099	Replication protein-like
+5	gramene	gene	144538823	144547116	.	+	.	Zm00001d016100	Rhodanese-like domain-containing protein 4 chloroplastic
+5	gramene	gene	144624966	144629583	.	+	.	Zm00001d016103	Core-2/I-branching beta-16-N-acetylglucosaminyltransferase family protein
+5	gramene	gene	144631484	144632116	.	-	.	Zm00001d016104	E3 ubiquitin-protein ligase ATL41
+5	gramene	gene	144804711	144808906	.	-	.	Zm00001d016105	Abscisic acid receptor PYL9
+5	gramene	gene	144947303	144952457	.	-	.	Zm00001d016106	Probable protein phosphatase 2C 76
+5	gramene	gene	145301606	145303508	.	-	.	Zm00001d016115	Helicase
+5	gramene	gene	145422985	145425146	.	+	.	Zm00001d016118	ATP synthase subunit 1
+5	gramene	gene	145523324	145525028	.	+	.	Zm00001d016119	protein_coding
+5	gramene	gene	145592132	145596743	.	-	.	Zm00001d016122	CONTAINS InterPro DOMAIN/s
+5	gramene	gene	145803199	145806548	.	-	.	Zm00001d016130	GDSL esterase/lipase 
+5	gramene	gene	145812493	145818458	.	-	.	Zm00001d016131	Transcription factor GTE4
+5	gramene	gene	145909442	145910371	.	-	.	Zm00001d016132	AT-hook motif nuclear-localized protein 26
+5	gramene	gene	146042173	146043738	.	-	.	Zm00001d016134	protein_coding
+5	gramene	gene	146126753	146127304	.	-	.	Zm00001d016136	E3 ubiquitin-protein ligase ATL41
+5	gramene	gene	146190428	146190847	.	+	.	Zm00001d016137	RING-H2 finger protein ATL5H  
+5	gramene	gene	146356268	146356816	.	+	.	Zm00001d016139	E3 ubiquitin-protein ligase ATL41
+5	gramene	gene	146411036	146411614	.	+	.	Zm00001d016140	E3 ubiquitin-protein ligase ATL41
+5	gramene	gene	146519042	146519647	.	+	.	Zm00001d016142	RING-H2 finger protein ATL5H  
+5	gramene	gene	146521867	146522481	.	+	.	Zm00001d016143	E3 ubiquitin-protein ligase ATL41
+5	gramene	gene	146540230	146555384	.	-	.	Zm00001d016144	Chalcone isomerase 3  
+5	gramene	gene	146739253	146751645	.	-	.	Zm00001d016145	E3 ubiquitin-protein ligase ATL41
+5	gramene	gene	147041671	147044167	.	-	.	Zm00001d016149	Heavy metal transport/detoxification superfamily protein
+5	gramene	gene	147259084	147261123	.	-	.	Zm00001d016151	cytochrome P450 family 93 subfamily D polypeptide 1
+5	gramene	gene	147337518	147343809	.	-	.	Zm00001d016152	sodium/calcium exchanger family protein / calcium-binding EF hand family protein
+5	gramene	gene	147356832	147358697	.	-	.	Zm00001d016154	protein_coding
+5	gramene	gene	147482562	147503560	.	-	.	Zm00001d016155	Putative callose synthase 8
+5	gramene	gene	147526533	147553591	.	-	.	Zm00001d016156	Putative callose synthase 8
+5	gramene	gene	147665207	147667341	.	-	.	Zm00001d016158	prefoldin 6
+5	gramene	gene	147676757	147678890	.	-	.	Zm00001d016159	prefoldin 6
+5	gramene	gene	147708234	147712414	.	+	.	Zm00001d016160	protein_coding
+5	gramene	gene	147917179	147917845	.	-	.	Zm00001d016161	CRIB domain-containing protein RIC10
+5	gramene	gene	147918838	147920379	.	+	.	Zm00001d016162	RING/U-box superfamily protein
+5	gramene	gene	147975445	147981136	.	+	.	Zm00001d016164	GW2
+5	gramene	gene	148099822	148110686	.	+	.	Zm00001d016165	Ubiquitin carboxyl-terminal hydrolase 15
+5	gramene	gene	148208167	148215925	.	-	.	Zm00001d016166	protein_coding
+5	gramene	gene	148289453	148290412	.	-	.	Zm00001d016170	Peroxisome biogenesis protein 7
+5	gramene	gene	148414842	148415510	.	+	.	Zm00001d016172	DNA helicase
+5	gramene	gene	148417726	148419642	.	-	.	Zm00001d016173	Protein VAC14 homolog
+5	gramene	gene	148426447	148433921	.	-	.	Zm00001d016174	Aspartic proteinase A1
+5	gramene	gene	148523498	148526256	.	-	.	Zm00001d016175	protein_coding
+5	gramene	gene	148529396	148532037	.	+	.	Zm00001d016176	Protein kinase superfamily protein
+5	gramene	gene	148637887	148639074	.	-	.	Zm00001d016177	Peroxidase 52
+5	gramene	gene	148742473	148743688	.	-	.	Zm00001d016179	Peroxidase superfamily protein
+5	gramene	gene	148940279	148942010	.	-	.	Zm00001d016182	Peroxidase 52
+5	gramene	gene	148944954	148947782	.	-	.	Zm00001d016183	Coatomer subunit epsilon-2
+5	gramene	gene	148955813	148957970	.	-	.	Zm00001d016185	Peroxidase 52
+5	gramene	gene	149304159	149309955	.	+	.	Zm00001d016188	Shaggy-related protein kinase eta  
+5	gramene	gene	149398961	149400023	.	+	.	Zm00001d016189	Dirigent  
+5	gramene	gene	161249471	161263957	.	-	.	Zm00001d016406	NSP (nuclear shuttle protein)-interacting GTPase
+5	gramene	gene	161269499	161275948	.	-	.	Zm00001d016407	SPOC domain / Transcription elongation factor S-II protein
+5	gramene	gene	161319653	161321285	.	-	.	Zm00001d016409	Pleiotropic drug resistance protein 2
+5	gramene	gene	161322019	161325897	.	-	.	Zm00001d016410	RNA-binding (RRM/RBD/RNP motifs) family protein
+5	gramene	gene	161327143	161330435	.	-	.	Zm00001d016411	ADPATP carrier protein 1 chloroplastic
+5	gramene	gene	161593721	161595229	.	+	.	Zm00001d016414	UDP-glycosyltransferase 73D1
+5	gramene	gene	161595325	161596749	.	-	.	Zm00001d016415	UDP-glycosyltransferase 73D1
+5	gramene	gene	161761064	161763057	.	+	.	Zm00001d016417	Flavonol-3-O-glycoside-7-O-glucosyltransferase 1
+5	gramene	gene	161776485	161778329	.	-	.	Zm00001d016419	Glutamate dehydrogenase 2
+5	gramene	gene	161778007	161779409	.	+	.	Zm00001d016420	UDP-glycosyltransferase 73D1
+5	gramene	gene	161966523	161966942	.	+	.	Zm00001d016424	UDP-glycosyltransferase 73C5
+5	gramene	gene	162045948	162047120	.	+	.	Zm00001d016427	UDP-glycosyltransferase 73D1
+5	gramene	gene	162048202	162048648	.	-	.	Zm00001d016428	UDP-glycosyltransferase 73D1
+5	gramene	gene	162109457	162110125	.	+	.	Zm00001d016429	Flavonol-3-O-glycoside-7-O-glucosyltransferase 1
+5	gramene	gene	162151176	162152686	.	+	.	Zm00001d016431	UDP-glycosyltransferase 73D1
+5	gramene	gene	162238299	162239129	.	+	.	Zm00001d016435	UDP-glycosyltransferase 73D1
+5	gramene	gene	162295105	162296658	.	+	.	Zm00001d016438	3-ketoacyl-CoA synthase  
+5	gramene	gene	162354770	162359026	.	+	.	Zm00001d016439	26S protease regulatory subunit 8 homolog B
+5	gramene	gene	162360628	162373954	.	-	.	Zm00001d016440	DNAJ heat shock family protein
+5	gramene	gene	162429370	162433900	.	+	.	Zm00001d016441	Tyrosine aminotransferase
+5	gramene	gene	162540631	162548042	.	+	.	Zm00001d016442	drought-induced 19
+5	gramene	gene	162551303	162553340	.	+	.	Zm00001d016443	Peroxidase 64
+5	gramene	gene	162603198	162606546	.	-	.	Zm00001d016446	protein_coding
+5	gramene	gene	162925132	162927147	.	+	.	Zm00001d016453	Pentatricopeptide repeat-containing protein 
+5	gramene	gene	162962741	162970452	.	-	.	Zm00001d016456	protein_coding
+5	gramene	gene	162995367	162996627	.	+	.	Zm00001d016457	protein_coding
+5	gramene	gene	163038114	163057963	.	+	.	Zm00001d016458	PREFOLDIN 1
+5	gramene	gene	163059296	163070333	.	-	.	Zm00001d016459	Serine carboxypeptidase-like 19
+5	gramene	gene	163090196	163091701	.	-	.	Zm00001d016460	Serine carboxypeptidase-like 19
+5	gramene	gene	163098850	163102287	.	+	.	Zm00001d016461	Protein SMAX1-LIKE 4
+5	gramene	gene	163210940	163213928	.	-	.	Zm00001d016462	ARM repeat superfamily protein
+5	gramene	gene	163215272	163224552	.	+	.	Zm00001d016463	7-dehydrocholesterol reductase
+5	gramene	gene	163308161	163313742	.	-	.	Zm00001d016465	Oligoribonuclease
+5	gramene	gene	163434791	163435528	.	-	.	Zm00001d016467	Cell division control protein 48 homolog D
+5	gramene	gene	163436947	163437858	.	-	.	Zm00001d016468	High affinity nitrate transporter 2.7
+5	gramene	gene	163446993	163452058	.	-	.	Zm00001d016469	Gamma-glutamylcyclotransferase 2-2
+5	gramene	gene	163581205	163582329	.	+	.	Zm00001d016470	Inositol-tetrakisphosphate 1-kinase 1
+5	gramene	gene	163692385	163693980	.	+	.	Zm00001d016471	Trans-cinnamate 4-monooxygenase
+5	gramene	gene	163704722	163708772	.	+	.	Zm00001d016472	Polyketide cyclase/dehydrase and lipid transport superfamily protein
+5	gramene	gene	163724387	163726195	.	+	.	Zm00001d016473	 protein%3B Selenium binding protein-like protein
+5	gramene	gene	163737281	163742365	.	-	.	Zm00001d016474	Probable protein phosphatase 2C 74
+5	gramene	gene	163826847	163837823	.	-	.	Zm00001d016475	protein_coding
+5	gramene	gene	163840266	163843644	.	-	.	Zm00001d016476	Eukaryotic aspartyl protease family protein
+5	gramene	gene	163946671	163951276	.	-	.	Zm00001d016477	Eukaryotic aspartyl protease family protein
+5	gramene	gene	164218446	164234669	.	-	.	Zm00001d016478	Thioredoxin superfamily protein
+5	gramene	gene	164246013	164266562	.	+	.	Zm00001d016479	Importin beta-like SAD2
+5	gramene	gene	164273543	164274962	.	-	.	Zm00001d016480	Apyrase 1
+5	gramene	gene	164450745	164456623	.	+	.	Zm00001d016483	MACPF domain-containing protein 
+5	gramene	gene	164459771	164460724	.	-	.	Zm00001d016484	Protein NUCLEAR FUSION DEFECTIVE 4
+5	gramene	gene	164499366	164511896	.	+	.	Zm00001d016486	protein_coding
+5	gramene	gene	164505621	164508106	.	-	.	Zm00001d016487	Retrovirus-related Pol polyprotein LINE-1
+5	gramene	gene	164517157	164519039	.	-	.	Zm00001d016488	Squamosa promoter-binding-like protein 18
+5	gramene	gene	164520487	164522766	.	-	.	Zm00001d016489	Uridine kinase-like protein 2 chloroplastic
+5	gramene	gene	164550689	164555232	.	+	.	Zm00001d016490	Os02g0478550 protein
+5	gramene	gene	164555551	164557626	.	+	.	Zm00001d016491	 ribosomal protein S27b
+5	gramene	gene	164598332	164598967	.	+	.	Zm00001d016492	DUF679 domain membrane protein 7
+5	gramene	gene	164627846	164631311	.	-	.	Zm00001d016493	RS21-C6 protein  
+5	gramene	gene	164787246	164801706	.	-	.	Zm00001d016496	Polyadenylate-binding protein-interacting protein 3
+5	gramene	gene	164997608	164999227	.	-	.	Zm00001d016500	lipase class 3 family protein
+5	gramene	gene	165008348	165012519	.	-	.	Zm00001d016501	Spotted leaf protein 11  
+5	gramene	gene	165226704	165228471	.	-	.	Zm00001d016505	F-box protein 
+5	gramene	gene	165302124	165316460	.	-	.	Zm00001d016506	Probable UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase SEC
+5	gramene	gene	165320066	165320645	.	+	.	Zm00001d016508	Actin-7
+5	gramene	gene	165445882	165449664	.	+	.	Zm00001d016511	U-box domain-containing protein 73
+5	gramene	gene	165505918	165523557	.	-	.	Zm00001d016512	Peptidyl-prolyl cis-trans isomerase FKBP65
+5	gramene	gene	165762152	165792842	.	-	.	Zm00001d016516	Protein ROS1
+5	gramene	gene	165882713	165895935	.	-	.	Zm00001d016518	Calmodulin-binding transcription activator 2
+5	gramene	gene	165944432	165950570	.	+	.	Zm00001d016520	protein_coding
+5	gramene	gene	166098851	166107045	.	+	.	Zm00001d016521	Protein ROS1
+5	gramene	gene	166272350	166273513	.	+	.	Zm00001d016524	P-loop containing nucleoside triphosphate hydrolases superfamily protein
+5	gramene	gene	166483882	166487011	.	-	.	Zm00001d016527	Actin cross-linking protein
+5	gramene	gene	166522893	166527602	.	+	.	Zm00001d016528	Nuclear transport factor 2 (NTF2) family protein with RNA binding (RRM-RBD-RNP motifs) domain
+5	gramene	gene	166555478	166563550	.	+	.	Zm00001d016530	Probable magnesium transporter NIPA2
+5	gramene	gene	166564834	166567991	.	-	.	Zm00001d016531	Galacturonosyltransferase 8
+5	gramene	gene	166584680	166589089	.	-	.	Zm00001d016533	Electron transfer flavoprotein subunit alpha mitochondrial
+5	gramene	gene	166641036	166650228	.	+	.	Zm00001d016535	Ethylene-responsive transcription factor-like protein 
+5	gramene	gene	166668379	166669964	.	+	.	Zm00001d016538	Helicase
+5	gramene	gene	166681960	166687816	.	+	.	Zm00001d016539	Helicase
+5	gramene	gene	166688943	166690816	.	-	.	Zm00001d016540	Chaperonin 60 subunit beta 2 chloroplastic
+5	gramene	gene	166721023	166723781	.	+	.	Zm00001d016542	FAD/NAD(P)-binding oxidoreductase
+5	gramene	gene	166724759	166731051	.	+	.	Zm00001d016543	UPF0548 protein 
+5	gramene	gene	166731622	166735965	.	-	.	Zm00001d016544	Glycosyltransferase family 61 protein
+5	gramene	gene	166781254	166787718	.	+	.	Zm00001d016545	Carbohydrate-binding X8 domain superfamily protein
+5	gramene	gene	166951999	166958518	.	-	.	Zm00001d016547	Probable ADP-ribosylation factor GTPase-activating protein AGD5
+5	gramene	gene	167009621	167011782	.	+	.	Zm00001d016549	protein_coding
+5	gramene	gene	167011837	167016682	.	-	.	Zm00001d016550	3-oxoacyl-[acyl-carrier-protein] reductase chloroplastic
+5	gramene	gene	167017161	167020325	.	+	.	Zm00001d016551	Leucine aminopeptidase 2 chloroplastic
+5	gramene	gene	167108702	167128107	.	+	.	Zm00001d016552	ubiquitin-associated (UBA)/TS-N domain-containing protein
+5	gramene	gene	167128735	167131395	.	-	.	Zm00001d016553	F-box/kelch-repeat protein 
+5	gramene	gene	167244351	167245738	.	-	.	Zm00001d016556	Single-stranded nucleic acid binding R3H protein
+5	gramene	gene	167251278	167254294	.	+	.	Zm00001d016557	Ankyrin repeat family protein
+5	gramene	gene	167257671	167260419	.	-	.	Zm00001d016558	glycosyl hydrolase family 10 protein / carbohydrate-binding domain-containing protein
+5	gramene	gene	167470616	167481059	.	+	.	Zm00001d016559	Ubiquitin-activating enzyme E1 domain-containing protein 1  
+5	gramene	gene	167601437	167601760	.	+	.	Zm00001d016561	chaperone protein dnaJ-related
+5	gramene	gene	167727847	167728356	.	+	.	Zm00001d016564	Putative uncharacterized protein [Source
+5	gramene	gene	167738989	167739564	.	+	.	Zm00001d016565	Dirigent protein 11
+5	gramene	gene	167764968	167770596	.	-	.	Zm00001d016566	Gamma carbonic anhydrase-like 2 mitochondrial
+5	gramene	gene	167821302	167823310	.	-	.	Zm00001d016569	Sm-like protein LSM6A
+5	gramene	gene	167858551	167858780	.	-	.	Zm00001d016571	Sm-like protein LSM6A
+5	gramene	gene	167860552	167862743	.	+	.	Zm00001d016572	protein_coding
+5	gramene	gene	167892792	167893421	.	-	.	Zm00001d016573	E3 ubiquitin protein ligase RIE1
+5	gramene	gene	167999933	168003553	.	+	.	Zm00001d016577	farnesylated protein 3
+5	gramene	gene	168080237	168098453	.	+	.	Zm00001d016579	late embryogenesis abundant protein
+5	gramene	gene	168106216	168110362	.	+	.	Zm00001d016580	11-beta-hydroxysteroid dehydrogenase-like 5
+5	gramene	gene	168223687	168255407	.	+	.	Zm00001d016581	DNA polymerase epsilon catalytic subunit A
+5	gramene	gene	168259095	168259583	.	-	.	Zm00001d016582	SAUR-like auxin-responsive protein family
+5	gramene	gene	168376754	168377347	.	+	.	Zm00001d016584	LITAF-domain-containing protein  
+5	gramene	gene	168381513	168388146	.	+	.	Zm00001d016585	Lipase-like protein
+5	gramene	gene	168555943	168561196	.	+	.	Zm00001d016586	hydroxyproline-rich glycoprotein family protein
+5	gramene	gene	168633141	168636493	.	-	.	Zm00001d016588	Glycerophosphodiester phosphodiesterase GDPD2
+5	gramene	gene	168752444	168755159	.	+	.	Zm00001d016590	protein_coding
+5	gramene	gene	168785066	168791374	.	-	.	Zm00001d016591	Serine/threonine-protein kinase PBS1
+5	gramene	gene	168904060	168904452	.	-	.	Zm00001d016593	Grx_C8-glutaredoxin subgroup III  
+5	gramene	gene	168983320	168997833	.	-	.	Zm00001d016595	RNA pseudouridine synthase 7
+5	gramene	gene	169060121	169060871	.	-	.	Zm00001d016596	Transducin family protein / WD-40 repeat family protein
+5	gramene	gene	169218957	169221787	.	+	.	Zm00001d016599	AT2G33510 (E%3D5e-065) | protein binding 
+5	gramene	gene	169533606	169538843	.	-	.	Zm00001d016601	Phosphatidylinositol/phosphatidylcholine transfer protein SFH10
+5	gramene	gene	169615711	169625655	.	-	.	Zm00001d016602	RING/U-box superfamily protein
+5	gramene	gene	169748008	169751725	.	-	.	Zm00001d016604	Trihelix transcription factor ASR3
+5	gramene	gene	169762538	169763120	.	+	.	Zm00001d016605	Actin-7
+5	gramene	gene	169941760	169949748	.	+	.	Zm00001d016606	Protein MEI2-like 1
+5	gramene	gene	169951693	169955734	.	-	.	Zm00001d016607	RNA-binding protein 8A
+5	gramene	gene	170113701	170119069	.	-	.	Zm00001d016613	RNA-binding protein 8A
+5	gramene	gene	170197291	170216657	.	+	.	Zm00001d016615	Protein BONZAI 2
+5	gramene	gene	170223307	170225943	.	+	.	Zm00001d016616	protein_coding
+5	gramene	gene	170323276	170326850	.	+	.	Zm00001d016619	Ubiquinol-cytochrome c reductase iron-sulfur subunit  
+5	gramene	gene	170399984	170405557	.	+	.	Zm00001d016621	Nudix hydrolase 13  
+5	gramene	gene	170440595	170441392	.	+	.	Zm00001d016623	protein_coding
+5	gramene	gene	170513382	170514256	.	-	.	Zm00001d016625	Os02g0519800 protein
+5	gramene	gene	170632087	170633074	.	+	.	Zm00001d016626	Probable L-gulonolactone oxidase 6
+5	gramene	gene	170634533	170637764	.	-	.	Zm00001d016627	Nuclear pore complex protein NUP96
+5	gramene	gene	170762945	170765323	.	+	.	Zm00001d016632	Protein indeterminate-domain 5 chloroplastic
+5	gramene	gene	170834278	170838533	.	+	.	Zm00001d016634	Probable magnesium transporter NIPA8
+5	gramene	gene	170840257	170841486	.	+	.	Zm00001d016635	C2 domain protein
+5	gramene	gene	170975264	170982646	.	-	.	Zm00001d016640	TUDOR-SN protein 1
+5	gramene	gene	171157876	171158745	.	+	.	Zm00001d016647	Inositol hexaphosphate kinase  
+5	gramene	gene	171168618	171170170	.	-	.	Zm00001d016648	Probable BOI-related E3 ubiquitin-protein ligase 2
+5	gramene	gene	171349333	171350583	.	-	.	Zm00001d016653	protein_coding
+5	gramene	gene	171564168	171565437	.	-	.	Zm00001d016656	Serine/threonine protein kinase
+5	gramene	gene	171575237	171576637	.	+	.	Zm00001d016658	Uncharacterised conserved protein (UCP030365)
+5	gramene	gene	171613304	171621073	.	+	.	Zm00001d016659	Acetyl-coenzyme A synthetase chloroplastic/glyoxysomal
+5	gramene	gene	171710734	171711252	.	+	.	Zm00001d016660	protein_coding
+5	gramene	gene	171745370	171745888	.	+	.	Zm00001d016661	Peptidyl-prolyl cis-trans isomerase CYP19-1
+5	gramene	gene	171903271	171908275	.	+	.	Zm00001d016664	Chaperone protein ClpD chloroplastic
+5	gramene	gene	171909245	171912930	.	-	.	Zm00001d016665	Mitochondrial import inner membrane translocase subunit Tim17/Tim22/Tim23 family protein
+5	gramene	gene	171913028	171914209	.	+	.	Zm00001d016666	Ubiquitin carboxyl-terminal hydrolase family protein
+5	gramene	gene	172180319	172183764	.	-	.	Zm00001d016674	protein_coding
+5	gramene	gene	172209653	172221985	.	-	.	Zm00001d016675	Serine/threonine-protein kinase CTR1
+5	gramene	gene	172389823	172391358	.	+	.	Zm00001d016681	PAN domain-containing protein 
+5	gramene	gene	172408085	172409854	.	-	.	Zm00001d016682	RING-H2 finger protein ATL7
+5	gramene	gene	172412995	172430415	.	-	.	Zm00001d016684	protein_coding
+5	gramene	gene	172490019	172492502	.	+	.	Zm00001d016686	SNAP25 homologous protein SNAP33
+5	gramene	gene	172501486	172502922	.	-	.	Zm00001d016687	Putative glycosyltransferase  
+5	gramene	gene	172636956	172639352	.	-	.	Zm00001d016690	Pentatricopeptide repeat-containing protein 
+5	gramene	gene	172643939	172645561	.	+	.	Zm00001d016691	Copper transport protein CCH
+5	gramene	gene	172810617	172810907	.	+	.	Zm00001d016693	Protein LITTLE ZIPPER 3
+5	gramene	gene	172814186	172820085	.	-	.	Zm00001d016694	Poly [ADP-ribose] polymerase 3
+5	gramene	gene	172823151	172832241	.	+	.	Zm00001d016695	Probable sodium/metabolite cotransporter BASS4 chloroplastic
+5	gramene	gene	172834215	172837959	.	+	.	Zm00001d016696	alpha/beta-Hydrolases superfamily protein
+5	gramene	gene	172838793	172839497	.	-	.	Zm00001d016697	Germin-like protein subfamily 3 member 2  
+5	gramene	gene	173116967	173127135	.	-	.	Zm00001d016702	Iron-sulphur cluster biosynthesis family protein
+5	gramene	gene	173174126	173178848	.	-	.	Zm00001d016704	N-carbamoylputrescine amidase
+5	gramene	gene	173179372	173180406	.	+	.	Zm00001d016705	ATPase inhibitor  
+5	gramene	gene	173184539	173187110	.	-	.	Zm00001d016707	Heme-binding-like protein  chloroplastic
+5	gramene	gene	173403817	173408283	.	+	.	Zm00001d016708	protein_coding
+5	gramene	gene	173431311	173436516	.	+	.	Zm00001d016712	Homeobox protein HAT3.1
+5	gramene	gene	173524259	173527245	.	-	.	Zm00001d016714	chaperone protein dnaJ-related
+5	gramene	gene	173615731	173631454	.	-	.	Zm00001d016716	protein_coding
+5	gramene	gene	173772156	173772676	.	+	.	Zm00001d016717	10A19I.15
+5	gramene	gene	174012992	174014281	.	+	.	Zm00001d016719	U-box domain-containing protein 29
+5	gramene	gene	174138611	174142966	.	+	.	Zm00001d016720	Serine decarboxylase
+5	gramene	gene	174146636	174147316	.	+	.	Zm00001d016721	RING-H2 finger protein ATL79
+5	gramene	gene	174153107	174156976	.	-	.	Zm00001d016722	Cytochrome b-c1 complex subunit 6  
+5	gramene	gene	174196062	174196472	.	+	.	Zm00001d016723	Histone H3  
+5	gramene	gene	174355501	174357850	.	-	.	Zm00001d016726	Golgin candidate 2
+5	gramene	gene	174365786	174367714	.	-	.	Zm00001d016727	Vacuole membrane protein KMS1
+5	gramene	gene	174367811	174372540	.	+	.	Zm00001d016728	argonaute 1A-like protein
+5	gramene	gene	174389952	174391418	.	+	.	Zm00001d016729	MADS box interactor-like
+5	gramene	gene	174398003	174399313	.	+	.	Zm00001d016730	E3 ubiquitin-protein ligase PUB23
+5	gramene	gene	174487970	174493164	.	-	.	Zm00001d016731	Digalactosyldiacylglycerol synthase 1 chloroplastic
+5	gramene	gene	174493368	174497696	.	+	.	Zm00001d016732	protein_coding
+5	gramene	gene	174537324	174537890	.	+	.	Zm00001d016733	NDR1/HIN1-like 1
+5	gramene	gene	174689200	174692440	.	-	.	Zm00001d016735	Protein SMAX1-LIKE 3
+5	gramene	gene	174721846	174726025	.	-	.	Zm00001d016736	2-Cys peroxiredoxin BAS1 chloroplastic
+5	gramene	gene	174727108	174731885	.	+	.	Zm00001d016737	protein_coding
+5	gramene	gene	174747158	174747697	.	-	.	Zm00001d016741	Pectinesterase inhibitor domain containing protein  
+5	gramene	gene	174793228	174794175	.	+	.	Zm00001d016745	Probable F-box protein At1g60180
+5	gramene	gene	174850226	174861230	.	+	.	Zm00001d016746	Transducin/WD40 repeat-like superfamily protein
+5	gramene	gene	174862785	174863648	.	-	.	Zm00001d016748	Protein MKS1
+5	gramene	gene	174940402	174942443	.	-	.	Zm00001d016749	Ras-related protein RABG3a
+5	gramene	gene	175026874	175027977	.	+	.	Zm00001d016756	NF-180  
+5	gramene	gene	175073615	175074502	.	-	.	Zm00001d016757	PLATZ transcription factor family protein
+5	gramene	gene	175170002	175170821	.	-	.	Zm00001d016760	protein_coding
+5	gramene	gene	175214193	175217262	.	-	.	Zm00001d016762	Sphingomyelin synthetase family protein
+5	gramene	gene	175226979	175228235	.	-	.	Zm00001d016764	Ubiquitin-protein ligase  
+5	gramene	gene	175250082	175253741	.	+	.	Zm00001d016765	Protein kinase superfamily protein
+5	gramene	gene	175325311	175326297	.	-	.	Zm00001d016767	Tetratricopeptide repeat (TPR)-like superfamily protein
+5	gramene	gene	175327307	175331417	.	-	.	Zm00001d016768	Alkaline/neutral invertase CINV2
+5	gramene	gene	175413523	175419968	.	-	.	Zm00001d016770	Exosome complex component RRP45B
+5	gramene	gene	175543104	175545969	.	+	.	Zm00001d016771	Ammonium transporter 2
+5	gramene	gene	175546931	175549078	.	-	.	Zm00001d016772	protein_coding
+5	gramene	gene	175596264	175597926	.	+	.	Zm00001d016773	Zinc finger CCCH domain-containing protein 4
+5	gramene	gene	175659400	175661062	.	+	.	Zm00001d016777	Zinc finger CCCH domain-containing protein 4
+5	gramene	gene	175730666	175732774	.	+	.	Zm00001d016782	Zinc finger CCCH domain-containing protein 4
+5	gramene	gene	175764979	175770061	.	-	.	Zm00001d016783	protein_coding
+5	gramene	gene	175783136	175790708	.	-	.	Zm00001d016784	protein_coding
+5	gramene	gene	175959883	175962573	.	-	.	Zm00001d016786	PDIL5-3-Zea mays protein disulfide isomerase  
+5	gramene	gene	175971548	175973918	.	-	.	Zm00001d016787	SLL1 protein
+5	gramene	gene	176005463	176006711	.	-	.	Zm00001d016789	Protein LNK1
+5	gramene	gene	176044354	176045217	.	-	.	Zm00001d016791	protein_coding
+5	gramene	gene	176048084	176052602	.	-	.	Zm00001d016792	OSJNBa0088K19.7 protein
+5	gramene	gene	176105797	176109934	.	+	.	Zm00001d016793	protein_coding
+5	gramene	gene	176114180	176118828	.	+	.	Zm00001d016794	ABC transporter B family member 15
+5	gramene	gene	176180755	176186882	.	+	.	Zm00001d016797	Transmembrane 9 superfamily member 1
+5	gramene	gene	176187350	176189107	.	+	.	Zm00001d016798	Pentatricopeptide repeat-containing protein 
+5	gramene	gene	176395232	176398898	.	-	.	Zm00001d016801	N-glycosylase/DNA lyase OGG1
+5	gramene	gene	176496325	176501360	.	-	.	Zm00001d016802	L-ascorbate peroxidase S chloroplastic/mitochondrial
+5	gramene	gene	176578339	176584546	.	+	.	Zm00001d016803	protein_coding
+5	gramene	gene	176674266	176687901	.	+	.	Zm00001d016804	histone methyltransferases(H3-K4 specific)%3Bhistone methyltransferases(H3-K36 specific)
+5	gramene	gene	176720309	176723469	.	-	.	Zm00001d016805	Eukaryotic aspartyl protease family protein
+5	gramene	gene	176723531	176729940	.	+	.	Zm00001d016806	UDP-glucuronate
+5	gramene	gene	176847060	176864594	.	+	.	Zm00001d016807	mitogen-activated protein kinase kinase kinase 3
+5	gramene	gene	176879277	176880014	.	-	.	Zm00001d016808	Cytochrome P450 709B2
+5	gramene	gene	176926956	176930135	.	+	.	Zm00001d016810	DNAJ heat shock N-terminal domain-containing protein
+5	gramene	gene	176930372	176936129	.	-	.	Zm00001d016811	ACT domain-containing protein ACR3
+5	gramene	gene	176963334	176963779	.	+	.	Zm00001d016812	neurochondrin family protein
+5	gramene	gene	177029618	177034439	.	+	.	Zm00001d016813	Ubiquitin carboxyl-terminal hydrolase family protein
+5	gramene	gene	177041057	177042174	.	-	.	Zm00001d016814	protein_coding
+5	gramene	gene	177051872	177054312	.	-	.	Zm00001d016815	Pentatricopeptide repeat-containing protein 
+5	gramene	gene	177054357	177058283	.	+	.	Zm00001d016816	P-loop containing nucleoside triphosphate hydrolases superfamily protein
+5	gramene	gene	177141675	177142339	.	-	.	Zm00001d016818	NADH dehydrogenase [ubiquinone] iron-sulfur protein 6 mitochondrial
+5	gramene	gene	177244500	177246570	.	-	.	Zm00001d016820	Actin-11
+5	gramene	gene	177260095	177285934	.	+	.	Zm00001d016822	Phosphoinositide phosphatase SAC6
+5	gramene	gene	177354271	177357801	.	-	.	Zm00001d016824	methyltransferases%3Bnucleic acid binding
+5	gramene	gene	177531582	177537800	.	-	.	Zm00001d016825	SPla/RYanodine receptor (SPRY) domain-containing protein
+5	gramene	gene	177539021	177540697	.	-	.	Zm00001d016826	proline-rich family protein
+5	gramene	gene	177540939	177547554	.	-	.	Zm00001d016827	protein_coding
+5	gramene	gene	177557935	177560415	.	-	.	Zm00001d016828	Pentatricopeptide repeat-containing protein 
+5	gramene	gene	177772939	177774278	.	+	.	Zm00001d016831	Tubulin-folding cofactor C
+5	gramene	gene	177779774	177784519	.	-	.	Zm00001d016832	Protein AIG1  
+5	gramene	gene	177813977	177815819	.	-	.	Zm00001d016834	NADPH-dependent pterin aldehyde reductase
+5	gramene	gene	177815935	177822681	.	+	.	Zm00001d016835	Ligatin  
+5	gramene	gene	177823355	177829656	.	-	.	Zm00001d016836	protein_coding
+5	gramene	gene	177876404	177879393	.	+	.	Zm00001d016837	RING-H2 finger protein ATL7
+5	gramene	gene	177880117	177886035	.	-	.	Zm00001d016838	protein_coding
+5	gramene	gene	178069833	178070708	.	-	.	Zm00001d016839	protein_coding
+5	gramene	gene	178096482	178097375	.	+	.	Zm00001d016840	RING-H2 finger protein ATL3
+5	gramene	gene	178195938	178198322	.	+	.	Zm00001d016841	monooxygenase 1
+5	gramene	gene	178210000	178212184	.	-	.	Zm00001d016842	monooxygenase 1
+5	gramene	gene	178232995	178234870	.	-	.	Zm00001d016844	monooxygenase 1
+5	gramene	gene	178236950	178238261	.	+	.	Zm00001d016845	Cytochrome c oxidase biogenesis protein Cmc1-like
+5	gramene	gene	178257482	178258778	.	+	.	Zm00001d016848	protein_coding
+5	gramene	gene	178261464	178266129	.	+	.	Zm00001d016849	TPX2 (targeting protein for Xklp2) protein family
+5	gramene	gene	178308318	178313353	.	-	.	Zm00001d016850	protein_coding
+5	gramene	gene	178381711	178383803	.	+	.	Zm00001d016853	APO protein 3 mitochondrial
+5	gramene	gene	178387672	178394346	.	+	.	Zm00001d016854	Ferrochelatase  
+5	gramene	gene	178397600	178406327	.	+	.	Zm00001d016855	Chloride channel  
+5	gramene	gene	178414694	178421024	.	+	.	Zm00001d016856	protein_coding
+5	gramene	gene	178448930	178449250	.	+	.	Zm00001d016857	protein_coding
+5	gramene	gene	178455640	178465092	.	-	.	Zm00001d016858	Ankyrin repeat protein SKIP35
+5	gramene	gene	178504960	178508727	.	-	.	Zm00001d016860	protein_coding
+5	gramene	gene	178509709	178513664	.	+	.	Zm00001d016861	protein_coding
+5	gramene	gene	178551174	178635959	.	-	.	Zm00001d016863	Pentatricopeptide repeat-containing protein 
+5	gramene	gene	178633252	178633455	.	+	.	Zm00001d016864	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 3-A
+5	gramene	gene	178638212	178640035	.	-	.	Zm00001d016865	copper ion transmembrane transporters
+5	gramene	gene	178641592	178646428	.	-	.	Zm00001d016866	Cyclic pyranopterin monophosphate synthase mitochondrial
+5	gramene	gene	178862417	178863375	.	-	.	Zm00001d016867	Putative cyclin-A3-1
+5	gramene	gene	178912071	178912874	.	-	.	Zm00001d016868	Putative cyclin-A3-1
+5	gramene	gene	178922924	178923724	.	-	.	Zm00001d016870	Putative cyclin-A3-1
+5	gramene	gene	178940163	178941140	.	-	.	Zm00001d016871	Putative cyclin-A3-1
+5	gramene	gene	178968180	178971530	.	-	.	Zm00001d016873	protein_coding
+5	gramene	gene	179020618	179022825	.	+	.	Zm00001d016874	RING/U-box superfamily protein
+5	gramene	gene	179111776	179112984	.	-	.	Zm00001d016876	protein_coding

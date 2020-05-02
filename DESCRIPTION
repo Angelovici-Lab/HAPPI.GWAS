@@ -1,0 +1,53 @@
+Package: HAPPI.GWAS
+Title: HAPPI.GWAS
+Version: 1.0.0
+Authors@R: 
+    person(given = "Yen On",
+           family = "Chan",
+           role = c("aut", "cre"),
+           email = "chanye@mail.missouri.edu",
+           comment = c(ORCID = "https://orcid.org/0000-0002-3345-9614"))
+Author: Yen On Chan [aut, cre]
+Maintainer: Yen On Chan <chanye@mail.missouri.edu>
+Description: HAPPI.GWAS is a package for GWAS.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.6.0)
+biocViews:
+Imports:
+    methods,
+    magrittr,
+    dplyr,
+    tidyr,
+    ggplot2,
+    tibble,
+    stringr,
+    gplots,
+    ape,
+    BiocManager,
+    car,
+    data.table,
+    DataCombine,
+    EMMREML,
+    foreach,
+    doParallel,
+    lme4,
+    scatterplot3d,
+    genetics,
+    LDheatmap,
+    gridExtra,
+    yaml,
+    bigmemory,
+    biganalytics,
+    Biobase,
+    BiocGenerics,
+    snpStats,
+    multtest,
+    zlibbioc,
+    maditr,
+    MASS,
+    plotly
+RoxygenNote: 6.1.1
+Remotes:
+    github::jiabowang/GAPIT3

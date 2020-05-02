@@ -1,0 +1,71 @@
+#######################################################################
+## Raw Data
+#######################################################################
+raw_data:
+by_column:
+- 1
+- 2
+start_column: 3
+
+#######################################################################
+## BLUP or BLUE
+#######################################################################
+BLUP: ./Demo/mdp_traits.txt
+BLUP_by_column:
+- 1
+BLUP_start_column: 2
+
+#######################################################################
+## Gapit3
+#######################################################################
+GAPIT_kinship_matrix:
+GAPIT_covariates:
+GAPIT_hapmap:
+GAPIT_genotype_data_numeric:
+GAPIT_genotype_map_numeric:
+GAPIT_hapmap_file_extension: hmp.txt
+GAPIT_genotype_data_numeric_file_extension:
+GAPIT_genotype_map_numeric_file_extension:
+GAPIT_hapmap_filename: mdp_genotype_chr
+GAPIT_genotype_data_numeric_filename:
+GAPIT_genotype_map_numeric_filename:
+GAPIT_genotype_file_path: /home/ycth8/data/projects/HAPPI_GWAS/HAPPI_GWAS/Demo/
+GAPIT_genotype_file_named_sequentially_from: 1
+GAPIT_genotype_file_named_sequentially_to: 10
+GAPIT_model:
+# - GLM
+# - MLM
+# - MLMM
+# - SUPER
+ - FarmCPU
+GAPIT_SNP_MAF: 0.05
+GAPIT_PCA_total: 0
+GAPIT_Model_selection: TRUE
+GAPIT_SNP_test: TRUE
+GAPIT_file_output: TRUE
+GAPIT_p_value_threshold: 4.67e-8
+GAPIT_p_value_fdr_threshold:
+GAPIT_LD_number: 100000
+
+#######################################################################
+## Haploview
+#######################################################################
+Haploview_file_path: ./Demo/
+Haploview_file_name: mdp_genotype_haploview_chr
+Haploview_file_extension: txt
+Haploview_file_named_sequentially_from: 1
+Haploview_file_named_sequentially_to: 10
+
+#######################################################################
+## Match Gene Start and Stop
+#######################################################################
+GFF_file_path: ./Demo/
+GFF_file_name: gene_chr
+GFF_file_extension: gff.txt
+GFF_file_named_sequentially_from: 1
+GFF_file_named_sequentially_to: 10
+
+#######################################################################
+## Output Directory
+#######################################################################
+output: ../output/demo_output_FarmCPU

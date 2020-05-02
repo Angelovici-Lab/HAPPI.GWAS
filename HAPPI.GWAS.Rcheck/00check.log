@@ -1,0 +1,256 @@
+* using log directory ‘/array4/users/ycth8/projects/HAPPI.GWAS/HAPPI.GWAS/HAPPI.GWAS.Rcheck’
+* using R version 3.6.0 (2019-04-26)
+* using platform: x86_64-redhat-linux-gnu (64-bit)
+* using session charset: UTF-8
+* checking for file ‘HAPPI.GWAS/DESCRIPTION’ ... OK
+* this is package ‘HAPPI.GWAS’ version ‘1.0.0’
+* package encoding: UTF-8
+* checking package namespace information ... OK
+* checking package dependencies ... OK
+* checking if this is a source package ... OK
+* checking if there is a namespace ... OK
+* checking for executable files ... OK
+* checking for hidden files and directories ... OK
+* checking for portable file names ... OK
+* checking for sufficient/correct file permissions ... OK
+* checking whether package ‘HAPPI.GWAS’ can be installed ... WARNING
+Found the following significant warnings:
+  Note: possible error in 'FarmCPU.LM.Parallel(y = Y[, ': unused argument (npc = npc) 
+  Note: possible error in 'layout(title = "Interactive.Manhattan.Plot", ': unused arguments (title = "Interactive.Manhattan.Plot", xaxis = list(title = "Chromsome", zeroline = FALSE, showticklabels = FALSE), yaxis = list(title = "-Log10(p)")) 
+  Note: possible error in 'layout(title = "Interactive.QQ.Plot", ': unused arguments (title = "Interactive.QQ.Plot", xaxis = list(title = "Expected -Log10(p)"), yaxis = list(title = "Observed -Log10(p)"), showlegend = FALSE) 
+  Warning: replacing previous import ‘MASS::select’ by ‘plotly::select’ when loading ‘HAPPI.GWAS’
+  Warning: replacing previous import ‘plotly::layout’ by ‘graphics::layout’ when loading ‘HAPPI.GWAS’
+  Warning: replacing previous import ‘bigmemory::head’ by ‘utils::head’ when loading ‘HAPPI.GWAS’
+See ‘/array4/users/ycth8/projects/HAPPI.GWAS/HAPPI.GWAS/HAPPI.GWAS.Rcheck/00install.out’ for details.
+Information on the location(s) of code generating the ‘Note’s can be
+obtained by re-running with environment variable R_KEEP_PKG_SOURCE set
+to ‘yes’.
+* checking installed package size ... OK
+* checking package directory ... OK
+* checking DESCRIPTION meta-information ... NOTE
+Checking should be performed on sources prepared by ‘R CMD build’.
+* checking top-level files ... OK
+* checking for left-over files ... OK
+* checking index information ... OK
+* checking package subdirectories ... WARNING
+Found the following directory with the name of a check directory:
+  ./HAPPI.GWAS.Rcheck
+Most likely, these were included erroneously.
+* checking R files for non-ASCII characters ... OK
+* checking R files for syntax errors ... OK
+* checking whether the package can be loaded ... OK
+* checking whether the package can be loaded with stated dependencies ... OK
+* checking whether the package can be unloaded cleanly ... OK
+* checking whether the namespace can be loaded with stated dependencies ... OK
+* checking whether the namespace can be unloaded cleanly ... OK
+* checking loading without being on the library search path ... OK
+* checking dependencies in R code ... WARNING
+'::' or ':::' imports not declared from:
+  ‘devtools’ ‘htmltools’
+'library' or 'require' calls not declared from:
+  ‘BLINK’ ‘EMMREML’ ‘LDheatmap’ ‘ape’ ‘biganalytics’ ‘bigmemory’
+  ‘devtools’ ‘genetics’ ‘gplots’ ‘lattice’ ‘lme4’ ‘multtest’ ‘plotly’
+  ‘rgl’ ‘rglwidget’ ‘scatterplot3d’
+'library' or 'require' calls in package code:
+  ‘BLINK’ ‘EMMREML’ ‘LDheatmap’ ‘ape’ ‘biganalytics’ ‘bigmemory’
+  ‘devtools’ ‘genetics’ ‘gplots’ ‘lattice’ ‘lme4’ ‘multtest’ ‘plotly’
+  ‘rgl’ ‘rglwidget’ ‘scatterplot3d’
+  Please use :: or requireNamespace() instead.
+  See section 'Suggested packages' in the 'Writing R Extensions' manual.
+Namespaces in Imports field not imported from:
+  ‘Biobase’ ‘BiocGenerics’ ‘ape’ ‘data.table’ ‘doParallel’ ‘genetics’
+  ‘gridExtra’ ‘multtest’ ‘snpStats’ ‘yaml’ ‘zlibbioc’
+  All declared Imports should be used.
+* checking S3 generic/method consistency ... OK
+* checking replacement functions ... OK
+* checking foreign function calls ... OK
+* checking R code for possible problems ... NOTE
+FarmCPU: warning in FarmCPU.BIN(Y = Y1[, c(1, trait)], GD = GD1, GM =
+  GM, CV = CV1, orientation = orientation, P = myPrior, method =
+  method.bin, b = bin.size, s = bin.selection, theLoop = theLoop, bound
+  = bound): partial argument match of 'GD' to 'GDP'
+FarmCPU: warning in FarmCPU.BIN(Y = Y1[, c(1, trait)], GD = GD1, GM =
+  GM, CV = theCV, orientation = orientation, P = myPrior, method =
+  method.bin, b = bin.size, s = bin.selection, theLoop = theLoop):
+  partial argument match of 'GD' to 'GDP'
+FarmCPU: warning in FarmCPU.Remove(GD = GD1, GM = GM, seqQTN = seqQTN,
+  seqQTN.p = seqQTN.p, orientation = orientation, threshold = 0.7):
+  partial argument match of 'GD' to 'GDP'
+FarmCPU.GLM: warning in matrix(NA, nr = nrow(GDP), nc = 4 * (nf + 1)):
+  partial argument match of 'nr' to 'nrow'
+FarmCPU.GLM: warning in matrix(NA, nr = nrow(GDP), nc = 4 * (nf + 1)):
+  partial argument match of 'nc' to 'ncol'
+GAPIT.Bus: warning in read.table("trait1_GWAS_result.txt", head = T):
+  partial argument match of 'head' to 'header'
+GAPIT.Fragment: warning in read.delim(paste(file.path, file.G, file,
+  ".", file.Ext.G, sep = ""), head = FALSE, skip = skip.1, nrows =
+  file.fragment + 1): partial argument match of 'head' to 'header'
+GAPIT.Fragment: warning in read.delim(paste(file.path, file.G, file,
+  ".", file.Ext.G, sep = ""), head = FALSE, skip = skip.1, nrows =
+  file.fragment): partial argument match of 'head' to 'header'
+GAPIT.Fragment: warning in read.table(paste(file.path, file.GD, file,
+  ".", file.Ext.GD, sep = ""), head = TRUE, nrows = 1): partial
+  argument match of 'head' to 'header'
+GAPIT.Fragment: warning in read.table(paste(file.path, file.GD, file,
+  ".", file.Ext.GD, sep = ""), head = TRUE, colClasses = c("factor",
+  rep("NULL", skip.1), rep("numeric", read.in), rep("NULL", skip.2))):
+  partial argument match of 'head' to 'header'
+GAPIT.Fragment: warning in read.table(paste(file.path, file.GM, file,
+  ".", file.Ext.GM, sep = ""), head = TRUE, skip = skip.1, nrows =
+  file.fragment): partial argument match of 'head' to 'header'
+GAPIT.Interactive.GS: warning in read.table(paste("gcs_", e, ".txt",
+  sep = ""), head = T): partial argument match of 'head' to 'header'
+GAPIT.Main: warning in read.table(paste("GAPIT.TMP.GI.", name.of.trait,
+  file, ".", frag, ".txt", sep = ""), head = TRUE): partial argument
+  match of 'head' to 'header'
+GAPIT.Main: warning in read.table(paste("GAPIT.TMP.ps.", name.of.trait,
+  file, ".", frag, ".txt", sep = ""), head = FALSE): partial argument
+  match of 'head' to 'header'
+GAPIT.Main: warning in read.table(paste("GAPIT.TMP.maf.",
+  name.of.trait, file, ".", frag, ".txt", sep = ""), head = FALSE):
+  partial argument match of 'head' to 'header'
+GAPIT.Main: warning in read.table(paste("GAPIT.TMP.nobs.",
+  name.of.trait, file, ".", frag, ".txt", sep = ""), head = FALSE):
+  partial argument match of 'head' to 'header'
+GAPIT.Main: warning in read.table(paste("GAPIT.TMP.rsquare.base.",
+  name.of.trait, file, ".", frag, ".txt", sep = ""), head = FALSE):
+  partial argument match of 'head' to 'header'
+GAPIT.Main: warning in read.table(paste("GAPIT.TMP.rsquare.",
+  name.of.trait, file, ".", frag, ".txt", sep = ""), head = FALSE):
+  partial argument match of 'head' to 'header'
+GAPIT.Main: warning in read.table(paste("GAPIT.TMP.df.", name.of.trait,
+  file, ".", frag, ".txt", sep = ""), head = FALSE): partial argument
+  match of 'head' to 'header'
+GAPIT.Main: warning in read.table(paste("GAPIT.TMP.tvalue.",
+  name.of.trait, file, ".", frag, ".txt", sep = ""), head = FALSE):
+  partial argument match of 'head' to 'header'
+GAPIT.Main: warning in read.table(paste("GAPIT.TMP.stderr.",
+  name.of.trait, file, ".", frag, ".txt", sep = ""), head = FALSE):
+  partial argument match of 'head' to 'header'
+GAPIT.Main: warning in read.table(paste("GAPIT.TMP.effect.est.",
+  name.of.trait, file, ".", frag, ".txt", sep = ""), head = FALSE):
+  partial argument match of 'head' to 'header'
+GAPIT.Multiple.Manhattan: warning in read.csv(paste("GAPIT.",
+  environ_name[i], ".GWAS.Results.csv", sep = ""), head = T): partial
+  argument match of 'head' to 'header'
+GAPIT.Multiple.Manhattan: warning in read.csv(paste("GAPIT.",
+  environ_name[k], ".GWAS.Results.csv", sep = ""), head = T): partial
+  argument match of 'head' to 'header'
+GAPIT.PCA: warning in png(file = "example%03d.png", width = 500, heigh
+  = 500): partial argument match of 'file' to 'filename'
+GAPIT.PCA: warning in png(file = "example%03d.png", width = 500, heigh
+  = 500): partial argument match of 'heigh' to 'height'
+GAPIT.PCA: warning in scatterplot3d(PCA.X$x[, 1], PCA.X$x[, 2],
+  PCA.X$x[, 3], xlab = paste("PC", 1, sep = ""), ylab = paste("PC", 2,
+  sep = ""), zlab = paste("PC", 3, sep = ""), pch = 20, color =
+  PCA.col, col.axis = "blue", cex = 1, cex.lab = 1.4, cex.axis = 1.2,
+  lwd = 3, angle = 55, scale.y = 0.7): partial argument match of 'cex'
+  to 'cex.symbols'
+GAPIT.Prediction: warning in matrix(nr = m.sample, nc = num - 1):
+  partial argument match of 'nr' to 'nrow'
+GAPIT.Prediction: warning in matrix(nr = m.sample, nc = num - 1):
+  partial argument match of 'nc' to 'ncol'
+GAPIT.Prediction: warning in matrix(nr = m - m.sample, nc = num - 1):
+  partial argument match of 'nr' to 'nrow'
+GAPIT.Prediction: warning in matrix(nr = m - m.sample, nc = num - 1):
+  partial argument match of 'nc' to 'ncol'
+GAPIT.cross_validation.compare: warning in read.table("K.txt", head =
+  F): partial argument match of 'head' to 'header'
+GAPIT.cross_validation.compare: warning in read.table("Y.txt", head =
+  T): partial argument match of 'head' to 'header'
+FarmCPU: no visible global function definition for ‘sfInit’
+FarmCPU: no visible global function definition for ‘FarmCPU.Accelerate’
+FarmCPU: no visible global function definition for ‘sfStop’
+FarmCPU.GLM : <anonymous>: no visible global function definition for
+  ‘fastLmPure’
+FarmCPU.GLM: possible error in FarmCPU.LM.Parallel(y = Y[, 2], w =
+  theCV, x = GDP, orientation = orientation, model = model, ncpus =
+  ncpus, npc = npc): unused argument (npc = npc)
+FarmCPU.LM.Parallel: no visible global function definition for
+  ‘sfApply’
+GAPIT.Bus: no visible binding for global variable ‘FASLE’
+GAPIT.Bus: no visible global function definition for ‘Blink’
+GAPIT.EMMAxP3D: no visible binding for global variable ‘seed’
+GAPIT.Genotype: no visible global function definition for ‘as.phylo’
+GAPIT.Genotype: no visible global function definition for
+  ‘makeGenotypes’
+GAPIT.Genotype: no visible binding for global variable ‘as.genotype’
+GAPIT.ID: no visible binding for global variable ‘ys’
+GAPIT.Interactive.GS: no visible binding for global variable ‘e’
+GAPIT.Interactive.Manhattan: possible error in layout(title =
+  "Interactive.Manhattan.Plot", xaxis = list(title = "Chromsome",
+  zeroline = FALSE, showticklabels = FALSE), yaxis = list(title =
+  "-Log10(p)")): unused arguments (title =
+  "Interactive.Manhattan.Plot", xaxis = list(title = "Chromsome",
+  zeroline = FALSE, showticklabels = FALSE), yaxis = list(title =
+  "-Log10(p)"))
+GAPIT.Interactive.Manhattan: possible error in layout(title =
+  "Interactive.QQ.Plot", xaxis = list(title = "Expected -Log10(p)"),
+  yaxis = list(title = "Observed -Log10(p)"), showlegend = FALSE):
+  unused arguments (title = "Interactive.QQ.Plot", xaxis = list(title =
+  "Expected -Log10(p)"), yaxis = list(title = "Observed -Log10(p)"),
+  showlegend = FALSE)
+GAPIT.Main: no visible binding for global variable ‘traitname’
+GAPIT.Main: no visible global function definition for ‘GAPIT.TDP’
+GAPIT.PCA: no visible global function definition for ‘cloud’
+GAPIT.PCA: no visible global function definition for ‘plot3d’
+GAPIT.PCA: no visible global function definition for ‘spheres3d’
+GAPIT.PCA: no visible global function definition for ‘rglwidget’
+GAPIT.PCA: no visible global function definition for ‘toggleWidget’
+GAPIT.Perform.BH.FDR.Multiple.Correction.Procedure: no visible global
+  function definition for ‘mt.rawp2adjp’
+GAPIT.Phenotype.Simulation: no visible binding for global variable
+  ‘myCV’
+GAPIT.Power.compare: no visible binding for global variable ‘NUll’
+GAPIT.Power.compare.plink: no visible binding for global variable
+  ‘null’
+GAPIT.Prediction: no visible binding for '<<-' assignment to ‘calilast’
+GAPIT.Prediction: no visible binding for global variable ‘calilast’
+GAPIT.SS: no visible binding for global variable ‘GAPIT.Version’
+GAPIT.SS: no visible binding for global variable ‘LD.location’
+GAPIT.SS: no visible binding for global variable ‘LD.range’
+GAPIT.SS: no visible binding for global variable ‘SNP.CV’
+GAPIT.SS: no visible binding for global variable ‘QTN.update’
+GAPIT.SUPER.GS: no visible binding for global variable ‘trait’
+GAPIT.SUPER.GS: no visible binding for global variable ‘traitname’
+GAPIT2: no visible global function definition for ‘as.date.frame’
+GAPIT2: no visible binding for global variable ‘GAPIT.Version’
+Undefined global functions or variables:
+  Blink FASLE FarmCPU.Accelerate GAPIT.TDP GAPIT.Version LD.location
+  LD.range NUll QTN.update SNP.CV as.date.frame as.genotype as.phylo
+  calilast cloud e fastLmPure makeGenotypes mt.rawp2adjp myCV null
+  plot3d rglwidget seed sfApply sfInit sfStop spheres3d toggleWidget
+  trait traitname ys
+* checking Rd files ... OK
+* checking Rd metadata ... OK
+* checking Rd cross-references ... OK
+* checking for missing documentation entries ... OK
+* checking for code/documentation mismatches ... OK
+* checking Rd \usage sections ... WARNING
+Undocumented arguments in documentation object 'extract_haplotype'
+  ‘combined_gwas_result’ ‘Haploview_file_path’ ‘Haploview_file_name’
+  ‘Haploview_file_extension’ ‘Haploview_file_named_sequentially_from’
+  ‘Haploview_file_named_sequentially_to’
+
+Undocumented arguments in documentation object 'farming_with_GAPIT'
+  ‘p_value_threshold’ ‘p_value_fdr_threshold’ ‘ld_number’ ‘KI’ ‘CV’ ‘G’
+  ‘GD’ ‘GM’ ‘file.Ext.G’ ‘file.Ext.GD’ ‘file.Ext.GM’ ‘file.G’ ‘file.GD’
+  ‘file.GM’ ‘file.path’ ‘file.from’ ‘file.to’ ‘model’ ‘SNP.MAF’
+  ‘PCA.total’ ‘Model.selection’ ‘SNP.test’ ‘file.output’
+
+Undocumented arguments in documentation object 'search_genes'
+  ‘combined_gwas_result’ ‘GFF_file_path’ ‘GFF_file_name’
+  ‘GFF_file_extension’ ‘GFF_file_named_sequentially_from’
+  ‘GFF_file_named_sequentially_to’
+
+Functions with \usage entries need to have the appropriate \alias
+entries, and all their arguments documented.
+The \usage entries must correspond to syntactically valid R code.
+See chapter ‘Writing R documentation files’ in the ‘Writing R
+Extensions’ manual.
+* checking Rd contents ... OK
+* checking for unstated dependencies in examples ... OK
+* checking examples ... NONE
+* checking PDF version of manual ... OK
+* DONE
+Status: 4 WARNINGs, 2 NOTEs
