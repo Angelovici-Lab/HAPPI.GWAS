@@ -49,6 +49,6 @@ Imports:
     maditr,
     MASS,
     plotly
-RoxygenNote: 6.1.1
 Remotes:
     github::jiabowang/GAPIT3
+RoxygenNote: 6.1.1

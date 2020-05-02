@@ -29,7 +29,7 @@ GAPIT_genotype_map_numeric_file_extension:
 GAPIT_hapmap_filename: mdp_genotype_chr
 GAPIT_genotype_data_numeric_filename: 
 GAPIT_genotype_map_numeric_filename: 
-GAPIT_genotype_file_path: /home/ycth8/data/projects/HAPPI_GWAS/HAPPI_GWAS/Demo/
+GAPIT_genotype_file_path: /home/ycth8/data/projects/HAPPI.GWAS/HAPPI.GWAS/Demo/
 GAPIT_genotype_file_named_sequentially_from: 1
 GAPIT_genotype_file_named_sequentially_to: 10
 GAPIT_model: 

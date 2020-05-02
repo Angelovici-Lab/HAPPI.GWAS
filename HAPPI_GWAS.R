@@ -1,43 +1,4 @@
 #######################################################################
-## Read file function
-#######################################################################
-## Read .csv file or tab delimited text file
-read_file <- function(file_path = NULL, header = TRUE){
-  if (!is.null(file_path)) {
-    if (file.exists(file_path)) {
-      if (endsWith(file_path, ".csv")) {
-        dat <- tryCatch({
-                          utils::read.csv(
-                            file_path, header = header, stringsAsFactors = FALSE, check.names = FALSE
-                          )
-                        }, error = function(e) {
-          return(NULL)
-        })
-      } else if (endsWith(file_path, ".txt")) {
-        dat <- tryCatch({
-                          utils::read.table(
-                            file_path, header = header, sep = "\t", quote = "",
-                            stringsAsFactors = FALSE, check.names = FALSE
-                          )
-                        }, error = function(e) {
-          return(NULL)
-        })
-      } else{
-        # unknown file extension.
-        return(NULL)
-      }
-      return(dat)
-    } else{
-      # file_path does not exist.
-    }
-  } else{
-    # file_path path is NULL.
-  }
-  return(NULL)
-}
-
-
-#######################################################################
 ## Argument Parser
 #######################################################################
 
@@ -122,7 +83,7 @@ if (exists("yaml_dat")) {
 
 cat(rep("\n", 2))
 ## Import raw data
-raw_data <- read_file(file_path = yaml_dat$raw_data)
+raw_data <- HAPPI.GWAS::read_file(file_path = yaml_dat$raw_data)
 if (is.null(raw_data)) {
   print("The raw_data parameter is NULL.")
 } else{
@@ -145,7 +106,7 @@ if (!is.null(yaml_dat$start_column)) {
 
 cat(rep("\n", 2))
 ## Import BULP data
-BLUP <- read_file(file_path = yaml_dat$BLUP)
+BLUP <- HAPPI.GWAS::read_file(file_path = yaml_dat$BLUP)
 if (is.null(BLUP)) {
   print("The BLUP parameter is NULL.")
 } else{
@@ -169,7 +130,7 @@ if (!is.null(yaml_dat$BLUP_start_column)) {
 cat(rep("\n", 2))
 ## Import GAPIT reference files
 # GAPIT kinship matrix
-GAPIT_kinship_matrix <- read_file(file_path = yaml_dat$GAPIT_kinship_matrix, header = FALSE)
+GAPIT_kinship_matrix <- HAPPI.GWAS::read_file(file_path = yaml_dat$GAPIT_kinship_matrix, header = FALSE)
 if (is.null(GAPIT_kinship_matrix)) {
   print("The GAPIT_kinship_matrix parameter is NULL.")
 } else{
@@ -177,7 +138,7 @@ if (is.null(GAPIT_kinship_matrix)) {
 }
 
 # GAPIT covariates
-GAPIT_covariates <- read_file(file_path = yaml_dat$GAPIT_covariates)
+GAPIT_covariates <- HAPPI.GWAS::read_file(file_path = yaml_dat$GAPIT_covariates)
 if (is.null(GAPIT_covariates)) {
   print("The GAPIT_covariates parameter is NULL.")
 } else{
@@ -185,7 +146,7 @@ if (is.null(GAPIT_covariates)) {
 }
 
 # GAPIT hapmap file
-GAPIT_hapmap <- read_file(file_path = yaml_dat$GAPIT_hapmap, header = FALSE)
+GAPIT_hapmap <- HAPPI.GWAS::read_file(file_path = yaml_dat$GAPIT_hapmap, header = FALSE)
 if (is.null(GAPIT_hapmap)) {
   print("The GAPIT_hapmap parameter is NULL.")
 } else{
@@ -193,7 +154,7 @@ if (is.null(GAPIT_hapmap)) {
 }
 
 # GAPIT genotype data (numeric)
-GAPIT_genotype_data_numeric <- read_file(file_path = yaml_dat$GAPIT_genotype_data_numeric)
+GAPIT_genotype_data_numeric <- HAPPI.GWAS::read_file(file_path = yaml_dat$GAPIT_genotype_data_numeric)
 if (is.null(GAPIT_genotype_data_numeric)) {
   print("The GAPIT_genotype_data_numeric parameter is NULL.")
 } else{
@@ -201,7 +162,7 @@ if (is.null(GAPIT_genotype_data_numeric)) {
 }
 
 # GAPIT genotype map (numeric)
-GAPIT_genotype_map_numeric <- read_file(file_path = yaml_dat$GAPIT_genotype_map_numeric)
+GAPIT_genotype_map_numeric <- HAPPI.GWAS::read_file(file_path = yaml_dat$GAPIT_genotype_map_numeric)
 if (is.null(GAPIT_genotype_map_numeric)) {
   print("The GAPIT_genotype_map_numeric parameter is NULL.")
 } else{
