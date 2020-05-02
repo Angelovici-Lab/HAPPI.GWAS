@@ -3,6 +3,7 @@
 #' @description The goal of generate_BLUP is to run Best Linear Unbiased Predictions.
 #' @importFrom foreach %dopar%
 #' @importFrom magrittr %>%
+#' @importFrom data.table as.data.table
 #' @param dat An input dataset.
 #' @param by_column The accession column.
 #' @param start_column The start column index for traits.
