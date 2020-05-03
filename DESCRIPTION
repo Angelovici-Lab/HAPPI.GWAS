@@ -47,7 +47,8 @@ Imports:
     multtest,
     zlibbioc,
     MASS,
-    plotly
+    plotly,
+    reshape2
 Remotes:
     github::jiabowang/GAPIT3
 RoxygenNote: 6.1.1

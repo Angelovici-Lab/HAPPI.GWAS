@@ -185,7 +185,7 @@ generate_BLUP <- function(dat = NULL, by_column = c(1, 2), start_column = 3){
       }
     }
 
-    blup <- data.table::dcast(BLUP_out_df, Line ~ id, value.var="Intercept")
+    blup <- reshape2::dcast(BLUP_out_df, Line ~ id, value.var="Intercept")
 
     colnames(blup)[1] <- colnames(dat)[1]
     blup <- blup[order(as.numeric(gsub("[[:alpha:]]", "", blup[,1]))),]
