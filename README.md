@@ -16,7 +16,7 @@ devtools::install_github("Angelovici-Lab/HAPPI.GWAS")
 ```
 
 ``` r
-# Run this on your terminal
+# Run this in your terminal
 mkdir HAPPI_GWAS
 cd HAPPI_GWAS
 git clone https://github.com/Angelovici-Lab/HAPPI.GWAS.git
