@@ -3,22 +3,33 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of HAPPI.GWAS is to ...
+A genome-wide association study (GWAS) tool written in R.
 
 ## Installation
 
-You can install the released version of HAPPI.GWAS from [CRAN](https://CRAN.R-project.org) with:
+You can install the HAPPI.GWAS from [Github](https://github.com/Angelovici-Lab/HAPPI.GWAS) with:
 
 ``` r
-install.packages("HAPPI.GWAS")
+# Run this inside R environment
+install.packages("devtools", dependencies = TRUE)
+devtools::install_github("Angelovici-Lab/HAPPI.GWAS")
+```
+
+``` r
+# Run this on your terminal
+mkdir HAPPI_GWAS
+cd HAPPI_GWAS
+git clone https://github.com/Angelovici-Lab/HAPPI.GWAS.git
 ```
 
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
+This is a basic example which shows you how to use HAPPI.GWAS:
 
 ``` r
-library(HAPPI.GWAS)
-## basic example code
+cd HAPPI_GWAS/HAPPI.GWAS
+<Edit yaml file>
+Rscript setup.R
+Rscript HAPPI_GWAS.R -GAPIT -extractHaplotype -searchGenes Demo_GLM.yaml
+Rscript HAPPI_GWAS.R -GAPIT -extractHaplotype -searchGenes Demo_FarmCPU.yaml
 ```
-
