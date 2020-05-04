@@ -25,14 +25,13 @@ git clone https://github.com/Angelovici-Lab/HAPPI.GWAS.git
 ## Usage
 
 ``` r
-usage: Rscript HAPPI_GWAS.R [-h] [-cores CORES] [-generateBLUP] [-generateBLUE] [-GAPIT] [-extractHaplotype] [-searchGenes] input
+Rscript HAPPI_GWAS.R [-h] [-generateBLUP] [-generateBLUE] [-GAPIT] [-extractHaplotype] [-searchGenes] input
 
 positional arguments:
   input              Input YAML File
 
 optional arguments:
   -h, --help         show this help message and exit
-  -cores CORES       Number of processing core
   -generateBLUP      Generate BLUP data from raw data
   -generateBLUE      Generate BLUE data from raw data
   -GAPIT             Run GAPIT
