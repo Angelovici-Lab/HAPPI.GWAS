@@ -20,6 +20,8 @@ devtools::install_github("Angelovici-Lab/HAPPI.GWAS")
 mkdir HAPPI_GWAS
 cd HAPPI_GWAS
 git clone https://github.com/Angelovici-Lab/HAPPI.GWAS.git
+cd HAPPI.GWAS
+Rscript setup.R
 ```
 
 ## Usage
@@ -46,7 +48,6 @@ This is a basic example which shows you how to use HAPPI.GWAS:
 ``` r
 cd HAPPI_GWAS/HAPPI.GWAS
 <Edit yaml file>
-Rscript setup.R
 Rscript HAPPI_GWAS.R -GAPIT -extractHaplotype -searchGenes Demo_GLM.yaml
 Rscript HAPPI_GWAS.R -GAPIT -extractHaplotype -searchGenes Demo_FarmCPU.yaml
 ```
