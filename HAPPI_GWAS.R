@@ -227,8 +227,13 @@ if (!is.null(yaml_dat$GAPIT_genotype_map_numeric_filename)) {
 
 # GAPIT genotype file path
 if (!is.null(yaml_dat$GAPIT_genotype_file_path)) {
-  GAPIT_genotype_file_path <- file.path(yaml_dat$GAPIT_genotype_file_path)
+  GAPIT_genotype_file_path <- normalizePath(file.path(yaml_dat$GAPIT_genotype_file_path))
   if(dir.exists(file.path(GAPIT_genotype_file_path))){
+    GAPIT_genotype_file_path <- ifelse(
+      endsWith(GAPIT_genotype_file_path, "/"),
+      GAPIT_genotype_file_path,
+      paste0(GAPIT_genotype_file_path, "/")
+    )
     print(paste0("GAPIT_genotype_file_path: ", GAPIT_genotype_file_path))
   } else{
     print("The GAPIT_genotype_file_path parameter is a file path that does not exists.")
