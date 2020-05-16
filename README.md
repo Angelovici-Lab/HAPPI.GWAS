@@ -1,9 +1,9 @@
-# HAPPI.GWAS
+# HAPPI GWAS
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-A genome-wide association study (GWAS) tool written in R.
+HAPPI GWAS is a genome-wide association study (GWAS) tool written in R.
 
 ## Installation
 
@@ -46,7 +46,7 @@ optional arguments:
 This is a basic example which shows you how to use HAPPI.GWAS:
 
 ``` r
-cd HAPPI_GWAS/HAPPI.GWAS
+cd /path/to/HAPPI_GWAS/HAPPI.GWAS
 Rscript HAPPI_GWAS.R -GAPIT -extractHaplotype -searchGenes Demo_GLM.yaml
 Rscript HAPPI_GWAS.R -GAPIT -extractHaplotype -searchGenes Demo_FarmCPU.yaml
 ```
