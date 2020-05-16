@@ -50,3 +50,11 @@ cd /path/to/HAPPI_GWAS/HAPPI.GWAS
 Rscript HAPPI_GWAS.R -GAPIT -extractHaplotype -searchGenes Demo_GLM.yaml
 Rscript HAPPI_GWAS.R -GAPIT -extractHaplotype -searchGenes Demo_FarmCPU.yaml
 ```
+
+## Wiki
+
+[https://github.com/Angelovici-Lab/HAPPI.GWAS/wiki](https://github.com/Angelovici-Lab/HAPPI.GWAS/wiki)
+
+## Updates
+
+05-16-2020: Added wiki page 
