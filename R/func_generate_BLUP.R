@@ -3,6 +3,7 @@
 #' @description The goal of generate_BLUP is to run Best Linear Unbiased Predictions.
 #' @importFrom foreach %dopar%
 #' @importFrom magrittr %>%
+#' @importFrom data.table as.data.table
 #' @param dat An input dataset.
 #' @param by_column The accession column.
 #' @param start_column The start column index for traits.
@@ -110,7 +111,9 @@ generate_BLUP <- function(dat = NULL, by_column = c(1, 2), start_column = 3){
     transformed_out[[colnames(dat)[i]]] <- tryCatch({
       car::powerTransform(lme, family="bcPower", lambda=c(-2, 2))
     }, error = function (e){
-      car::powerTransform(lme, family="bcnPower", lambda=c(-2, 2))
+      cat(rep("\n", 2))
+      print(paste0("Lambda cannot be calculated for ", colnames(dat)[i]))
+      return(1)
     })
   }
 
@@ -119,18 +122,26 @@ generate_BLUP <- function(dat = NULL, by_column = c(1, 2), start_column = 3){
   # put lambdas in a list
   for(i in names(transformed_out)) {
     # isolate the lambda for each column in dat saved in transformed_out
-    lambda[[i]] <- (transformed_out[[i]]$lambda)
+    lambda[[i]] <- tryCatch({
+      transformed_out[[i]]$lambda
+    },error = function (e) {
+      return(transformed_out[[i]][1])
+    })
   }
 
   if(length(lambda) > 0){
     lambda <- as.data.frame(lambda)
-    temp <- lambda
+    lambda_matrix <- lambda
 
     for (i in 2:nrow(dat)) {
-      temp[i,] <- temp[i-1,]
+      lambda_matrix[i,] <- lambda_matrix[i-1,]
     }
 
-    dat[,start_column:ncol(dat)] <- dat[,start_column:ncol(dat)]^temp
+    dat[,start_column:ncol(dat)] <- ifelse(
+      lambda_matrix==0,
+      log(dat[,start_column:ncol(dat)]),
+      dat[,start_column:ncol(dat)]^lambda_matrix
+    )
   }
 
   # Re-arrange first column
