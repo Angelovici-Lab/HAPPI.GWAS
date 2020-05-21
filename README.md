@@ -51,6 +51,22 @@ Rscript HAPPI_GWAS.R -GAPIT -extractHaplotype -searchGenes Demo_GLM.yaml
 Rscript HAPPI_GWAS.R -GAPIT -extractHaplotype -searchGenes Demo_FarmCPU.yaml
 ```
 
+## Package Update
+
+To upgrade HAPPI.GWAS to the latest version, please remove the package and re-install the latest HAPPI.GWAS package:
+
+``` r
+# Run this inside R environment
+remove.packages("HAPPI.GWAS")
+devtools::install_github("Angelovici-Lab/HAPPI.GWAS")
+```
+
+``` r
+# Run this in your terminal
+cd /path/to/HAPPI_GWAS/HAPPI.GWAS
+git pull
+```
+
 ## Wiki
 
 [https://github.com/Angelovici-Lab/HAPPI.GWAS/wiki](https://github.com/Angelovici-Lab/HAPPI.GWAS/wiki)

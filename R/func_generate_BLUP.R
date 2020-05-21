@@ -107,7 +107,11 @@ generate_BLUP <- function(dat = NULL, by_column = c(1, 2), start_column = 3){
   transformed_out <- list()
   for(i in start_column:ncol(dat)){
     lme <- lme4::lmer(formula = reformulate(termlabels = termlabels, response = colnames(dat)[i]), data = dat, REML=TRUE)
-    transformed_out[[colnames(dat)[i]]] <- car::powerTransform(lme, family="bcnPower", lambda=c(-2, 2))
+    transformed_out[[colnames(dat)[i]]] <- tryCatch({
+      car::powerTransform(lme, family="bcPower", lambda=c(-2, 2))
+    }, error = function (e){
+      car::powerTransform(lme, family="bcnPower", lambda=c(-2, 2))
+    })
   }
 
   lambda <- list()
