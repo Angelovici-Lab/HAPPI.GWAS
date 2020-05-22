@@ -12,10 +12,10 @@
 #' @export
 #'
 generate_BLUP <- function(dat = NULL, by_column = c(1, 2), start_column = 3){
-  
+
   # Convert first column to character
   dat[,1] <- as.character(dat[,1])
-  
+
   # Convert the rest columns to numeric
   for (i in 2:ncol(dat)) {
     dat[,i] <- as.numeric(dat[,i])
@@ -109,8 +109,8 @@ generate_BLUP <- function(dat = NULL, by_column = c(1, 2), start_column = 3){
   for(i in start_column:ncol(dat)){
     lme <- lme4::lmer(formula = reformulate(termlabels = termlabels, response = colnames(dat)[i]), data = dat, REML=TRUE)
     transformed_out[[colnames(dat)[i]]] <- tryCatch({
-      car::powerTransform(lme, family="bcPower", lambda=c(-2, 2))
-    }, error = function (e){
+                                                      car::powerTransform(lme, family="bcPower", lambda=c(-2, 2))
+                                                    }, error = function (e){
       cat(rep("\n", 2))
       print(paste0("Lambda cannot be calculated for ", colnames(dat)[i]))
       return(1)
@@ -123,8 +123,8 @@ generate_BLUP <- function(dat = NULL, by_column = c(1, 2), start_column = 3){
   for(i in names(transformed_out)) {
     # isolate the lambda for each column in dat saved in transformed_out
     lambda[[i]] <- tryCatch({
-      transformed_out[[i]]$lambda
-    },error = function (e) {
+                              transformed_out[[i]]$lambda
+                            },error = function (e) {
       return(transformed_out[[i]][1])
     })
   }
@@ -239,5 +239,5 @@ generate_BLUP <- function(dat = NULL, by_column = c(1, 2), start_column = 3){
   } else{
     return(-1)
   }
-  
+
 }
