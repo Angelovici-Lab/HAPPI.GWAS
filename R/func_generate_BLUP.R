@@ -152,7 +152,10 @@ generate_BLUP <- function(dat = NULL, by_column = c(1, 2), start_column = 3){
   # Re-arrange row names
   row.names(dat) <- seq(from = 1, to = nrow(dat), by = 1)
 
-  boxcox_transformed_dat = dat
+  not_transform_columns <- colnames(lambda)[lambda==1]
+  lambda[lambda==1] <- NA
+
+  boxcox_transformed_dat <- dat
 
   #######################################################################
   ## generate BLUP
@@ -229,7 +232,8 @@ generate_BLUP <- function(dat = NULL, by_column = c(1, 2), start_column = 3){
         "Lambda_values" = lambda,
         "Boxcox_transformed_data" = boxcox_transformed_dat,
         "BLUP" = blup,
-        "Not_converge_columns" = not_converge_columns
+        "Not_converge_columns" = not_converge_columns,
+        "Not_transform_columns" = not_transform_columns
       )
     )
   } else{

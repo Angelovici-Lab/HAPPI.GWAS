@@ -520,6 +520,8 @@ if (generateBLUP == TRUE) {
       utils::write.csv(x = results$Lambda_values, file = file.path(folder_path, "Lambda_values.csv"), row.names = FALSE, na = "")
       utils::write.csv(x = results$Boxcox_transformed_data, file = file.path(folder_path, "Boxcox_transformed_data.csv"), row.names = FALSE, na = "")
       capture.output( results$Outliers_residuals, file = file.path(folder_path, "Outliers_residuals.txt"))
+      writeLines( paste0(paste0(results$Not_converge_columns, collapse = ", "), " do not converge."), con = file.path(folder_path, "Lines_not_converge.txt"))
+      writeLines( paste0(paste0(results$Not_transform_columns, collapse = ", "), " cannot be transformed."), con = file.path(folder_path, "Lines_not_transform.txt"))
       utils::write.csv(x = results$Outlier_data, file = file.path(folder_path, "Outlier_data.csv"), row.names = FALSE, na = "" )
       utils::write.csv( x = results$Outlier_removed_data, file = file.path(folder_path, "Outlier_removed_data.csv"), row.names = FALSE, na = "")
     } else{
@@ -555,6 +557,7 @@ if (generateBLUE == TRUE) {
       utils::write.csv(x = results$Lambda_values, file = file.path(folder_path, "Lambda_values.csv"), row.names = FALSE, na = "")
       utils::write.csv(x = results$Boxcox_transformed_data, file = file.path(folder_path, "Boxcox_transformed_data.csv"), row.names = FALSE, na = "")
       capture.output( results$Outliers_residuals, file = file.path(folder_path, "Outliers_residuals.txt"))
+      writeLines( paste0(paste0(results$Not_transform_columns, collapse = ", "), " cannot be transformed."), con = file.path(folder_path, "Lines_not_transform.txt"))
       utils::write.csv(x = results$Outlier_data, file = file.path(folder_path, "Outlier_data.csv"), row.names = FALSE, na = "" )
       utils::write.csv( x = results$Outlier_removed_data, file = file.path(folder_path, "Outlier_removed_data.csv"), row.names = FALSE, na = "")
     } else{

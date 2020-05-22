@@ -152,7 +152,10 @@ generate_BLUE <- function(dat = NULL, by_column = c(1, 2), start_column = 3){
   # Re-arrange row names
   row.names(dat) <- seq(from = 1, to = nrow(dat), by = 1)
 
-  boxcox_transformed_dat = dat
+  not_transform_columns <- colnames(lambda)[lambda==1]
+  lambda[lambda==1] <- NA
+  
+  boxcox_transformed_dat <- dat
 
   #######################################################################
   ## generate BLUE
@@ -198,15 +201,17 @@ generate_BLUE <- function(dat = NULL, by_column = c(1, 2), start_column = 3){
   blue$Line[1] = dat$Line[which(!(unique(dat[,1]) %in% blue[,1]))]
 
   blue <- blue[order(as.numeric(gsub("[[:alpha:]]", "", blue[,1]))),]
-
-
-
+  
   if(exists("blue")){
     return(
       list(
-        "Outlier_removed_data" = outlier_removed_dat, "Outlier_data" = outlier_dat, "Outliers_residuals" = outliers_residuals,
-        "Lambda_values" = lambda, "Boxcox_transformed_data" = boxcox_transformed_dat,
-        "BLUE" = blue
+        "Outlier_removed_data" = outlier_removed_dat,
+        "Outlier_data" = outlier_dat,
+        "Outliers_residuals" = outliers_residuals,
+        "Lambda_values" = lambda,
+        "Boxcox_transformed_data" = boxcox_transformed_dat,
+        "BLUE" = blue,
+        "Not_transform_columns" = not_transform_columns
       )
     )
   } else{
@@ -214,5 +219,3 @@ generate_BLUE <- function(dat = NULL, by_column = c(1, 2), start_column = 3){
   }
 
 }
-
-
