@@ -524,6 +524,23 @@ if (generateBLUP == TRUE) {
       writeLines( paste0(results$Not_transform_columns, collapse = ", "), con = file.path(folder_path, "Lines_not_transform.txt"))
       utils::write.csv(x = results$Outlier_data, file = file.path(folder_path, "Outlier_data.csv"), row.names = FALSE, na = "" )
       utils::write.csv( x = results$Outlier_removed_data, file = file.path(folder_path, "Outlier_removed_data.csv"), row.names = FALSE, na = "")
+      tryCatch({
+                 blup_numeric_frame = results$BLUP[,sapply(results$BLUP, class)=="numeric"]
+                 blup_numeric_frame = tidyr::pivot_longer(blup_numeric_frame, cols = colnames(blup_numeric_frame), names_to = "key", values_to = "value")
+
+                 p_hist <- ggplot2::ggplot(blup_numeric_frame, ggplot2::aes(value)) +
+                   ggplot2::geom_histogram(bins = 20) +
+                   ggplot2::facet_wrap(~key, scales = "free_x") +
+                   ggplot2::ggtitle("HAPPI GWAS BLUP")
+
+                 ggplot2::ggsave(
+                   filename = "BLUP_histogram.png",
+                   plot = p_hist,
+                   path = folder_path
+                 )
+               }, error = function(e){
+        print("BLUP histogram cannot be plotted!!!")
+      })
     } else{
       print("No BLUP generated!!!")
     }
@@ -560,6 +577,23 @@ if (generateBLUE == TRUE) {
       writeLines( paste0(results$Not_transform_columns, collapse = ", "), con = file.path(folder_path, "Lines_not_transform.txt"))
       utils::write.csv(x = results$Outlier_data, file = file.path(folder_path, "Outlier_data.csv"), row.names = FALSE, na = "" )
       utils::write.csv( x = results$Outlier_removed_data, file = file.path(folder_path, "Outlier_removed_data.csv"), row.names = FALSE, na = "")
+      tryCatch({
+                 blue_numeric_frame = results$BLUE[,sapply(results$BLUE, class)=="numeric"]
+                 blue_numeric_frame = tidyr::pivot_longer(blue_numeric_frame, cols = colnames(blue_numeric_frame), names_to = "key", values_to = "value")
+
+                 p_hist <- ggplot2::ggplot(blue_numeric_frame, ggplot2::aes(value)) +
+                   ggplot2::geom_histogram(bins = 20) +
+                   ggplot2::facet_wrap(~key, scales = "free_x") +
+                   ggplot2::ggtitle("HAPPI GWAS BLUE")
+
+                 ggplot2::ggsave(
+                   filename = "BLUE_histogram.png",
+                   plot = p_hist,
+                   path = folder_path
+                 )
+               }, error = function(e){
+        print("BLUE histogram cannot be plotted!!!")
+      })
     } else{
       print("No BLUE generated!!!")
     }
