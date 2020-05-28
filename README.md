@@ -69,8 +69,13 @@ git pull
 
 ## Wiki
 
-[https://github.com/Angelovici-Lab/HAPPI.GWAS/wiki](https://github.com/Angelovici-Lab/HAPPI.GWAS/wiki)
+[HAPPI GWAS Wiki Page](https://github.com/Angelovici-Lab/HAPPI.GWAS/wiki)
+
+## User Manual
+
+[HAPPI GWAS User Manual](https://github.com/Angelovici-Lab/HAPPI.GWAS/wiki)
 
 ## Updates
 
-05-16-2020: Added wiki page 
+05-28-2020: Added HAPPI GWAS user manual   
+05-16-2020: Added HAPPI GWAS wiki page 
