@@ -73,7 +73,7 @@ git pull
 
 ## User Manual
 
-[HAPPI GWAS User Manual](https://github.com/Angelovici-Lab/HAPPI.GWAS/wiki)
+[HAPPI GWAS User Manual](https://github.com/Angelovici-Lab/HAPPI.GWAS/wiki/files/user_manual/HAPPI_GWAS_manual.pdf)
 
 ## Updates
 
