@@ -170,37 +170,40 @@ generate_BLUE <- function(dat = NULL, by_column = c(1, 2), start_column = 3){
     }
   }
 
-  blue = data.frame(stringsAsFactors = FALSE)
+  blue <- data.frame(stringsAsFactors = FALSE)
 
   # fit the model
   for(i in start_column:ncol(dat)){
 
-    dat[is.infinite(dat[,i]),i] = NA
-    dat[is.nan(dat[,i]),i] = NA
+    dat[is.infinite(dat[,i]),i] <- NA
+    dat[is.nan(dat[,i]),i] <- NA
 
     lme <- lme4::lmer(formula = reformulate(termlabels = termlabels, response = colnames(dat)[i]), data = dat, REML=TRUE)
 
     # estimate BLUP
     modelblue <- lme4::fixef(lme)
     modelblue[2:length(modelblue)] = modelblue[2:length(modelblue)] + summary(lme)$coefficients[1]
-    modelblue = as.data.frame(modelblue, stringsAsFactors = FALSE)
-    colnames(modelblue)[1] = colnames(dat)[i]
+    modelblue <- as.data.frame(modelblue, stringsAsFactors = FALSE)
+    colnames(modelblue)[1] <- colnames(dat)[i]
 
-    modelblue = tibble::rownames_to_column(.data = modelblue, var = "Line")
+    modelblue <- tibble::rownames_to_column(.data = modelblue, var = "Line")
 
     if(nrow(blue) == 0){
-      blue = modelblue
+      blue <- modelblue
     } else{
-      blue = blue %>% dplyr::full_join(modelblue, by = "Line")
+      blue <- blue %>% dplyr::full_join(modelblue, by = "Line")
     }
 
   }
 
-  blue[,1] = sub("Line", "", blue[,1])
+  blue[,1] <- sub("Line", "", blue[, 1])
 
   blue$Line[1] = dat$Line[which(!(unique(dat[,1]) %in% blue[,1]))]
 
   blue <- blue[order(as.numeric(gsub("[[:alpha:]]", "", blue[,1]))),]
+
+  blue <- dplyr::distinct(blue, colnames(blue)[1], .keep_all = TRUE)
+  blue <- as.data.frame(blue, stringsAsFactors = FALSE)
 
   if(exists("blue")){
     return(
