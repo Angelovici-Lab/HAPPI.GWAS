@@ -207,7 +207,7 @@ generate_BLUE <- function(dat = NULL, by_column = c(1, 2), start_column = 3){
 
   blue <- blue[order(as.numeric(gsub("[[:alpha:]]", "", blue[,1]))),]
 
-  blue <- dplyr::distinct(blue, colnames(blue)[1], .keep_all = TRUE)
+  blue <- dplyr::distinct_at(blue, 1, .keep_all = TRUE)
   blue <- as.data.frame(blue, stringsAsFactors = FALSE)
 
   if(exists("blue")){
