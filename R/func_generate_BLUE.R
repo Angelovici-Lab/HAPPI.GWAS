@@ -198,7 +198,12 @@ generate_BLUE <- function(dat = NULL, by_column = c(1, 2), start_column = 3){
 
   blue[,1] <- sub("Line", "", blue[, 1])
 
-  blue$Line[1] = dat$Line[which(!(unique(dat[,1]) %in% blue[,1]))]
+  #blue$Line[1] = dat$Line[which(!(unique(dat[,1]) %in% blue[,1]))]
+
+  dat_line <- unique(as.character(dat[,1]))
+  blue_line <- unique(as.character(blue[,1]))
+
+  blue$Line[1] <- dat_line[!(dat_line %in% blue_line)][1]
 
   blue <- blue[order(as.numeric(gsub("[[:alpha:]]", "", blue[,1]))),]
 
