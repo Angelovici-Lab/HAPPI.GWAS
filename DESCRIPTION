@@ -51,4 +51,4 @@ Imports:
     reshape2
 Remotes:
     github::jiabowang/GAPIT3
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.1
