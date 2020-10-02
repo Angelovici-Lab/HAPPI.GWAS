@@ -36,7 +36,6 @@ Imports:
     lme4,
     scatterplot3d,
     genetics,
-    LDheatmap,
     gridExtra,
     yaml,
     bigmemory,
@@ -50,5 +49,6 @@ Imports:
     plotly,
     reshape2
 Remotes:
+    github::SFUStatgen/LDheatmap,
     github::jiabowang/GAPIT3
 RoxygenNote: 7.1.1

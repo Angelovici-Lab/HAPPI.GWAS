@@ -77,5 +77,6 @@ git pull
 
 ## Updates
 
+10-02-2020: Updated the DESCRIPTION file because LDHeatmap was removed from CRAN   
 05-28-2020: Added HAPPI GWAS user manual   
 05-16-2020: Added HAPPI GWAS wiki page 
