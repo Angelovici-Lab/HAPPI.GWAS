@@ -175,7 +175,10 @@ extract_haplotype <- function(combined_gwas_result = NULL,
 
                             # Read in LD_data and gabriel_block_string
                             if(file.exists(file.path(ld_data_save_path, paste(filename, ".LD", sep = "")))){
-                                LD_data <- try(read.table(file.path(ld_data_save_path, paste(filename, ".LD", sep = "")), check.names = FALSE, header = TRUE))
+                                LD_data <- tryCatch(
+                                  read.table(file.path(ld_data_save_path, paste(filename, ".LD", sep = "")), check.names = FALSE, header = TRUE),
+                                  error=function(e) NULL
+                                )
                             }
                             if(file.exists(file.path(haplotypes_gabriel_blocks_save_path, paste(filename, ".GABRIELblocks", sep = "")))){
                                 gabriel_block_string <- try(readLines(file.path(haplotypes_gabriel_blocks_save_path, paste(filename, ".GABRIELblocks", sep = ""))))
@@ -184,7 +187,7 @@ extract_haplotype <- function(combined_gwas_result = NULL,
                             # Make sure all the Haploview output exists in the directory and exists in the workspace as well
                             if(file.exists(file.path(ld_data_save_path, paste(filename, ".LD", sep = ""))) &
                                 file.exists(file.path(haplotypes_gabriel_blocks_save_path, paste(filename, ".GABRIELblocks", sep = ""))) &
-                                exists("LD_data") & exists("gabriel_block_string")){
+                                exists("LD_data") & exists("gabriel_block_string") & !is.null(LD_data)){
 
                                 # Make sure the LD_data and gabriel_block_string are not totally empty
                                 if(!identical(LD_data, character(0)) & !identical(gabriel_block_string, character(0))){
