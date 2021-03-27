@@ -9,12 +9,12 @@
 #' @export
 #'
 extract_haplotype <- function(combined_gwas_result = NULL,
-                                output_path = file.path("~"),
-                                Haploview_file_path = NULL, 
-                                Haploview_file_name = NULL, 
-                                Haploview_file_extension = NULL, 
-                                Haploview_file_named_sequentially_from = NULL, 
-                                Haploview_file_named_sequentially_to = NULL) {
+                              output_path = file.path("~"),
+                              Haploview_file_path = NULL,
+                              Haploview_file_name = NULL,
+                              Haploview_file_extension = NULL,
+                              Haploview_file_named_sequentially_from = NULL,
+                              Haploview_file_named_sequentially_to = NULL) {
 
     #######################################################################
     ## Initialize variables
@@ -36,8 +36,8 @@ extract_haplotype <- function(combined_gwas_result = NULL,
     haplotypes_gabriel_blocks_save_path <- file.path(output_path, "Haploview_Haplotypes_gabriel_blocks")
     gff_save_path <- file.path(output_path, "GFF")
 
-    temp <- c(auto_save_path, GAPIT_manhattan_plot_save_path, GAPIT_qq_plot_save_path, GAPIT_significant_save_path, 
-    ped_and_info_save_path, ld_data_save_path, ld_plot_save_path, haplotypes_gabriel_blocks_save_path, gff_save_path)
+    temp <- c(auto_save_path, GAPIT_manhattan_plot_save_path, GAPIT_qq_plot_save_path, GAPIT_significant_save_path,
+              ped_and_info_save_path, ld_data_save_path, ld_plot_save_path, haplotypes_gabriel_blocks_save_path, gff_save_path)
 
     for (i in 1:length(temp)) {
         if (!dir.exists(temp[i])){
@@ -52,14 +52,14 @@ extract_haplotype <- function(combined_gwas_result = NULL,
     Haploview_file_table <- NULL
     Haploview_file_table <- tryCatch({
         data.frame(
-            "Chromosome" = Haploview_file_named_sequentially_from:Haploview_file_named_sequentially_to, 
-            "File_path" = file.path(Haploview_file_path, 
-                                    paste0(Haploview_file_name, 
-                                            Haploview_file_named_sequentially_from:Haploview_file_named_sequentially_to, 
-                                            ".", 
-                                            Haploview_file_extension
-                                            )
-                                    )
+          "Chromosome" = Haploview_file_named_sequentially_from:Haploview_file_named_sequentially_to,
+          "File_path" = file.path(Haploview_file_path,
+                                  paste0(Haploview_file_name,
+                                         Haploview_file_named_sequentially_from:Haploview_file_named_sequentially_to,
+                                         ".",
+                                         Haploview_file_extension
+                                  )
+          )
         )
     }, error = function(e) {
         print("Haploview_file_table cannot be created!!!")
@@ -127,8 +127,8 @@ extract_haplotype <- function(combined_gwas_result = NULL,
                     if(nrow(haploview_ref) > 0 & haploview_ref$Chromosome[1] == as.numeric(combined_gwas_result[i, 2])){
                         # Create a temporary haploview_ref from chromosome, LD start, and LD stop
                         temp_haploview_ref <- haploview_ref[(haploview_ref$Positions >= combined_gwas_result$LD_start[i] &
-                                                                haploview_ref$Positions <= combined_gwas_result$LD_end[i] &
-                                                                haploview_ref$Chromosome == combined_gwas_result[i, 2]), ]
+                          haploview_ref$Positions <= combined_gwas_result$LD_end[i] &
+                          haploview_ref$Chromosome == combined_gwas_result[i, 2]), ]
 
                         if(nrow(temp_haploview_ref) > 0 & temp_haploview_ref$Chromosome[1] == as.numeric(combined_gwas_result[i, 2])){
                             # Put positions to info file
@@ -143,8 +143,8 @@ extract_haplotype <- function(combined_gwas_result = NULL,
                             ped <- t(ped)
 
                             filename <- paste0(combined_gwas_result$Trait[i], "_", combined_gwas_result[i,2], "_",
-                                                combined_gwas_result[i,3], "_", combined_gwas_result$LD_start[i], "-",
-                                                combined_gwas_result$LD_end[i])
+                                               combined_gwas_result[i,3], "_", combined_gwas_result$LD_start[i], "-",
+                                               combined_gwas_result$LD_end[i])
 
                             # Name ped and info file
                             ped_file_name <- paste0(filename, ".ped")
@@ -156,11 +156,11 @@ extract_haplotype <- function(combined_gwas_result = NULL,
 
                             # Prepare the Haploview command
                             ld_data_command <- paste("java -jar ", file.path(getwd(), "Haploview.jar"),
-                                                        " -n -out ", file.path(ld_data_save_path, filename),
-                                                        " -pedfile ", file.path(ped_and_info_save_path, ped_file_name),
-                                                        " -info ", file.path(ped_and_info_save_path, info_file_name),
-                                                        " -skipcheck -dprime -png -ldcolorscheme DEFAULT -ldvalues DPRIME -blockoutput GAB -minMAF 0.05",
-                                                        sep = "")
+                                                     " -n -out ", file.path(ld_data_save_path, filename),
+                                                     " -pedfile ", file.path(ped_and_info_save_path, ped_file_name),
+                                                     " -info ", file.path(ped_and_info_save_path, info_file_name),
+                                                     " -skipcheck -dprime -png -ldcolorscheme DEFAULT -ldvalues DPRIME -blockoutput GAB -minMAF 0.05",
+                                                     sep = "")
 
                             # Run Haploview
                             system(ld_data_command)
@@ -175,22 +175,28 @@ extract_haplotype <- function(combined_gwas_result = NULL,
 
                             # Read in LD_data and gabriel_block_string
                             if(file.exists(file.path(ld_data_save_path, paste(filename, ".LD", sep = "")))){
-                                LD_data <- tryCatch(
-                                  read.table(file.path(ld_data_save_path, paste(filename, ".LD", sep = "")), check.names = FALSE, header = TRUE),
-                                  error=function(e) NULL
-                                )
+                                LD_data <- tryCatch({
+                                    read.table(file.path(ld_data_save_path, paste(filename, ".LD", sep = "")), check.names = FALSE, header = TRUE)
+                                },error = function(e){
+                                    return(NULL)
+                                })
                             }
                             if(file.exists(file.path(haplotypes_gabriel_blocks_save_path, paste(filename, ".GABRIELblocks", sep = "")))){
-                                gabriel_block_string <- try(readLines(file.path(haplotypes_gabriel_blocks_save_path, paste(filename, ".GABRIELblocks", sep = ""))))
+                                gabriel_block_string <- tryCatch({
+                                    readLines(file.path(haplotypes_gabriel_blocks_save_path, paste(filename, ".GABRIELblocks", sep = "")))
+                                },error = function(e){
+                                    return(NULL)
+                                })
                             }
 
                             # Make sure all the Haploview output exists in the directory and exists in the workspace as well
                             if(file.exists(file.path(ld_data_save_path, paste(filename, ".LD", sep = ""))) &
-                                file.exists(file.path(haplotypes_gabriel_blocks_save_path, paste(filename, ".GABRIELblocks", sep = ""))) &
-                                exists("LD_data") & exists("gabriel_block_string") & !is.null(LD_data)){
+                              file.exists(file.path(haplotypes_gabriel_blocks_save_path, paste(filename, ".GABRIELblocks", sep = ""))) &
+                              exists("LD_data") & exists("gabriel_block_string")){
 
                                 # Make sure the LD_data and gabriel_block_string are not totally empty
-                                if(!identical(LD_data, character(0)) & !identical(gabriel_block_string, character(0))){
+                                if(!identical(LD_data, character(0)) & !identical(gabriel_block_string, character(0)) &
+                                  !is.null(LD_data) & !is.null(gabriel_block_string)){
                                     # Get Haploblock start and stop
                                     ld <- sort(as.double(unique(c(LD_data[,1], LD_data[,2]))))
 
@@ -220,9 +226,9 @@ extract_haplotype <- function(combined_gwas_result = NULL,
                                         # Write the Haploblock_start and Haploblock_stop that enclose the position
                                         for(m in 1:length(gbb)){
                                             if(as.double(combined_gwas_result[i,3]) >= as.double(gbb[[m]][1]) &
-                                                as.double(combined_gwas_result[i,3]) <= as.double(gbb[[m]][length(gbb[[m]])]) ){
-                                                    combined_gwas_result$Haploblock_start[i] <- as.double(gbb[[m]][1])
-                                                    combined_gwas_result$Haploblock_stop[i] <- as.double(gbb[[m]][length(gbb[[m]])])
+                                              as.double(combined_gwas_result[i,3]) <= as.double(gbb[[m]][length(gbb[[m]])]) ){
+                                                combined_gwas_result$Haploblock_start[i] <- as.double(gbb[[m]][1])
+                                                combined_gwas_result$Haploblock_stop[i] <- as.double(gbb[[m]][length(gbb[[m]])])
                                             }
                                         }
                                     }
@@ -271,13 +277,13 @@ extract_haplotype <- function(combined_gwas_result = NULL,
         # output records with 5 most frequent SNPs
         combined_gwas_result_with_most_occur = combined_gwas_result
         temp_frequent_snps = combined_gwas_result %>%
-            dplyr::select(1,2,3,4) %>%
-            tidyr::drop_na() %>%
-            dplyr::distinct() %>%
-            dplyr::group_by_at(1) %>%
-            dplyr::summarize(Count = dplyr::n()) %>%
-            dplyr::arrange(dplyr::desc(Count)) %>%
-            as.data.frame(stringsAsFactors = FALSE)
+          dplyr::select(1,2,3,4) %>%
+          tidyr::drop_na() %>%
+          dplyr::distinct() %>%
+          dplyr::group_by_at(1) %>%
+          dplyr::summarize(Count = dplyr::n()) %>%
+          dplyr::arrange(dplyr::desc(Count)) %>%
+          as.data.frame(stringsAsFactors = FALSE)
         combined_gwas_result_with_most_occur = combined_gwas_result_with_most_occur %>% dplyr::left_join(temp_frequent_snps, by = "SNP") %>% as.data.frame(stringsAsFactors = FALSE)
         if(nrow(temp_frequent_snps) > 5 & length(unique(combined_gwas_result_with_most_occur[,1]))>5){
             combined_gwas_result_with_most_occur = combined_gwas_result_with_most_occur[combined_gwas_result_with_most_occur[,1] %in% temp_frequent_snps[1:5,1],]
